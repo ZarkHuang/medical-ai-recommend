@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>選擇症狀｜AI 智慧推薦</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/pages.css">
+  </head>
+  <body>
+    <main class="wizard-page">
+      <header>
+        <h1 class="wizard-title">請選擇細部症狀(可複選)</h1>
+        <h5 class="wizard-sub-title">
+          已選擇 <span data-selected-count>0</span> 項症狀
+        </h5>
+      </header>
+      <div class="wizard-content">
+        <p class="status">資料載入中…</p>
+      </div>
+      <footer class="wizard-footer">
+        <div class="nav-buttons">
+          <button class="btn btn-secondary" type="button" data-action="prev">上一步</button>
+          <button class="btn btn-primary" type="button" data-action="recommend" disabled>開始推薦</button>
+        </div>
+      </footer>
+    </main>
+
+    <div class="analysis-overlay" role="dialog" aria-modal="true" aria-labelledby="analysis-title" hidden>
+      <div class="analysis-card">
+        <h2 id="analysis-title">AI 分析中...</h2>
+        <img class="bot" src="/assets/bot.png" alt="AI 助手">
+        <div class="loading-bar" aria-hidden="true"><span></span></div>
+        <p class="loading-desc">AI 正在分析您的症狀，請稍後···</p>
+        <div class="analysis-basis">
+          <p class="analysis-basis-title">分析依據:</p>
+          <ol>
+            <li>不適部位: <span data-analysis-part></span></li>
+            <li>主要症狀: <span data-analysis-symptoms></span></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+    <!-- <dialog class="modal-overlay">
+      <div class="modal-content">
+        <h2 id="modal-title">您選擇的症狀數量過多</h2>
+        <p>您選擇的症狀數量多於 10 項，請減少選擇的症狀數量</p>
+        <ol class="modal-list">
+        </ol>
+        <div class="modal-buttons">
+          <button class="btn btn-primary" type="button" data-action="close">關閉</button>
+        </div>
+      </div>
+    </dialog> -->
+
+    <script type="module" src="/js/pages/symptom.js"></script>
+  </body>
+</html>

@@ -1,0 +1,2796 @@
+[
+  {
+    "deptId": "1",
+    "deptName": "神經內科",
+    "deptAbout": "腦血管疾病、周邊神經疾病、癲癇、肌無力、失智症、動作障礙及巴金森病、頭暈、頭痛、自律神經失調、中風",
+    "doctorList": [
+      {
+        "doctNo": "D51440",
+        "doctName": "吳致螢Chih-Ying",
+        "doctTitle": "主任",
+        "doctAbout": "頭痛、失智症、動作障礙、中風",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51440&Docname=%E5%90%B3%E8%87%B4%E8%9E%A2Chih-Ying%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51440&Docname=%E5%90%B3%E8%87%B4%E8%9E%A2Chih-Ying%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_153606.JPG"
+      },
+      {
+        "doctNo": "D52446",
+        "doctName": "邱新藻Hsin-Tsao",
+        "doctTitle": "主治醫師",
+        "doctAbout": "邱醫師專長於一般神經性疾患、神經退化疾病,腦血管疾病。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52446&Docname=%E9%82%B1%E6%96%B0%E8%97%BBHsin-Tsao%20Chiu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52446&Docname=%E9%82%B1%E6%96%B0%E8%97%BBHsin-Tsao%20Chiu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200922_153216.JPG"
+      },
+      {
+        "doctNo": "D00742",
+        "doctName": "楊依倩Yi-Chien",
+        "doctTitle": "主治醫師",
+        "doctAbout": "一般神經科、頭暈、腦血管疾病、失智症、癲癇疾病、頭痛、動作障礙、周邊神經病變、失眠症",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00742&Docname=%E6%A5%8A%E4%BE%9D%E5%80%A9Yi-Chien%20Yang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00742&Docname=%E6%A5%8A%E4%BE%9D%E5%80%A9Yi-Chien%20Yang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_153701.JPG"
+      }
+    ]
+  },
+  {
+    "deptId": "2",
+    "deptName": "心臟內科",
+    "deptAbout": "高血壓、糖尿病、高血脂、胸痛、心律不整、心衰竭、心絞痛、心肌梗塞、心瓣膜疾病",
+    "doctorList": [
+      {
+        "doctNo": "D00133",
+        "doctName": "王宇澄Yu-Cheng",
+        "doctTitle": "內科部主任",
+        "doctAbout": "王宇澄醫師現為亞洲大學附屬醫院內科部主任兼心臟科主任，同時是亞洲大學醫學檢驗暨生物技術學系副教授。王醫師專長於心血管疾病導管介入與藥物治療、心臟衰竭與各種心律不整之藥物治療、與三高慢性病(高血壓、糖尿病、高血脂)之預防與控制，並積極參與國內心臟學會目前各種心血管疾病治療指南的撰寫與修訂。希望能透過全方位的預防與照護，有效提升各種心血管疾病的預後，以減輕病患痛苦，延長病人壽命。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00133&Docname=%E7%8E%8B%E5%AE%87%E6%BE%84Yu-Cheng%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00133&Docname=%E7%8E%8B%E5%AE%87%E6%BE%84Yu-Cheng%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240819_100952.png"
+      },
+      {
+        "doctNo": "D00209",
+        "doctName": "黃國書Kok-Suh",
+        "doctTitle": "心導管室主任",
+        "doctAbout": "黃國書醫師專長各種心臟疾病的診斷，心血管藥物治療及心導管介入治療。尤其以心導管介入治療冠狀動脈、頸動脈及周邊血管的疾病。黃醫師對於三高、胸痛、心臟衰竭及心律不整也有相當深入的研究。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00209&Docname=%E9%BB%83%E5%9C%8B%E6%9B%B8Kok-Suh%20Wong",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00209&Docname=%E9%BB%83%E5%9C%8B%E6%9B%B8Kok-Suh%20Wong",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190819_135843.JPG"
+      },
+      {
+        "doctNo": "D00210",
+        "doctName": "張育晟Yu-Cheng",
+        "doctTitle": "週邊血管科主任",
+        "doctAbout": "張育晟醫師於北部接受完整內科專科訓練後，回到家鄉台中繼續完成心臟專科醫師訓練，針對心律不整和心血管疾病危險因子（高血壓、高血脂症、糖尿病），都能提供個人化預防建議與治療。對於心臟衰竭，心肌梗塞，慢性缺血性心臟病，及周邊血管阻塞（包含傷口癒合不良，活動時腿部和臀部痙攣或疲勞，而無法行走）的病患，張醫師擅長使用藥物\r\n搭配必要的心導管治療（打通阻塞的心臟或周邊血管），提高病人生活品質及存活率。加護病房重症病人治療也是擁有重症醫學會專科醫師執照的張醫師最為專注的醫療重點，透過運用各種最新的積極治療策略及設備，能讓重症病人有最大的生存和復原的機會。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00210&Docname=%E5%BC%B5%E8%82%B2%E6%99%9FYu-Cheng%20Chang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00210&Docname=%E5%BC%B5%E8%82%B2%E6%99%9FYu-Cheng%20Chang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190819_140026.JPG"
+      },
+      {
+        "doctNo": "D00802",
+        "doctName": "潘泓智Hung-Chih",
+        "doctTitle": "心臟檢查室主任",
+        "doctAbout": "潘泓智醫師自2008年起於台中榮民總醫院接受完整內科及心臟內科訓練，並於2015年升任榮總心血管中心主治醫師，於2017回鄉於本院心臟內科服務。潘醫師專長為冠狀動脈疾病之心導管手術及心瓣膜心肌疾病之超音波診斷。對於心衰竭、心律不整及三高（高血壓、糖尿病、高血脂）的藥物治療，也有相當程度的鑽研。希望能對有胸悶、氣喘、心悸等症狀的病友，找出正確的診斷並給予最合適的治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00802&Docname=%E6%BD%98%E6%B3%93%E6%99%BAHung-Chih%20Pan",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00802&Docname=%E6%BD%98%E6%B3%93%E6%99%BAHung-Chih%20Pan",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_160002.JPG"
+      },
+      {
+        "doctNo": "D51625",
+        "doctName": "許楹奇Ying-Chi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "許楹奇醫師專長為各種心血管疾病的診斷與治療，包括缺血性心臟病、心臟衰竭、瓣膜性心臟病、心律不整以及心導管介入術，亦鑽研高血壓、高血脂症、糖尿病等一般內科醫學慢性病，以達完整成人預防保健。許醫師也專精於心臟科急重症病患的照護，為重症醫學會會員。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51625&Docname=%E8%A8%B1%E6%A5%B9%E5%A5%87Ying-Chi%20Hsu%20%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51625&Docname=%E8%A8%B1%E6%A5%B9%E5%A5%87Ying-Chi%20Hsu%20%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_152714.JPG"
+      },
+      {
+        "doctNo": "D52894",
+        "doctName": "施榮彰Jung-Chang",
+        "doctTitle": "主治醫師",
+        "doctAbout": "施榮彰醫師於台南奇美醫院接受完整內科專科、心臟血管內科專科訓練後，之後返回中部服務。專長為成人心臟疾病及一般內科，包含高血壓、高血脂、心臟衰竭、結構性心臟病、冠狀動脈疾病、心律不整、肺動脈高壓等，也對於心臟超音波診斷、心導管介入治療有相當的研究。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52894&Docname=%E6%96%BD%E6%A6%AE%E5%BD%B0Jung-Chang%20Shih",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52894&Docname=%E6%96%BD%E6%A6%AE%E5%BD%B0Jung-Chang%20Shih",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20220825_085602.jpg"
+      },
+      {
+        "doctNo": "180139",
+        "doctName": "朱永譁Yung-Hua",
+        "doctTitle": "主治醫師",
+        "doctAbout": "ㄧ般內科\r\n高血壓\r\n冠心症、心律不整、心臟相關疾病及週邊血管疾病\r\n心臟超音波\r\n心導管檢查及治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180139&Docname=%E6%9C%B1%E6%B0%B8%E8%AD%81Yung-Hua%20Chu%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180139&Docname=%E6%9C%B1%E6%B0%B8%E8%AD%81Yung-Hua%20Chu%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20231222_154703.png"
+      },
+      {
+        "doctNo": "180172",
+        "doctName": "陳彥旭Yen-",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳彥旭醫師於台中榮民總醫院接受完整內科及心臟內科的訓練，取得心臟內科專科醫師資格後於2016年至台中榮總埔里分院擔任主治醫師服務偏鄉民眾，並於2021年回到台中榮總心血管中心擔任主治醫師。陳醫師專長為高血壓、高血脂、糖尿病、心絞痛、心律不整、心臟衰竭、瓣膜性心臟病的檢查、診斷及治療，另外亦專長以心導管手術治療心臟冠狀動脈、周邊動脈血管之狹窄、阻塞，希望在現今高齡化的社會中，治療因心臟方面問題引發的喘、胸悶痛、心悸、下肢疼痛不良於行等病徵，造福鄉里。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180172&Docname=%E9%99%B3%E5%BD%A5%E6%97%ADYen-%20Hsu%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180172&Docname=%E9%99%B3%E5%BD%A5%E6%97%ADYen-%20Hsu%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240319_164840.jpg"
+      },
+      {
+        "doctNo": "180371",
+        "doctName": "郭勛南Xun-nan",
+        "doctTitle": "Guo  主治醫師",
+        "doctAbout": "郭勛南醫師在國軍台中總醫院接受完整的內科訓練後，於台中榮民總醫院接受心臟內科次專科訓練，退伍後於員林地區員榮醫院擔任心臟內科主任。郭醫師專長於心臟血管重症護者的照顧和併發症的處理，以及急慢性心肌梗塞或心血管周邊血管狹窄的手術治療，另外亦擅長慢性高血壓、糖尿病、高血脂、心律不整的診斷治療及體重控制。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180371&Docname=%E9%83%AD%E5%8B%9B%E5%8D%97Xun-nan%20%20Guo",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180371&Docname=%E9%83%AD%E5%8B%9B%E5%8D%97Xun-nan%20%20Guo",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250113_132148.jpg"
+      },
+      {
+        "doctNo": "D52111",
+        "doctName": "吳宏彬Hung-Pin",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳宏彬醫師專長於心律不整的治療及心臟影像學的診斷；吳醫師在心律不整治療，使用心導管高頻燒灼手術，結合3D 立體定位系統，處理快速頻脈；在植入性心臟電子裝置，如心臟節律器、自動去顫器以及雙心室同步調律器也有許多經驗；吳醫師於心臟超音波也有所鑽研，除一般心臟病診斷外，也常藉助壓力性超音波早期診斷冠心病或困難性瓣膜疾病等等。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52111&Docname=%E5%90%B3%E5%AE%8F%E5%BD%ACHung-Pin%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52111&Docname=%E5%90%B3%E5%AE%8F%E5%BD%ACHung-Pin%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20220217_164505.jpg"
+      },
+      {
+        "doctNo": "D52010",
+        "doctName": "莊傑貿Chieh-Mao",
+        "doctTitle": "主治醫師",
+        "doctAbout": "莊傑貿是心臟電生理暨介入專科醫師及兒童心臟科主治醫師，從成人至兒童心律不整、先天性或結構性心臟病，都可以提供最適合及最即時的醫療照護，特別是各式心律不整相關導管治療(心房顫動、心室早期收縮及各種陣發性心搏過速等)及節律器/去顫器/心臟再同步裝置經導管植入，以及各類結構性心臟病及先天性心臟病的心導管治療及診斷。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52010&Docname=%E8%8E%8A%E5%82%91%E8%B2%BFChieh-Mao%20Chuang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52010&Docname=%E8%8E%8A%E5%82%91%E8%B2%BFChieh-Mao%20Chuang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190114_170305.JPG"
+      }
+    ]
+  },
+  {
+    "deptId": "3",
+    "deptName": "新聞中心",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "5",
+    "deptName": "胸腔內科",
+    "deptAbout": "咳嗽、氣喘、肺炎、支氣管炎、肺腫瘤、肺氣腫、肺結核、胸悶、胸痛、肺阻塞",
+    "doctorList": [
+      {
+        "doctNo": "D00205",
+        "doctName": "黃建文Chien-Wen",
+        "doctTitle": "主任秘書及胸腔暨重症醫學副院長",
+        "doctAbout": "阻塞性呼吸道疾病、肺部感染症、肺部惡性腫瘤、急性呼吸窘迫症、敗血症及急性呼吸衰竭、睡眠呼吸中止症",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00205&Docname=%E9%BB%83%E5%BB%BA%E6%96%87Chien-Wen%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00205&Docname=%E9%BB%83%E5%BB%BA%E6%96%87Chien-Wen%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201123_131150.jpg"
+      },
+      {
+        "doctNo": "D00375",
+        "doctName": "林育生Yu-Sheng",
+        "doctTitle": "胸腔科主任",
+        "doctAbout": "急慢性咳嗽、咳血、胸痛、氣喘、慢性阻塞性肺病、支氣管擴張症、肺部感染症、結核病、肺部惡性腫瘤、重症醫學(敗血症，呼吸衰竭…等)。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00375&Docname=%E6%9E%97%E8%82%B2%E7%94%9FYu-Sheng%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00375&Docname=%E6%9E%97%E8%82%B2%E7%94%9FYu-Sheng%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_162332.JPG"
+      },
+      {
+        "doctNo": "D00374",
+        "doctName": "戴芳銓Fang-Chuan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "胸腔暨重症醫學、肺癌、慢性組塞性肺病、氣喘、肺炎、慢性咳嗽、咳血、胸悶、肺結核、一般內科醫學",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00374&Docname=%E6%88%B4%E8%8A%B3%E9%8A%93Fang-Chuan%20Tai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00374&Docname=%E6%88%B4%E8%8A%B3%E9%8A%93Fang-Chuan%20Tai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_162229.JPG"
+      },
+      {
+        "doctNo": "D52215",
+        "doctName": "陳鈴宜Ling-Yi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳醫師畢業後於台中榮民總醫院接受完整胸腔暨重症專科訓練, 對於慢性阻塞性肺病與氣喘患者, 提供肺功能評估, 完整藥物衛教與追蹤, 甚至擬定個人化肺復健計畫. 對於肺感染症(包含肺炎與肺結核感染)與肺惡性腫瘤疾病患者, 提供即時診斷與藥物治療. 對於呼吸胸腔重症疾病亦有相當臨床照護經驗. 期待以用心傾聽, 耐心說明與診治衛教,繼續提供民眾最佳個人化醫療服務, 使患者都能健康和樂.",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52215&Docname=%E9%99%B3%E9%88%B4%E5%AE%9CLing-Yi%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52215&Docname=%E9%99%B3%E9%88%B4%E5%AE%9CLing-Yi%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190923_101024.JPG"
+      },
+      {
+        "doctNo": "D52640",
+        "doctName": "謝逸安Yi-An",
+        "doctTitle": "主治醫師",
+        "doctAbout": "呼吸道疾病(氣喘、慢性肺阻塞)、呼吸道感染症、重症照護、胸腔超音波、支氣管鏡檢",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52640&Docname=%E8%AC%9D%E9%80%B8%E5%AE%89Yi-An%20Hsieh",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52640&Docname=%E8%AC%9D%E9%80%B8%E5%AE%89Yi-An%20Hsieh",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210823_101604.jpg"
+      },
+      {
+        "doctNo": "D52642",
+        "doctName": "沈易綸Yi-Luen",
+        "doctTitle": "主治醫師",
+        "doctAbout": "沈易綸醫師在臺北榮總接受完整的內科和胸腔內科訓練。現任於胸腔內科主治醫師和加護病房專責醫師。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52642&Docname=%E6%B2%88%E6%98%93%E7%B6%B8Yi-Luen%20Shen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52642&Docname=%E6%B2%88%E6%98%93%E7%B6%B8Yi-Luen%20Shen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210818_155600.jpg"
+      },
+      {
+        "doctNo": "D14195",
+        "doctName": "莊銘隆Ming-Lung",
+        "doctTitle": "教授主治醫師",
+        "doctAbout": "氣喘、氣管炎、呼吸道感染、肺炎、咳嗽、多痰、胸悶、喘呼吸不順、動就喘、缺氧、胸腔保健、肺復健運動訓練(改善體力)、心肺運動檢查、各種感染症、睡眠呼吸暫停症、胸腔腫瘤、疑難雜症",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D14195&Docname=%E8%8E%8A%E9%8A%98%E9%9A%86Ming-Lung%20Chuang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D14195&Docname=%E8%8E%8A%E9%8A%98%E9%9A%86Ming-Lung%20Chuang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250321_162100.png"
+      },
+      {
+        "doctNo": "180860%20%20",
+        "doctName": "謝景吉",
+        "doctTitle": "主治醫師",
+        "doctAbout": "氣喘、慢性阻塞性肺病、肺結核、肺炎、咳嗽、肺癌、高壓氧治療、重症醫學、門診戒菸",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180860%20%20&Docname=%E8%AC%9D%E6%99%AF%E5%90%89%20Jing%20Ji-Hsieh",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180860%20%20&Docname=%E8%AC%9D%E6%99%AF%E5%90%89%20Jing%20Ji-Hsieh",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260612_112801.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "6",
+    "deptName": "腸胃肝膽科",
+    "deptAbout": "B型肝炎、C型肝炎、肝硬化、消化性潰瘍、胃腸出血、腹痛、肝膽結石、大腸癌糞便潛血篩檢",
+    "doctorList": [
+      {
+        "doctNo": "D50988",
+        "doctName": "陳政國Cheng-Kuo",
+        "doctTitle": "胃腸肝膽科主任",
+        "doctAbout": "陳政國醫師在中國醫藥大學附設醫院內科部消化系接受完整的內科及消化系專科訓練，曾任台中培德醫院肝炎專任醫師，治療慢性C型肝炎干擾素有超過500例治療經驗。於消化道癌症治療經驗豐富，曾任中國醫大附醫食道癌，肝癌，大腸癌團隊治療醫師。於高階診斷性治療性內視鏡，如內視鏡超音波(EUS)，內視鏡黏膜下腫瘤切除術(ESD)， 腸道支架亦接受國內外完整訓練及具相當臨床經驗及數量，並多次於消化系醫學會報告最新成果。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D50988&Docname=%E9%99%B3%E6%94%BF%E5%9C%8BCheng-Kuo%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D50988&Docname=%E9%99%B3%E6%94%BF%E5%9C%8BCheng-Kuo%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_110808.JPG"
+      },
+      {
+        "doctNo": "D00207",
+        "doctName": "陳家禹Chia-Yu",
+        "doctTitle": "內視鏡室主任",
+        "doctAbout": "各種胃腸道疾病及肝膽疾病之診斷與治療，例如 : 腹痛、消化不良、便秘、腹瀉、胃食道逆流、胃潰瘍、十二指腸潰瘍、大腸息肉、腸躁症、常見肝膽疾病等。 \r\n執行腹部超音波、胃鏡、大腸鏡、內視鏡止血術及息肉切除術等治療性內視鏡檢查。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00207&Docname=%E9%99%B3%E5%AE%B6%E7%A6%B9Chia-Yu%20Chen%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00207&Docname=%E9%99%B3%E5%AE%B6%E7%A6%B9Chia-Yu%20Chen%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_164641.JPG"
+      },
+      {
+        "doctNo": "D15150",
+        "doctName": "林賢平Hsien-Ping",
+        "doctTitle": "主治醫師",
+        "doctAbout": "專門於膽道結石與膽道腫瘤的內視鏡治療，專門於肝癌的腫瘤燒灼治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D15150&Docname=%E6%9E%97%E8%B3%A2%E5%B9%B3Hsien-Ping%20Lin%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D15150&Docname=%E6%9E%97%E8%B3%A2%E5%B9%B3Hsien-Ping%20Lin%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240207_150001.JPG"
+      },
+      {
+        "doctNo": "D00181",
+        "doctName": "林佑達Yu-Ta",
+        "doctTitle": "主治醫生",
+        "doctAbout": "林佑達醫師專長於胃腸肝膽疾病之中西醫整合治療諮詢。以及各種胃腸道疾病及肝膽疾病相關診治，執行腹部超音波、胃鏡、內視鏡止血術、診斷性大腸鏡及大腸息肉切除術等內視鏡檢查。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00181&Docname=%E6%9E%97%E4%BD%91%E9%81%94Yu-Ta%20Lin%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00181&Docname=%E6%9E%97%E4%BD%91%E9%81%94Yu-Ta%20Lin%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_164057.JPG"
+      },
+      {
+        "doctNo": "D00853",
+        "doctName": "江承源Cheng-Yuan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "各種胃腸道疾病及肝膽疾病：腹痛、便祕／腹瀉、胃食道逆流、胃及十二指腸潰瘍、腸躁症、常見之肝膽疾病等。\r\n腹部超音波、胃鏡、大腸鏡檢查、內視鏡治療－止血及息肉切除。\r\n各種慢性肝炎，Ｂ型肝炎／Ｃ型肝炎／酒精性及其他肝炎追蹤治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00853&Docname=%E6%B1%9F%E6%89%BF%E6%BA%90Cheng-Yuan%20Jiang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00853&Docname=%E6%B1%9F%E6%89%BF%E6%BA%90Cheng-Yuan%20Jiang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_110643.JPG"
+      },
+      {
+        "doctNo": "D51221",
+        "doctName": "曾晟恩Cheng-En",
+        "doctTitle": "主治醫師",
+        "doctAbout": "胃腸肝膽疾病之整合治療諮詢,胃腸道疾病及肝膽疾病相關診治，例如:腹痛、消化不良、便秘、腹瀉、胃食道逆流、胃潰瘍、十二指腸潰瘍、大腸息肉、腸躁症、常見肝膽疾病、急慢性肝炎等疾病,執行腹部超音波、胃鏡、內視鏡止血術、診斷性大腸鏡及大腸息肉切除術等內視鏡檢查。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51221&Docname=%E6%9B%BE%E6%99%9F%E6%81%A9Cheng-En%20Tseng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51221&Docname=%E6%9B%BE%E6%99%9F%E6%81%A9Cheng-En%20Tseng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190923_141634.JPG"
+      },
+      {
+        "doctNo": "D51812",
+        "doctName": "許樹湖Shu-Hu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "許樹湖醫師在中國醫藥大學附設醫院內科部接受完整的內科及消化系專科訓練。專長於各種胃腸道疾病及肝膽疾病之診斷與治療，例如:胃食道逆流、胃潰瘍、十二指腸潰瘍、便祕、大腸息肉、B型肝炎、C型肝炎、脂肪肝等病症。並且擅長於內視鏡止血術、息肉切除術、消化道金屬支架置放及逆行性內視鏡膽胰管檢查等治療性內視鏡。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51812&Docname=%E8%A8%B1%E6%A8%B9%E6%B9%96Shu-Hu%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51812&Docname=%E8%A8%B1%E6%A8%B9%E6%B9%96Shu-Hu%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20181025_142938.jpg"
+      },
+      {
+        "doctNo": "180855",
+        "doctName": "洪弘昌Hung-Chang",
+        "doctTitle": "教授主治醫師",
+        "doctAbout": "",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180855&Docname=%E6%B4%AA%E5%BC%98%E6%98%8CHung-Chang%20Hung",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180855&Docname=%E6%B4%AA%E5%BC%98%E6%98%8CHung-Chang%20Hung",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260610_114330.png"
+      }
+    ]
+  },
+  {
+    "deptId": "7",
+    "deptName": "腎臟內科",
+    "deptAbout": "尿蛋白、血尿、腰痛、慢性腎病、透析相關疾病、水腫",
+    "doctorList": [
+      {
+        "doctNo": "D00134",
+        "doctName": "周哲毅Che-Yi",
+        "doctTitle": "教學暨研究副院長",
+        "doctAbout": "副院長兼腎臟科主任，亞洲大學教授，英國雪菲爾大學醫學博士，中國醫藥大學醫學系。專長包括腹膜透析，不住院也能開始腹膜透析，提昇生活品質。慢性腎病保健及治療，糖尿病，多囊腎，高效能血液透析，血液淨化治療高血脂及免疫疾病，中醫合作治療腎臟病，尿路感染，電解質問題，毒物，腎炎，罕見疾病。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00134&Docname=%E5%91%A8%E5%93%B2%E6%AF%85Che-Yi%20Chou%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00134&Docname=%E5%91%A8%E5%93%B2%E6%AF%85Che-Yi%20Chou%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_113834.JPG"
+      },
+      {
+        "doctNo": "D00208",
+        "doctName": "林崇智Chung-Chih",
+        "doctTitle": "內科部副主任兼腎臟科主任",
+        "doctAbout": "內科部副主任兼腎臟科主任。專長於腎臟醫學、高血壓及糖尿病腎病變整合治療、複雜泌尿道感染、血尿、蛋白尿及腎絲球炎診斷治療、慢性腎臟病、血液透析、 腹膜透析植管及腹膜透析治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00208&Docname=%E6%9E%97%E5%B4%87%E6%99%BAChung-Chih%20Lin%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00208&Docname=%E6%9E%97%E5%B4%87%E6%99%BAChung-Chih%20Lin%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_113704.JPG"
+      },
+      {
+        "doctNo": "D00182",
+        "doctName": "林軒任Hsuan-Jen",
+        "doctTitle": "腹膜透析室主任",
+        "doctAbout": "充滿活力及笑容的林軒任醫師，以淺顯易懂的方式衛教，讓患者能夠了解病情，面對疾病，陪伴病人走過腎臟病及內科疾病的困頓。於臨床多年發現許多腎臟病患者由於不正確的資訊自行買藥造成腎臟病惡化，開始發展傳播正確醫學常識的衛教頻道，如引人入腎網站（drelilin.com），以及用聲音衛教的播客（podcast：引人入腎），期許能夠減少醫病之間的常識差距，讓大家培養腎利思維，擁有幸福人生。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00182&Docname=%E6%9E%97%E8%BB%92%E4%BB%BBHsuan-Jen%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00182&Docname=%E6%9E%97%E8%BB%92%E4%BB%BBHsuan-Jen%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_161033.JPG"
+      },
+      {
+        "doctNo": "D51052",
+        "doctName": "陳虹志Hung-Chih",
+        "doctTitle": "血液透析室主任",
+        "doctAbout": "陳虹志醫師畢業於中國醫藥大學，於中國醫藥大學附設醫院完成內科專科醫師與腎臟科專科醫師訓練，擅長處理國人常見代謝症候群（高血壓、高血糖、高血脂）治療、慢性腎臟病追蹤與腎臟透析治療（血液透析、腹膜透析），於蛋白尿、腎絲球腎炎、電解質異常與內科急重症連續血液透析有濃厚興趣與經驗。另熱衷於學術研究與教學，於慢性腎臟病進展、透析患者血管鈣化與腹膜透析細菌分析研究有國際學術論文著作。擅長非侵入性血管超音波檢查，如四肢動靜脈血管超音波檢查，肢動脈硬化、靜脈血栓與下肢靜脈瓣逆流檢查，洗腎廔管超音波檢查流量評估。另也擅長侵入性檢查治療:如腎臟切片檢查、腎臟科腹膜透析內科植管、超音波導引血管通路置放與希氏導管置放手術。國人腎臟病最常見的原因仍為糖尿病、高血壓，應預防疾病於未然，亞洲大學附設醫院腎臟科提供完整慢性病諮詢與照護，若需透析治療也有強大的血液透析與腹膜透析護理團隊提供完整關懷與照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51052&Docname=%E9%99%B3%E8%99%B9%E5%BF%97Hung-Chih%20Chen%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51052&Docname=%E9%99%B3%E8%99%B9%E5%BF%97Hung-Chih%20Chen%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190517_110516.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "8",
+    "deptName": "過敏免疫風濕科",
+    "deptAbout": "各種關節炎、免疫疾病、過敏及皮膚免疫疾病",
+    "doctorList": [
+      {
+        "doctNo": "D00010",
+        "doctName": "蔡肇基Jaw-Ji",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "皮膚及鼻子過敏、氣喘、自體免疫症及紅斑狼瘡、痛風及類風濕關節炎",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00010&Docname=%E8%94%A1%E8%82%87%E5%9F%BAJaw-Ji%20Tsai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00010&Docname=%E8%94%A1%E8%82%87%E5%9F%BAJaw-Ji%20Tsai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_163440.jpg"
+      },
+      {
+        "doctNo": "D8016",
+        "doctName": "黃柏豪Po-Hao",
+        "doctTitle": "主治醫師",
+        "doctAbout": "黃柏豪醫師於中國醫藥大學附設醫院接受完整的內科專科以及風濕免疫科次專科醫師訓練，專長於各種風濕疾病，如紅斑性狼瘡，類風濕關節炎，僵直性脊椎炎，痛風等等。並於探查關節軟組織的利器 -- 軟組織超音波上有所專精，曾為中國醫藥大學附設醫院風濕免疫科超音波檢查室負責人，已取得歐洲風濕醫學會認證之軟組織超音波教師資格(EULAR teach to the teacher)，並也是中華民國風濕病醫學會之骨骼肌肉超音波教科書撰寫群之一。且熱忱於教學，目前具有 PGY 導師資格，也通過國家 OSCE 考官認證，常常為國家 OSCE出考題，熱衷於教學。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D8016&Docname=%E9%BB%83%E6%9F%8F%E8%B1%AAPo-Hao%20Huang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D8016&Docname=%E9%BB%83%E6%9F%8F%E8%B1%AAPo-Hao%20Huang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20241018_090940.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "9",
+    "deptName": "新陳代謝科",
+    "deptAbout": "糖尿病、甲狀腺疾病、高血脂症、內分泌異常",
+    "doctorList": [
+      {
+        "doctNo": "D00141",
+        "doctName": "陳榮興Rong-Hshing",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳榮興醫師的專長在新陳代謝疾病包括糖尿病、甲狀腺疾病、腦下垂體疾病及各種內分泌疾病的診治。新陳代謝症候群是一群內科代謝疾病的泛稱，它與好幾個內科重要疾病，如高血壓、糖尿病、肥胖等有關，可說是這些疾病的大集合 。由於遺傳是這些新陳代謝疾病最重要的影響因素，因此，一般人如果家族有相關疾病患者，在 35-40 歲左右就應接受特別的篩檢，及早開始預防，或許可以避免相關疾病的發生",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00141&Docname=%E9%99%B3%E6%A6%AE%E8%88%88Rong-Hshing%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00141&Docname=%E9%99%B3%E6%A6%AE%E8%88%88Rong-Hshing%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_154230.jpg"
+      },
+      {
+        "doctNo": "D52455",
+        "doctName": "陳信宏",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳醫師專長於糖尿病、高血脂、高血壓、甲狀腺疾病、痛風及高尿酸疾病、骨質疏鬆症、新陳代謝症候群、相關內分泌疾病、一般內科疾病、肥胖",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52455&Docname=%E9%99%B3%E4%BF%A1%E5%AE%8F%20Hsin-Hung%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52455&Docname=%E9%99%B3%E4%BF%A1%E5%AE%8F%20Hsin-Hung%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200904_083451.jpg"
+      },
+      {
+        "doctNo": "D52429",
+        "doctName": "黃國欽Kuo-Chin",
+        "doctTitle": "主治醫師",
+        "doctAbout": "黃國欽醫師為國內少見兼具中西醫執照之內科暨內分泌新陳代謝科專科醫師。融合傳統中醫辨證治療、體質調理與實證新知，協同現代西醫治療處置規範，可提供病患更多的治療選擇與更令人滿意的療效。黃醫師態度親切，關心患者的各別差異，對於各種治療選擇的可行性與利弊得失能給予詳細易懂解說，並尊重患者的選擇權。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52429&Docname=%E9%BB%83%E5%9C%8B%E6%AC%BDKuo-Chin%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52429&Docname=%E9%BB%83%E5%9C%8B%E6%AC%BDKuo-Chin%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210809_133756.jpg"
+      },
+      {
+        "doctNo": "D00142",
+        "doctName": "王子源Tzu-Yuan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "王子源醫師是新陳代謝科的資深主治醫師。王醫師尤其是內分泌高血壓的專家，擅長診治各種難以控制的高血壓。王醫師診治的專長領域包括各種內分泌疾病: 1) 糖尿病 (新型口服降血糖藥、強化胰島素及胰島素幫浦的治療)；2) 甲狀腺疾病 (甲狀腺機能失常、甲狀腺癌、甲狀腺炎)；3) 副甲狀腺疾病；4) 腎上腺疾病及相關內分泌高血壓；5) 高血脂；6) 腦下腺疾病；7) 電解值不平衡 (低血鉀、低血鈉)。王醫師尤其是內分泌高血壓的專家，擅長診治各種難以控制的高血壓",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00142&Docname=%E7%8E%8B%E5%AD%90%E6%BA%90Tzu-Yuan%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00142&Docname=%E7%8E%8B%E5%AD%90%E6%BA%90Tzu-Yuan%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180525_165837.jpg"
+      },
+      {
+        "doctNo": "D27147",
+        "doctName": "李蘊琪Yun-Chi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "李蘊琪醫師為中國醫藥大學附設醫院新陳代謝科主治醫師，自住院醫師起於中國附醫接受完整的內科專科醫師訓練及新陳代謝科訓練，於臨床醫療照護有熱忱又細心，擅長於：(1)糖尿病、妊娠糖尿病及相關併發症如高血脂、高血壓、高尿酸、代謝症候群等代謝性疾病；(2)肥胖及糖胖症；(3)甲狀腺疾病、甲狀腺超音波 (4)副甲狀腺疾病 (5)腎上腺疾病 (6腦下垂體疾病 (7)內分泌高血壓 (8)骨質疏鬆症等等",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D27147&Docname=%E6%9D%8E%E8%98%8A%E7%90%AAYun-Chi%20Lee",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D27147&Docname=%E6%9D%8E%E8%98%8A%E7%90%AAYun-Chi%20Lee",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240731_162124.png"
+      }
+    ]
+  },
+  {
+    "deptId": "10",
+    "deptName": "血液科及腫瘤內科",
+    "deptAbout": "急性白血病、白血球、血小板異常固態腫瘤：不明腫塊、頸部腫塊及乳癌、胰臟癌、肺癌、腸癌、胃癌、膽道相關癌症之治療、胃腸道基質瘤(GIST)、神經內分泌腫瘤(NET)、甲狀腺癌",
+    "doctorList": [
+      {
+        "doctNo": "D00008",
+        "doctName": "黃文豊Wen-Li",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "黃文豊醫師為亞大醫院癌症中心顧問醫師，曾任台中榮總血液腫瘤科主任及國防醫學院臨床教授。秉持「以病人為中心」的醫療理念，研究領域非常廣泛，也曾榮獲「百大良醫」，專業備受肯定。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00008&Docname=%E9%BB%83%E6%96%87%E8%B1%8AWen-Li%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00008&Docname=%E9%BB%83%E6%96%87%E8%B1%8AWen-Li%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_155601.JPG"
+      },
+      {
+        "doctNo": "D7995",
+        "doctName": "謝清昀Ching-Yun",
+        "doctTitle": "血液腫瘤科主任暨癌症中心主任",
+        "doctAbout": "謝清昀醫師現為中國醫藥大學附設醫院血液腫瘤主治醫師。 臨床研究興趣主要範圍為腦部腫瘤,頭頸部腫瘤及淋巴癌。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D7995&Docname=%E8%AC%9D%E6%B8%85%E6%98%80Ching-Yun%20Hsieh",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D7995&Docname=%E8%AC%9D%E6%B8%85%E6%98%80Ching-Yun%20Hsieh",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250728_170227.jpg"
+      },
+      {
+        "doctNo": "D27250",
+        "doctName": "賴彥廷Yen-Ting",
+        "doctTitle": "主治醫師",
+        "doctAbout": "賴彥廷醫師畢業於中國醫藥大學，並於中山醫學大學附設醫院完成不分科及內科住院醫師訓練，後續於血液腫瘤科擔任研究總醫師，接受完整之次專科臨床培訓，累積深厚的醫療實務經驗。專長包括各類癌症之診斷與治療、癌症治療後之照護，以及安寧緩和醫療，致力於提供病人全人、全程且具同理心的照護服務。現為台灣內科醫學會、中華民國癌症醫學會及中華民國血液病學會會員，持續參與專業學術活動與臨床實務交流，積極精進癌症治療的最新知識與實務應用。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D27250&Docname=%E8%B3%B4%E5%BD%A5%E5%BB%B7Yen-Ting%20Lai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D27250&Docname=%E8%B3%B4%E5%BD%A5%E5%BB%B7Yen-Ting%20Lai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250912_150429.jpg"
+      },
+      {
+        "doctNo": "D51381",
+        "doctName": "林振源Chen-Yuan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "林振源醫師的專長在血液疾病 （血癌、淋巴癌、多發性骨髓瘤）、癌症治療 （各種化學治療、高劑量 IL-2、碘-131治療及免疫療法）以及造血幹細胞移植。林醫師亦專精於黑色素細胞瘤、食道癌、骨癌及軟組織肉瘤患者的治療及照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51381&Docname=%E6%9E%97%E6%8C%AF%E6%BA%90Chen-Yuan%20Lin%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51381&Docname=%E6%9E%97%E6%8C%AF%E6%BA%90Chen-Yuan%20Lin%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_140610.JPG"
+      },
+      {
+        "doctNo": "D51382",
+        "doctName": "葉士芃Shih-Peng",
+        "doctTitle": "主治醫師",
+        "doctAbout": "葉士芃醫師曾任中華民國骨髓移植學會秘書長，自 2010 年起擔任骨髓移植學會常務理事。葉醫師專精於血液幹細胞 (骨髓) 移植 ，具百例以上之經驗 、各種癌症化學治療與輸血醫療。葉醫師於 2006 年至美國 MD. Anderson Cancer Center 進修一年，專攻乳癌基因治療領域之研究。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51382&Docname=%E8%91%89%E5%A3%AB%E8%8A%83Shih-Peng%20Yeh",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51382&Docname=%E8%91%89%E5%A3%AB%E8%8A%83Shih-Peng%20Yeh",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_160029.JPG"
+      },
+      {
+        "doctNo": "D5191",
+        "doctName": "廖裕民Yu-Min",
+        "doctTitle": "主治醫師",
+        "doctAbout": "廖裕民醫師的專長在血液疾病、癌症治療，以及造血幹細胞移植。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D5191&Docname=%E5%BB%96%E8%A3%95%E6%B0%91Yu-Min%20Liao%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D5191&Docname=%E5%BB%96%E8%A3%95%E6%B0%91Yu-Min%20Liao%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250227_171304.jpg"
+      },
+      {
+        "doctNo": "D20341",
+        "doctName": "陳珈妤Chia-Yu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳珈妤醫師畢業於中國醫藥大學，專長在一般及惡性血液疾病、淋巴瘤、各種癌症的診斷及治療、血液幹細胞移植，以及癌症治療後的臨床照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D20341&Docname=%E9%99%B3%E7%8F%88%E5%A6%A4Chia-Yu%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D20341&Docname=%E9%99%B3%E7%8F%88%E5%A6%A4Chia-Yu%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240625_163254.png"
+      }
+    ]
+  },
+  {
+    "deptId": "11",
+    "deptName": "家庭醫學科",
+    "deptAbout": "糖尿病、高血壓等慢性病、戒菸、安寧療護、多重慢性病、日常功能下降長期照護",
+    "doctorList": [
+      {
+        "doctNo": "D52282",
+        "doctName": "林益卿I-Ching",
+        "doctTitle": "預防暨社區醫學中心主任兼家庭醫學科主任",
+        "doctAbout": "曾就讀高雄醫學大學醫醫學技術學系、成大生化所、彰化師範大學中等教師學士後教育學分班教育學程、高雄醫學大學學士後醫學系以及亞洲大學健康產業管理學系博士班。在各個學校學習各種不同領域的專業，包括生物化學、遺傳工程技術、中等學校教師教學技能、健康產業管理、健康管理以及醫學等專業領域。在醫院實務上，曾經在彰化秀傳醫院檢驗科擔任醫檢師及教學研究組組長，協助推動檢驗科的教學研究。在彰化基督教醫院擔任家庭醫學科3年住院醫師、1年總醫師、10年的科主任、分院醫務長及副院長等職。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52282&Docname=%E6%9E%97%E7%9B%8A%E5%8D%BFI-Ching%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52282&Docname=%E6%9E%97%E7%9B%8A%E5%8D%BFI-Ching%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20191021_080403.jpg"
+      },
+      {
+        "doctNo": "180715",
+        "doctName": "蔡東啟Dong-Chii",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蔡東啟醫師為家庭醫學科專科醫師，具安寧緩和醫療專業背景。曾於衛生福利部臺中醫院完成住院醫師及總醫師訓練，並至臺大醫院緩和病房接受安寧緩和醫療專業訓練，返院後升任主治醫師。臨床服務涵蓋門診、住院病房、居家醫療及長期照護，亦參與健檢中心相關業務，並支援衛福部南投及彰化醫院，累積臨床經驗逾二十餘年。期間協助成立醫院安寧團隊與安寧病房，並推動醫院通過安寧緩和專科訓練醫院評鑑，致力於預立醫療照護諮商之推廣。蔡醫師重視以病人為中心的整合照護，期望以多年臨床與教學經驗，提供專業、溫暖且持續的醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180715&Docname=%E8%94%A1%E6%9D%B1%E5%95%9FDong-Chii%20Tsay",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180715&Docname=%E8%94%A1%E6%9D%B1%E5%95%9FDong-Chii%20Tsay",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251222_163806.jpg"
+      },
+      {
+        "doctNo": "180016",
+        "doctName": "賴芳宇",
+        "doctTitle": "主治醫師",
+        "doctAbout": "賴芳宇醫師於高雄醫學大學醫學系畢業後，於彰基中華院區高仁愛紀念病房接受安寧病房訓練，也至中國附醫接受完整高齡醫學科訓練。專長於糖尿病、高血壓、高血脂等慢性病治療、安寧療護、老年醫學及長期照護，旅遊醫學建議與成人疫苗接種。賴芳宇醫師對於醫院未來展望抱著期待，一同為霧峰及周邊縣市民眾提供周全的健康醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180016&Docname=%E8%B3%B4%E8%8A%B3%E5%AE%87%20Fang-Yu%20Lai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180016&Docname=%E8%B3%B4%E8%8A%B3%E5%AE%87%20Fang-Yu%20Lai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230706_135620.jpg"
+      },
+      {
+        "doctNo": "D18486",
+        "doctName": "吳佾璇Yi-Hsuan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳佾璇醫師畢業於中國醫藥大學中醫學系，於沙鹿光田醫院接受完整家醫科專科訊練，照顧慢性病房及協助長照業務，因此更加熟悉老年人及多重共病患者的長期照護。專長於預防醫學、慢性疾病、體健檢、一般醫學、肥胖醫學、居家照護、安寧療護、旅遊醫學建議與成人疫苗接種。吳佾璇醫師對於醫院未來展望抱著期待，希冀之後能發揮所長，為霧峰及周邊縣市民眾提供周全的健康醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D18486&Docname=%E5%90%B3%E4%BD%BE%E7%92%87Yi-Hsuan%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D18486&Docname=%E5%90%B3%E4%BD%BE%E7%92%87Yi-Hsuan%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230925_082310.JPG"
+      },
+      {
+        "doctNo": "D52848",
+        "doctName": "劉又銘Yu-Ming",
+        "doctTitle": "主治醫師",
+        "doctAbout": "劉又銘醫師畢業於中國醫藥大學醫學系畢業後在中國附醫擔任不分科住院醫師，之後於光田綜合醫院完成紮實的家庭醫學科訓練，由於訓練過程中包含中風亞急性照護期病房訓練，從病人住院到出院後居家照護都是由家醫科醫師一手包辦，故在訓練過程中比較能看到病程的全貌，也了解病人在各個階段接受醫療處置的效果及其可能遇到的任何不適，因此能夠同理病人的感受。訓練完後到基層診所及衛生所服務對基層醫療診所有深度的認識。從醫學中心畢業訓練出來經過區域醫院、基層診所及地區醫院的訓練洗禮，可說對整體的醫療型態都有深入的了解，提供民眾全人、全家、全社區的服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52848&Docname=%E5%8A%89%E5%8F%88%E9%8A%98Yu-Ming%20Liu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52848&Docname=%E5%8A%89%E5%8F%88%E9%8A%98Yu-Ming%20Liu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230106_093147.png"
+      },
+      {
+        "doctNo": "D28534",
+        "doctName": "李佳倫Chia-Lun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "李佳倫醫師畢業於中國醫藥大學醫學系，於衛福部臺中醫院完成家庭醫學科專科醫師訓練。專長於急慢性疾病初診篩檢及診療、慢性病防治、成人健康檢查暨健檢報告追蹤、預防醫學及疫苗注射、成人戒菸藥物治療、旅遊醫學諮詢。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D28534&Docname=%E6%9D%8E%E4%BD%B3%E5%80%ABChia-Lun%20Li",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D28534&Docname=%E6%9D%8E%E4%BD%B3%E5%80%ABChia-Lun%20Li",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240430_101229.png"
+      },
+      {
+        "doctNo": "D30003",
+        "doctName": "張晶雅Jing-Ya",
+        "doctTitle": "主治醫師",
+        "doctAbout": "張晶雅醫師畢業於中國醫藥大學醫學系，並於中國醫藥大學附設醫院完成家庭醫學科專科醫師訓練。專精於常見疾病診治、慢性病管理與預防、成人健康檢查評估與追蹤、預防醫學及疫苗接種，及成人戒菸藥物治療。致力於提供全人照護，以專業與細心陪伴患者維持健康、提升生活品質。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D30003&Docname=%E5%BC%B5%E6%99%B6%E9%9B%85Jing-Ya%20Chang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D30003&Docname=%E5%BC%B5%E6%99%B6%E9%9B%85Jing-Ya%20Chang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250324_102804.jpg"
+      },
+      {
+        "doctNo": "180664",
+        "doctName": "卓妮Nei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "卓妮醫師在中國醫藥大學附設醫院完成見習訓練，實習階段於台中榮民總醫院，取得醫師執照後，回到中醫大附醫展開住院醫師的第一年。那段時間工作繁重、值班頻繁，壓力相當大，但她始終保持積極與穩定的態度，懂得在高壓環境中調整步調、持續成長。隨後於光田綜合醫院家醫科受訓，主要負責慢性病房與復健中心照護，服務對象包括中風後、脊髓損傷、骨折術後及呼吸機脫離的患者，也有長期臥床、失智與洗腎病人等，臨床經驗相當扎實。\r\n卓醫師始終認為醫療工作不只是技術，更是同理與反思的過程。面對龐大工作量，她懂得訂定優先順序、有效安排，並在每次挑戰後自我檢討與修正。這樣的歷程，讓她深刻體會到「全人照護」的核心精神——醫療不止於治病，更在於提供病人與家屬連貫、協調與預防性的照護服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180664&Docname=%E5%8D%93%E5%A6%AENei%20Cheok%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180664&Docname=%E5%8D%93%E5%A6%AENei%20Cheok%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251103_132919.jpg"
+      },
+      {
+        "doctNo": "D32852",
+        "doctName": "沈凡筠Fan-Yun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "沈凡筠醫師畢業於中國醫藥大學醫學系，並於中國醫藥大學附設醫院完成家庭醫學科專科醫師訓練。專精於常見疾病診治、慢性病管理與預防、成人健康檢查評估與追蹤、預防醫學及疫苗接種，及成人戒菸藥物治療。致力於提供全人照護，以專業與細心陪伴患者維持健康、提升生活品質。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D32852&Docname=%E6%B2%88%E5%87%A1%E7%AD%A0Fan-Yun%20Shen%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D32852&Docname=%E6%B2%88%E5%87%A1%E7%AD%A0Fan-Yun%20Shen%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260226_163630.jpg"
+      },
+      {
+        "doctNo": "D33225",
+        "doctName": "柯傑許Chieh-Hsu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "柯傑許醫師畢業於高雄醫學大學醫學系，於秀傳紀念醫院完成家庭醫學科專科醫師訓練，曾擔任中港澄清醫院家庭醫學科主治醫師。專長於急性疾病處置、慢性疾病治療與追蹤、預防醫學及疫苗接種、勞工健康服務。致力於提供全人照護，以專業陪伴患者提升健康。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D33225&Docname=%E6%9F%AF%E5%82%91%E8%A8%B1Chieh-Hsu%20Ko",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D33225&Docname=%E6%9F%AF%E5%82%91%E8%A8%B1Chieh-Hsu%20Ko",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260727_164152.png"
+      }
+    ]
+  },
+  {
+    "deptId": "12",
+    "deptName": "一般外科",
+    "deptAbout": "乳房疾患、甲狀腺疾患、肝膽疾患(腫瘤、結石)、胃腫瘤潰瘍手術、胰臟手術、腸阻塞、疝氣、皮膚及皮下腫瘤手術及腹部外傷手術、代謝減重手術",
+    "doctorList": [
+      {
+        "doctNo": "D52505",
+        "doctName": "葉俊杰Chun-Chieh",
+        "doctTitle": "消化暨創傷外科副院長",
+        "doctAbout": "葉俊杰醫師擅長微創內視鏡、達文西機械手臂輔助手術、及傳統手術。包括 1)膽囊切除、膽道手術、胰臟腫瘤切除、疼痛性慢性胰臟炎手術治療、肝臟腫瘤切除、脾臟功能性保留手術、甲狀腺腫瘤手術、甲狀腺亢進手術治療、副甲狀腺腫瘤手術、疝氣等各器官之手術；2)腸胃道手術、胃癌手術、胰臟移植。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52505&Docname=%E8%91%89%E4%BF%8A%E6%9D%B0Chun-Chieh%20Yeh%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52505&Docname=%E8%91%89%E4%BF%8A%E6%9D%B0Chun-Chieh%20Yeh%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240923_141940.png"
+      },
+      {
+        "doctNo": "D14726",
+        "doctName": "林裕強Yu-Chiang",
+        "doctTitle": "癌症中心助理副院長",
+        "doctAbout": "秉持視病猶親的精神以及親力親為的原則，提供病患相關外科疾病的治療與手術服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D14726&Docname=%E6%9E%97%E8%A3%95%E5%BC%B7Yu-Chiang%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D14726&Docname=%E6%9E%97%E8%A3%95%E5%BC%B7Yu-Chiang%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240117_105903.jpg"
+      },
+      {
+        "doctNo": "D51300",
+        "doctName": "温義煇Yi-Hui",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "國內知名的經口腔甲狀腺切除手術的外科醫師亦為本院副院長，專長於經口腔甲狀腺切除手術。經口腔前庭內視鏡甲狀腺切除術過程中可在內視鏡的放大和多角度觀察下，清晰的分辨神經、血管等細微結構，因此，一些常見的手術併發症如術中出血、喉返神經損傷出現聲音嘶啞症狀、誤傷副甲狀腺出現手腳麻痺、氣管損傷等發生率相對更低。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51300&Docname=%E6%B8%A9%E7%BE%A9%E7%85%87Yi-Hui%20Wen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51300&Docname=%E6%B8%A9%E7%BE%A9%E7%85%87Yi-Hui%20Wen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_154007.JPG"
+      },
+      {
+        "doctNo": "D52368",
+        "doctName": "吳聰明Cong-Ming",
+        "doctTitle": "乳房外科主任",
+        "doctAbout": "1.乳房疾病的診斷及治療(乳房超音波檢查、定位、腫瘤切除、乳癌根治、保乳及腋部前哨淋巴腺結切除術)\r\n2.消化器官手術(肝、膽、胰、脾、腸、胃)\r\n3.疝氣微創、痔瘡、PPH手術",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52368&Docname=%E5%90%B3%E8%81%B0%E6%98%8ECong-Ming%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52368&Docname=%E5%90%B3%E8%81%B0%E6%98%8ECong-Ming%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260701_130650.jpg"
+      },
+      {
+        "doctNo": "180311",
+        "doctName": "許瓈文",
+        "doctTitle": "主治醫師",
+        "doctAbout": "",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180311&Docname=%E8%A8%B1%E7%93%88%E6%96%87%20Li-Wen%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180311&Docname=%E8%A8%B1%E7%93%88%E6%96%87%20Li-Wen%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240923_143033.jpg"
+      },
+      {
+        "doctNo": "180741",
+        "doctName": "張逸林Yi-Lin",
+        "doctTitle": "主治醫師",
+        "doctAbout": "張醫師畢業於中山醫學大學醫學系，畢業後於彰化基督教醫院完全不分科住院醫師訓練、外科及一般外科住院醫師訓練，並在南投基督教醫院升任一般外科主治醫師，後續於彰化基督教醫院外傷科及一般外科服務。主要專長為上消化道腹腔鏡微創手術、甲狀腺及副甲狀腺手術及各式腹部急症手術。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180741&Docname=%E5%BC%B5%E9%80%B8%E6%9E%97Yi-Lin%20Chang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180741&Docname=%E5%BC%B5%E9%80%B8%E6%9E%97Yi-Lin%20Chang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260226_164443.jpg"
+      },
+      {
+        "doctNo": "D51174",
+        "doctName": "黃俊銘Jyun-Ming",
+        "doctTitle": "主治醫師",
+        "doctAbout": "黃俊銘醫師擅長甲狀腺手術及內視鏡微創手術。也接受完整的一般外科、消化外科專科醫師訓練，擅長內視鏡微創手術，包括膽囊手術、疝氣手術，胃癌手術及皮膚腫瘤切除手術。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51174&Docname=%E9%BB%83%E4%BF%8A%E9%8A%98Jyun-Ming%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51174&Docname=%E9%BB%83%E4%BF%8A%E9%8A%98Jyun-Ming%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20211026_154142.jpg"
+      },
+      {
+        "doctNo": "D52522",
+        "doctName": "林建德Chien-Te",
+        "doctTitle": "主治醫師",
+        "doctAbout": "林醫師專長於甲狀腺切除手術、膽囊切除手術、疝氣修補手術、胃腸道手術",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52522&Docname=%E6%9E%97%E5%BB%BA%E5%BE%B7Chien-Te%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52522&Docname=%E6%9E%97%E5%BB%BA%E5%BE%B7Chien-Te%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210319_102950.jpg"
+      },
+      {
+        "doctNo": "D23266",
+        "doctName": "王淑瑩Shu-Ying",
+        "doctTitle": "主治醫師",
+        "doctAbout": "甲狀腺手術、副甲狀腺手術\r\n腹腔鏡膽囊切除手術\r\n胃、肝、胰腫瘤手術\r\n疝氣修補手術",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D23266&Docname=%E7%8E%8B%E6%B7%91%E7%91%A9Shu-Ying%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D23266&Docname=%E7%8E%8B%E6%B7%91%E7%91%A9Shu-Ying%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250922_083739.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "13",
+    "deptName": "心臟血管外科",
+    "deptAbout": "心臟手術、週邊血管手術、靜脈曲張、動靜脈廔管、抗凝劑衛教、動脈性潰瘍、糖尿病足、下肢週邊動脈疾病、主動脈疾病",
+    "doctorList": [
+      {
+        "doctNo": "D00197",
+        "doctName": "劉殷佐Yin-Tso",
+        "doctTitle": "外科部副主任",
+        "doctAbout": "冠狀動脈繞道手術、心臟瓣膜置換及修補術、大動脈手術、微創主動脈支架放置手術、心律不整灼燒術、周邊血管繞道手術、靜脈曲張手術治療、洗腎廔管手術及透析導管置入術、周邊血管整形術、葉克膜置入術、下肢深層靜脈栓塞",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00197&Docname=%E5%8A%89%E6%AE%B7%E4%BD%90Yin-Tso%20Liu%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00197&Docname=%E5%8A%89%E6%AE%B7%E4%BD%90Yin-Tso%20Liu%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190819_135756.JPG"
+      },
+      {
+        "doctNo": "180716",
+        "doctName": "陳偉竑Wei-Hung",
+        "doctTitle": "主治醫師",
+        "doctAbout": "專注於心臟與血管疾病之診斷與手術治療，包含心臟、主動脈及周邊血管疾病，並提供主動脈手術與支架治療等合適的治療選項。重視病人安全與清楚溝通，提供專業且安心的醫療照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180716&Docname=%E9%99%B3%E5%81%89%E7%AB%91Wei-Hung%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180716&Docname=%E9%99%B3%E5%81%89%E7%AB%91Wei-Hung%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251224_094404.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "14",
+    "deptName": "胸腔外科",
+    "deptAbout": "胸部外傷、肋骨骨折固定、漏斗胸微創矯正手術、自發性氣胸、膿胸胸腔鏡微創手術、食道癌切除與重建、肺癌切除、胸腺與縱膈腔腫瘤、切除胸腔鏡微創手術、重症醫學照護。",
+    "doctorList": [
+      {
+        "doctNo": "180571",
+        "doctName": "葉周明Chou-Ming",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "葉周明醫師專精於胸腔外科，擅長胸腔微創手術與肺癌篩檢，致力於提供專業且溫暖的醫療服務。曾任台中榮總胸腔外科主治醫師、台中醫院加護病房主任及副院長，累積豐富臨床與行政經驗。行醫一路，我始終秉持「視病猶親」的理念，期望以專業技術與貼心照護，讓病人在治療過程中感到安心與信任。於亞洲大學附屬醫院服務在地鄉親，持續推動早期肺癌篩檢與微創治療，守護大家的健康。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180571&Docname=%E8%91%89%E5%91%A8%E6%98%8EChou-Ming%20Yeh",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180571&Docname=%E8%91%89%E5%91%A8%E6%98%8EChou-Ming%20Yeh",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250811_100644.png"
+      },
+      {
+        "doctNo": "D52360",
+        "doctName": "劉柏毅Po-I",
+        "doctTitle": "主治醫師",
+        "doctAbout": "劉柏毅醫師於彰化基督教醫院完成專科醫師訓練，並前往台北榮民總醫院及林口長庚紀念醫院擔任臨床研究醫師，且於服務期間就讀中國醫藥大學生物醫學研究所博士班；擔任主治醫師時參與國內、外醫學會進修交流，精進微創手術技巧及肺癌治療新方式，對於胸腔疾病擁有豐富的臨床經驗及創新的想法與作法。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52360&Docname=%E5%8A%89%E6%9F%8F%E6%AF%85Po-I%20Liu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52360&Docname=%E5%8A%89%E6%9F%8F%E6%AF%85Po-I%20Liu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200318_155900.jpg"
+      },
+      {
+        "doctNo": "180282",
+        "doctName": "周奇霈Chi-Pei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "周奇霈醫師畢業於台灣大學醫學系，於台北國泰綜合醫院及台中榮民總醫院接受完整的外科、胸腔外科專科訓練，至亞洲大學醫院胸腔外科及重症醫學科服務。\r\n專長為肺部、食道、縱膈腔、肋骨、氣管、橫膈膜等部位手術以及微創手術。\r\n周醫師致力於高品質及有溫度的醫療服務，不忘精進和更新醫療新知及技術，期待長期在亞大醫院發展，守護民眾和病患的健康。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180282&Docname=%E5%91%A8%E5%A5%87%E9%9C%88Chi-Pei%20Chou%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180282&Docname=%E5%91%A8%E5%A5%87%E9%9C%88Chi-Pei%20Chou%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240927_165646.jpg"
+      },
+      {
+        "doctNo": "D51219",
+        "doctName": "呂庭聿Ting-Yu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "胸部外傷、肋骨骨折固定、漏斗胸微創矯正手術\r\n自發性氣胸、膿胸胸腔鏡微創手術\r\n食道癌切除與重建、肺癌切除、胸腺與縱膈腔腫瘤切除胸腔鏡微創手術\r\n重症醫學照護",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51219&Docname=%E5%91%82%E5%BA%AD%E8%81%BFTing-Yu%20Lu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51219&Docname=%E5%91%82%E5%BA%AD%E8%81%BFTing-Yu%20Lu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_164823.jpg"
+      },
+      {
+        "doctNo": "D51933",
+        "doctName": "陳建光Chien-Kuang",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳建光醫師專長於各種胸腔外科疾病，肺部、食道、縱膈腔及胸腔壁疾患，對於 胸腔鏡微創手術、肺部疾病、食道疾病、肋膜腔疾病、胸部外傷亦有豐富臨床經驗。早期發現，早期治療，是提升治療成效的不二法門。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51933&Docname=%E9%99%B3%E5%BB%BA%E5%85%89Chien-Kuang%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51933&Docname=%E9%99%B3%E5%BB%BA%E5%85%89Chien-Kuang%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20181017_145810.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "15",
+    "deptName": "大腸直腸外科",
+    "deptAbout": "便血、內外痣、便秘、下痢、大便失禁、肛痛、腹痛、大便不規則、肛門痛腫、大腸癌、直腸肛門癌",
+    "doctorList": [
+      {
+        "doctNo": "D00152",
+        "doctName": "江驊哲Hua-Che",
+        "doctTitle": "大腸直腸外科主任",
+        "doctAbout": "江驊哲主任擅長於腹腔鏡微創大腸直腸手術、肛門良性疾患手術（痔瘡、廔管、肛裂、直腸脫垂、肛門狹窄等）； 肛門良性疾患手術（痔瘡環狀切除 PPH 手術、痔瘡雙極雷射刀超音波刀手術）；無痛大腸鏡檢查良性及惡性疾病（瘜肉、腫瘤等）； 激躁性腸徵候群（便秘、腹瀉）診療；大腸直腸發炎診療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00152&Docname=%E6%B1%9F%E9%A9%8A%E5%93%B2Hua-Che%20Chiang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00152&Docname=%E6%B1%9F%E9%A9%8A%E5%93%B2Hua-Che%20Chiang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_153223.jpg"
+      },
+      {
+        "doctNo": "D51843",
+        "doctName": "王輝明Hwei-Ming",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "王輝明醫師是台灣用腹腔鏡進行結腸切除手術的第一人。如今更進步成單孔微創手術，患者今天手術，明天就能下床行走，至今已造福逾萬人。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51843&Docname=%E7%8E%8B%E8%BC%9D%E6%98%8EHwei-Ming%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51843&Docname=%E7%8E%8B%E8%BC%9D%E6%98%8EHwei-Ming%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_133913.JPG"
+      },
+      {
+        "doctNo": "180693",
+        "doctName": "傅軍毓Chun-Yu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "大腸直腸癌早期發現早期治療，治療效果好。晚期發現，還是可以治療。與其道聽塗說、延誤病情，不如來聽我專業的說明。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180693&Docname=%E5%82%85%E8%BB%8D%E6%AF%93Chun-Yu%20Fu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180693&Docname=%E5%82%85%E8%BB%8D%E6%AF%93Chun-Yu%20Fu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251114_165310.jpg"
+      },
+      {
+        "doctNo": "D51051",
+        "doctName": "林敬淳Jing-Chun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "腹腔鏡大腸直腸微創手術、經肛門內視鏡微創手術、大腸內視鏡診斷及息肉切除、一般肛門疾病",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51051&Docname=%E6%9E%97%E6%95%AC%E6%B7%B3Jing-Chun%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51051&Docname=%E6%9E%97%E6%95%AC%E6%B7%B3Jing-Chun%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_140020.JPG"
+      }
+    ]
+  },
+  {
+    "deptId": "16",
+    "deptName": "整形外科",
+    "deptAbout": "手外科及肢體重建、顯微外科、燒燙傷、顏面外傷、頭頸部顯微重建、乳房整形及重建手術、美容外科手術",
+    "doctorList": [
+      {
+        "doctNo": "D51233",
+        "doctName": "鄭旭棠Hsu-Tang",
+        "doctTitle": "主治醫師",
+        "doctAbout": "鄭旭棠醫師在中國醫藥大學附設醫院整形外科接受整形外科相關訓練後取得衛生福利部整形外科專科醫師資格，期間前曾往林口長庚醫院及桃園長庚醫院接受顯微重建及顱顏外科重建手術訓練。升任中國醫藥大學附設醫院整形外科主治醫師後，於2014年負笈前往美國約翰霍普金斯大學附設醫院整形外科進修一年。 鄭醫師熱衷於臨床教學，曾經榮獲九十六學年度中國醫藥大學陳寬正校友基金會「臨床優良教師金蘋果獎」。鄭醫師對臨床教學的投入，使他連續獲選為九十六、九十七及九十九學年度中國醫藥大學附設醫院優良教學住院醫師；並以「以NEJM Case Records of the MGH為基礎的病史寫作」獲得中國醫藥大學附設醫院2011年教學創新獎第一名，並於2013獲得中國醫藥大學「臨床醫學教育貢獻獎」。在臨床研究方面，鄭醫師目前擔任亞洲大學「副」教授，並且已經發表「六十餘」篇英文期刊文章在整形外科及外科學相關期刊。「2021年鄭旭棠醫師榮獲亞大附醫票選第一屆友善大使醫師類第一名。」",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51233&Docname=%E9%84%AD%E6%97%AD%E6%A3%A0Hsu-Tang%20Cheng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51233&Docname=%E9%84%AD%E6%97%AD%E6%A3%A0Hsu-Tang%20Cheng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_162836.JPG"
+      },
+      {
+        "doctNo": "D24822",
+        "doctName": "羅琪Chi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "畢業於中國醫藥大學醫學系，受訓於中國醫藥大學附設醫院整形外科專科完整訓練，整形外科訓練過程中第四年住院醫師擔任燒傷總醫師，照護大面積燒傷病患並主持團隊會議查房，第五年住院醫師擔任整形外科行政總醫師及外科總醫師，協助多項行政進行，並舉辦醫學生縫合營教學、外科住院醫師進階縫合營課程及顯微手術教學等課程，第六年住院醫師擔任刀房總醫師，參與顯微手術、3D列印顏面重建等手術。專長各式及慢性傷口重建、手部外傷及疾患治療、皮膚及軟組織腫瘤治療、顏面損傷重建、顯微重建手術、癌症重建手術及一般整形手術。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D24822&Docname=%E7%BE%85%E7%90%AAChi%20Lo",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D24822&Docname=%E7%BE%85%E7%90%AAChi%20Lo",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240628_112026.png"
+      }
+    ]
+  },
+  {
+    "deptId": "17",
+    "deptName": "眼科",
+    "deptAbout": "白內障，視網膜/黃斑部病變，飛蚊症，眼角膜病變，青光眼，甲狀腺眼疾，弱視/斜視，小兒眼疾，小兒近視控制(角膜塑型、軟式隱形眼鏡)，眼整形/肉毒桿菌治療",
+    "doctorList": [
+      {
+        "doctNo": "D85409",
+        "doctName": "林耿弘Keng-Hung",
+        "doctTitle": "眼科部主任",
+        "doctAbout": "懷著對故鄉的眷戀，林耿弘醫師於陽明醫學大學畢業並服完兵役後，進入臺中榮民總醫院眼科部接受完整的住院醫師訓練。擔任主治醫師之後，專注於白內障、青光眼、視網膜與黃斑部相關疾病的治療。期間曾至美國南加州大學Doheny Eye Institute擔任玻璃體視網膜研究員一年。其後升任臺中榮總眼科部視網膜科主任與眼肌神經科主任等職。林耿弘醫師待人客氣，視病猶親，廣獲病患認可。此外他長期關注夜盲症病患的醫療與心理需求，擔任中華民國視網膜色素病變協會理事長多年。林醫師個性親切隨和，嚮往田園生活，期望能在亞大醫院這樣一個充滿陽光與綠意的環境中，持續貢獻所學，服務鄉梓。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D85409&Docname=%E6%9E%97%E8%80%BF%E5%BC%98Keng-Hung%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D85409&Docname=%E6%9E%97%E8%80%BF%E5%BC%98Keng-Hung%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230901_170344.jpg"
+      },
+      {
+        "doctNo": "D00378",
+        "doctName": "張耀中Yao-Chung",
+        "doctTitle": "視網膜科主任",
+        "doctAbout": "張耀中 眼科視網膜中心主任：飛蚊症雷射治療、糖尿病視網膜病變、老年性黃斑部病變、中心漿液性視網膜病變、視網膜剝離、飛秒白內障雷射手術、微小傷口白內障手術、微創玻璃體切除手術、微創玻璃體切除手術。張醫師具豐富的視網膜手術經驗，提供病人最具專業的眼科治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00378&Docname=%E5%BC%B5%E8%80%80%E4%B8%ADYao-Chung%20Chang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00378&Docname=%E5%BC%B5%E8%80%80%E4%B8%ADYao-Chung%20Chang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_162606.JPG"
+      },
+      {
+        "doctNo": "D52772",
+        "doctName": "李昇達Sheng-Ta",
+        "doctTitle": "一般眼科主任",
+        "doctAbout": "李昇達醫師從彰化秀傳醫院獲得了完整的住院醫師訓練,其後於彰化基督教醫院接受視網膜次專科醫師訓練及眼整形專科醫師會員。 曾服務於彰化基督教醫院擔任一般眼科主任兼任二林基督教醫院眼科主任。服務範圍除了視網膜、玻璃體疾病之雷射與手術、視網膜剝離、糖尿病視網膜病變、玻璃體出血、高度近視網膜病變之外還擅長於小切口白內障晶體乳化手術、一般眼科疾病、眼科整形、肉毒桿菌美容除皺、兒童視力保健。 希望於亞洲大學附屬醫院提供最適合及即時的眼科醫療照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52772&Docname=%E6%9D%8E%E6%98%87%E9%81%94Sheng-Ta%20Li",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52772&Docname=%E6%9D%8E%E6%98%87%E9%81%94Sheng-Ta%20Li",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20220304_175913.JPG"
+      },
+      {
+        "doctNo": "D00217",
+        "doctName": "林純如Chun-Ju",
+        "doctTitle": "眼科醫學中心副主任",
+        "doctAbout": "林純如醫師為資深眼科視網膜專科主治醫師，從事最新微創玻璃體切除術的臨床手術經驗豐富，全部的病患都接受微創玻璃體切除手術，每年白內障手術近五百例，每年微創玻璃體切除手術近五百例，為眼科病患提供更可親、更快速、更優質的視網膜玻璃體手術服務。對於眼科整型手術、一般眼科疾病、兒童視力保健亦多有涉獵。且不間斷地從事臨床醫學研究，並於國內外期刊持續發表多篇醫學論文。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00217&Docname=%E6%9E%97%E7%B4%94%E5%A6%82Chun-Ju%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00217&Docname=%E6%9E%97%E7%B4%94%E5%A6%82Chun-Ju%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20181123_145333.JPG"
+      },
+      {
+        "doctNo": "D52893",
+        "doctName": "賴泓茵Hung-Yin",
+        "doctTitle": "主治醫師",
+        "doctAbout": "賴泓茵醫師於高雄長庚醫院完成角膜科次專科訓練。專精於微創白內障超音波乳化術與乾眼症治療。對於角膜不規則散光或圓錐角膜，可提供特殊隱形眼鏡驗配。且對學童視力保健具經驗，可提供近視控制諮詢及角膜塑型片驗配。具備專業完整的眼科醫療經驗，對患者親切有耐心，可提供病患全方位的照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52893&Docname=%E8%B3%B4%E6%B3%93%E8%8C%B5Hung-Yin%20Lai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52893&Docname=%E8%B3%B4%E6%B3%93%E8%8C%B5Hung-Yin%20Lai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20220802_084021.jpg"
+      },
+      {
+        "doctNo": "D52495",
+        "doctName": "黃祐得Yu-Te",
+        "doctTitle": "主治醫師",
+        "doctAbout": "黃祐得醫師在中國附醫接受完整的視網膜和兒童眼科訓練，專注於處理視網膜黃斑部疾病以及兒童眼疾。他在微創切口玻璃體切除術方面擁有豐富經驗，包括處理視網膜剝離、玻璃體出血、黃斑部裂孔和黃斑部皺摺。此外，黃醫師也擅長於老年和幼童的微創白內障超音波晶體乳化術，以及飛秒雷射白內障手術。他在近視控制方面也非常專長，包括角膜塑型術和近視控制軟式離焦鏡片的驗配。此外，他還專長於兒童眼整形手術和各種斜弱視治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52495&Docname=%E9%BB%83%E7%A5%90%E5%BE%97Yu-Te%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52495&Docname=%E9%BB%83%E7%A5%90%E5%BE%97Yu-Te%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201109_140619.jpg"
+      },
+      {
+        "doctNo": "D51090",
+        "doctName": "蘇振文Cheng-Wen",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蘇振文醫師於中國醫藥大學附設醫院眼科部接受完整眼科訓練及青光眼和視網膜次專科訓練。對待病患親切及耐心，提供病人最專業及完整的眼科醫療。專精於微創青光眼引流手術、微創白內障手術、飛秒雷射白內障手術及視網膜手術。學術研究方面曾發表多篇國際論文，並持續做最先進的研究。多次參加國內外眼科專業會議增進專業知識。提供病患全方位的眼科治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51090&Docname=%E8%98%87%E6%8C%AF%E6%96%87Cheng-Wen%20Su",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51090&Docname=%E8%98%87%E6%8C%AF%E6%96%87Cheng-Wen%20Su",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20220117_113018.jpg"
+      },
+      {
+        "doctNo": "D51730",
+        "doctName": "夏寧憶Ning-Yi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "夏寧憶醫師於中國醫藥大學附設醫院眼科部完成兒童眼科及視網膜次專科訓練，除眼科一般疾病外，對於飛秒雷射、微切口白內障手術及人工水晶體的選擇頗有心得，專精於兒童一般眼疾、小兒外眼整形、學童視力保健、斜弱視篩檢及治療、早產兒視網膜病變、糖尿病視網膜病變篩檢及治療、年齡相關性黃斑部病變、視網膜剝離、微創玻璃體切除手術、虹彩炎及內科疾病相關眼炎。懷抱著對醫學及臨床服務的熱忱，精益求精。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51730&Docname=%E5%A4%8F%E5%AF%A7%E6%86%B6Ning-Yi%20Hsia",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51730&Docname=%E5%A4%8F%E5%AF%A7%E6%86%B6Ning-Yi%20Hsia",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190802_110906.jpg"
+      },
+      {
+        "doctNo": "D52288",
+        "doctName": "孟平平Ping-Ping",
+        "doctTitle": "主治醫師",
+        "doctAbout": "孟平平醫師畢業於中國醫藥大學，並於中國附醫眼科醫學中心接受視網膜、青光眼及一般眼科紮實的訓練。受訓醫師時期至台北三軍總醫院接受青光眼科訓練，專精於白內障、視網膜、青光眼等手術，待人親切，視病猶親，曾任中國附醫台北分院主治醫師。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52288&Docname=%E5%AD%9F%E5%B9%B3%E5%B9%B3Ping-Ping%20Meng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52288&Docname=%E5%AD%9F%E5%B9%B3%E5%B9%B3Ping-Ping%20Meng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260612_130717.jpg"
+      },
+      {
+        "doctNo": "D51731",
+        "doctName": "顧蔚寧Wei-Ning",
+        "doctTitle": "主治醫師",
+        "doctAbout": "顧蔚寧醫師於中國醫藥大學附設醫院眼科部接受完整眼窩眼整形及視網膜次專科訓練。除一般眼科疾病，專精於微創白內障手術、飛秒雷射白內障手術、視網膜手術及眼整形與眼窩疾病，包含甲狀腺眼疾、眼窩腫瘤、淚管手術及眼皮眼瞼相關疾患手術。視病猶親，提供病人最專業及完整的眼科醫療與照顧。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51731&Docname=%E9%A1%A7%E8%94%9A%E5%AF%A7Wei-Ning%20Ku",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51731&Docname=%E9%A1%A7%E8%94%9A%E5%AF%A7Wei-Ning%20Ku",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200720_151405.jpg"
+      },
+      {
+        "doctNo": "D51805",
+        "doctName": "崔永平Yung-Ping",
+        "doctTitle": "主治醫師",
+        "doctAbout": "崔醫師於中國醫藥大學附設醫院眼科部接受完整的眼科專科及兒童眼科次專科訓練，本身很喜歡小朋友，對孩子很有耐心。在兒童眼科領域中，從小小孩的早產兒視網膜病變、斜弱視、眼瞼手術、鼻淚管手術，到大朋友的視力保健、近視治療、角膜塑型範疇均可以提供專業醫療；在成人眼科的領域中，包含白內障、視網膜等皆能提供完善的專業評估與治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51805&Docname=%E5%B4%94%E6%B0%B8%E5%B9%B3Yung-Ping%20Tsui",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51805&Docname=%E5%B4%94%E6%B0%B8%E5%B9%B3Yung-Ping%20Tsui",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_151635.jpg"
+      },
+      {
+        "doctNo": "D52671",
+        "doctName": "黃俐穎Li-Ying",
+        "doctTitle": "主治醫師",
+        "doctAbout": "黃俐穎醫師於中國醫藥大學附設醫院接受完整視網膜及眼整形、眼窩訓練，期間榮獲112年度傑出住院醫師。專精於飛秒雷射、微切口白內障手術、視網膜疾病，包括糖尿病視網膜病變篩檢及治療、年齡相關性黃斑部病變、視網膜剝離、微創玻璃體切除手術、視網膜雷射手術；亦專長於眼整形與眼窩疾病，包括睫毛倒插、眼瞼下垂、眼部美容、甲狀腺眼疾、眼窩腫瘤、眼窩骨折、鼻淚管手術等。黃醫師對待病患親切、有耐心，提供病患專業及完整的眼部照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52671&Docname=%E9%BB%83%E4%BF%90%E7%A9%8ELi-Ying%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52671&Docname=%E9%BB%83%E4%BF%90%E7%A9%8ELi-Ying%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240708_150318.png"
+      },
+      {
+        "doctNo": "100677",
+        "doctName": "童筱凡Hsiao-Fan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "童醫師於中國醫藥大學附設醫院及彰化基督教醫院接受完整眼角膜、視網膜暨葡萄膜炎專科訓練，對於微創白內障超音波乳化手術有豐富經驗。專長包括乾眼症治療、圓錐角膜、角膜移植、近視雷射等眼角膜相關疾病與手術，另外，對於各式視網膜疾病治療與手術 (飛蚊症、視網膜剝離、玻璃體出血、糖尿病視網膜病變、老年性黃斑部病變等各式視網膜及黃斑部疾病) 亦有專精。童醫師待人親切有耐心、視病如親，提供專業又全面的眼部照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=100677&Docname=%E7%AB%A5%E7%AD%B1%E5%87%A1Hsiao-Fan%20Tung",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=100677&Docname=%E7%AB%A5%E7%AD%B1%E5%87%A1Hsiao-Fan%20Tung",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240819_100819.png"
+      }
+    ]
+  },
+  {
+    "deptId": "18",
+    "deptName": "耳鼻喉科",
+    "deptAbout": "外中耳炎、膽脂瘤、聽力平衡障礙復健、鼻炎、鼻竇炎、聲音沙啞、頭頸腫瘤、咽喉炎「聽障、耳鳴、眩暈，請掛聽力檢查診」",
+    "doctorList": [
+      {
+        "doctNo": "D00158",
+        "doctName": "花俊宏Chun-Hung",
+        "doctTitle": "頭頸耳鼻喉醫學副院長",
+        "doctAbout": "花俊宏醫師專長領域涵蓋：1) 口腔癌、咽喉癌之手術治療及整合形多方位治療 ；2) 頸部腫瘤、淋巴腺疾病治療 ；3) 睡眠呼吸障礙之手術治療 ；4) 鼻竇炎內視鏡微創手術。口腔癌乃泛指發生在口腔部位的癌症，包括唇、口底、舌、牙齦硬軟顎、頰等部位，口腔癌已經為男性惡性腫瘤罹患率之第四位，與嚼食檳榔習性有很密切的關係。花醫師呼籲高危險族群若出現黏膜變化者則需提高警覺，及早經常檢查",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00158&Docname=%E8%8A%B1%E4%BF%8A%E5%AE%8FChun-Hung%20Hua",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00158&Docname=%E8%8A%B1%E4%BF%8A%E5%AE%8FChun-Hung%20Hua",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_140909.jpg"
+      },
+      {
+        "doctNo": "D51999",
+        "doctName": "許哲綸Che-Lun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "許哲綸醫師於台灣中部醫學中心-中國醫藥大學附設醫院耳鼻喉部，接受完整的耳鼻喉頭頸外科住院醫師及總醫師訓練，並於研究醫師階段赴日本京都大學進修耳部及鼻部手術，曾獲得院內頒發之傑出住院醫師的肯定，於住院醫師期間有多篇論文發表。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51999&Docname=%E8%A8%B1%E5%93%B2%E7%B6%B8Che-Lun%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51999&Docname=%E8%A8%B1%E5%93%B2%E7%B6%B8Che-Lun%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190729_115027.jpg"
+      },
+      {
+        "doctNo": "D52199",
+        "doctName": "徐俊傑Chun-Chieh",
+        "doctTitle": "主治醫師",
+        "doctAbout": "徐俊傑主治醫師為人親切，問診仔細。於中國醫藥大學附設醫院耳鼻喉頭頸外科部，接受完整的耳鼻喉頭頸外科住院醫師及總醫師訓練後並取得專科醫師資格，並於研究醫師階段赴日本東京慈惠大學進修鼻部手術，並參與國內外許多相關的學術會議。專長於(1)鼻科疾病包含鼻塞、過敏性鼻炎及慢性鼻竇炎鼻息肉之內外科治療;(2)成人及小兒的打鼾及睡眠呼吸中止症之整合治療; (3)頭頸部腫瘤及唾液腺及甲狀腺疾病之診斷及治療; (4)喉部疾病：聲音沙啞、喉部異物感及聲帶麻痺之治療; (5)耳部疾病(耳鳴、耳咽管功能障礙、聽力障礙、中耳炎、眩暈等)之內外科治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52199&Docname=%E5%BE%90%E4%BF%8A%E5%82%91Chun-Chieh%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52199&Docname=%E5%BE%90%E4%BF%8A%E5%82%91Chun-Chieh%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210107_140504.jpg"
+      },
+      {
+        "doctNo": "D52986",
+        "doctName": "蔡慶諭Ching-Yu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蔡醫師畢業後於中國醫藥大學附設醫院耳鼻喉部服務，在臨床上富有教學熱忱及表現傑出，曾獲頒優良實習醫師、優良教學住院醫師及傑出住院醫師。蔡醫師對待患者親切用心，診治疾病仔細且專業，深獲病患及家屬的肯定。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52986&Docname=%E8%94%A1%E6%85%B6%E8%AB%ADChing-Yu%20Tsai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52986&Docname=%E8%94%A1%E6%85%B6%E8%AB%ADChing-Yu%20Tsai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20221114_164832.JPG"
+      },
+      {
+        "doctNo": "D00135",
+        "doctName": "田輝勣Hui-Chi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "中耳炎、膽脂瘤、中耳積水診斷及手術治療、耳鳴眩暈診斷及治療、顏面神經麻痺診斷及治療、人工電子耳植入手術及復健、聽能輔具及聽能復健平衡復健諮詢",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00135&Docname=%E7%94%B0%E8%BC%9D%E5%8B%A3Hui-Chi%20Tien",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00135&Docname=%E7%94%B0%E8%BC%9D%E5%8B%A3Hui-Chi%20Tien",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_113127.JPG"
+      },
+      {
+        "doctNo": "D00156",
+        "doctName": "鄒永恩Yung-An",
+        "doctTitle": "主治醫師",
+        "doctAbout": "鄒永恩醫師專長領域涵蓋功能性鼻竇內視鏡手術、鼻中隔鼻道成形術；頭頸手術；各類打鼾手術（恆溫射頻軟顎舌根及下鼻甲手術，懸雍垂顎咽成型手術，含扁桃腺切除手術)；聲帶脂肪注射手術及喉部成型數；喉部及下咽腫瘤手術。除了臨床服務之外，鄒醫師在研究方面也非常卓越，發表的國際期刊論文曾獲頒美國睡眠醫學會的年度優秀論文獎。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00156&Docname=%E9%84%92%E6%B0%B8%E6%81%A9Yung-An%20Tsou%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00156&Docname=%E9%84%92%E6%B0%B8%E6%81%A9Yung-An%20Tsou%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180917_101742.jpg"
+      },
+      {
+        "doctNo": "D51626",
+        "doctName": "施亮均Liang-Chun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "施醫師在本院耳鼻喉科已服務多年，對待患者用心且認真，治療疾病仔細且專業，曾獲頒優良醫師獎。施醫師專長於：(1)鼻中隔校正手術及下鼻甲微創手術；(2)鼻竇微創導航內視鏡手術；(3)功能性及美觀性鼻整形手術；(4) 打鼾及睡眠呼吸中止症手術；(5)頭頸部腫瘤切除手術。除了臨床之外，施醫師對於研究也充滿熱誠，至今已有多篇醫學研究論文發表於國際知名期刊。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51626&Docname=%E6%96%BD%E4%BA%AE%E5%9D%87Liang-Chun%20Shih%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51626&Docname=%E6%96%BD%E4%BA%AE%E5%9D%87Liang-Chun%20Shih%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210310_084516.jpg"
+      },
+      {
+        "doctNo": "D51363",
+        "doctName": "邱建仁Chien-Jen",
+        "doctTitle": "主治醫師",
+        "doctAbout": "邱建仁醫師專攻於頭頸部腫瘤、唾液腺腫瘤、甲狀腺手術。對於打鼾、睡眠呼吸中止症手術，聲音沙啞、聲帶結節、聲帶萎縮(喉顯微手術、聲帶注射手術)，鼻竇炎內視鏡手術，鼻中膈彎曲、過敏性鼻炎、肥厚性鼻炎微創手術，聽力障礙、中耳炎亦有其專業。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51363&Docname=%E9%82%B1%E5%BB%BA%E4%BB%81Chien-Jen%20Chiu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51363&Docname=%E9%82%B1%E5%BB%BA%E4%BB%81Chien-Jen%20Chiu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180917_101245.JPG"
+      },
+      {
+        "doctNo": "D00660",
+        "doctName": "黃純惟Chun-Wei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "黃純惟醫師專攻於頭頸癌複合式切除及頸部淋巴廓清手術，唾液腺手術，甲狀腺手術，鼻竇內視鏡手術，內視鏡鼻淚管手術等。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00660&Docname=%E9%BB%83%E7%B4%94%E6%83%9FChun-Wei%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00660&Docname=%E9%BB%83%E7%B4%94%E6%83%9FChun-Wei%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_155824.jpg"
+      },
+      {
+        "doctNo": "D51364",
+        "doctName": "盧建吉Chien-Chi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "盧建吉醫師專長於頭頸癌複合式切除及頸部淋巴廓清手術、鼻過敏、鼻中膈彎曲及鼻竇內視鏡手術、打鼾及睡眠呼吸中止疾患之手術治療，對於頭頸部腫塊、唾液腺手術及甲狀腺手術，聽力障礙、眩暈、耳鳴及慢性中耳炎之治療亦有其專業。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51364&Docname=%E7%9B%A7%E5%BB%BA%E5%90%89Chien-Chi%20Lu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51364&Docname=%E7%9B%A7%E5%BB%BA%E5%90%89Chien-Chi%20Lu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180917_100857.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "19",
+    "deptName": "牙科",
+    "deptAbout": "一般牙科、齒顎矯正、口腔顎面拔牙、根管治療",
+    "doctorList": [
+      {
+        "doctNo": "D00428",
+        "doctName": "林志杰Chih-Chieh",
+        "doctTitle": "主治醫師",
+        "doctAbout": "一般牙科、齒顎矯正學、牙科美學",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00428&Docname=%E6%9E%97%E5%BF%97%E6%9D%B0Chih-Chieh%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00428&Docname=%E6%9E%97%E5%BF%97%E6%9D%B0Chih-Chieh%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251112_151158.jpg"
+      },
+      {
+        "doctNo": "D52892",
+        "doctName": "楊晉瑜",
+        "doctTitle": "主治醫師",
+        "doctAbout": "齒顎矯正、一般牙科治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52892&Docname=%E6%A5%8A%E6%99%89%E7%91%9C%20Ching-Yu%20Yang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52892&Docname=%E6%A5%8A%E6%99%89%E7%91%9C%20Ching-Yu%20Yang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251112_152401.jpg"
+      },
+      {
+        "doctNo": "D32628",
+        "doctName": "張仁豪Jen-Hau",
+        "doctTitle": "主治醫師",
+        "doctAbout": "根管治療\r\n根管重新治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D32628&Docname=%E5%BC%B5%E4%BB%81%E8%B1%AAJen-Hau%20Chang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D32628&Docname=%E5%BC%B5%E4%BB%81%E8%B1%AAJen-Hau%20Chang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251112_163330.jpg"
+      },
+      {
+        "doctNo": "D35748",
+        "doctName": "顧紹彤Shau-Tung",
+        "doctTitle": "主治醫師",
+        "doctAbout": "顧紹彤醫師於中國醫藥大學牙醫系畢業後一直服務於中國醫藥大學牙醫部，因對兒童及青少年矯正治療有興趣，因此提供兒童牙科照護之於，亦持續於齒顎矯正領域進修。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D35748&Docname=%E9%A1%A7%E7%B4%B9%E5%BD%A4Shau-Tung%20Ku%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D35748&Docname=%E9%A1%A7%E7%B4%B9%E5%BD%A4Shau-Tung%20Ku%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251113_114001.png"
+      },
+      {
+        "doctNo": "D35733",
+        "doctName": "魏菁彤Ching-Tung",
+        "doctTitle": "主治醫師",
+        "doctAbout": "魏菁彤醫師專長在兒童及青少年(1)口腔預防保健、齲齒預防及口腔衛生指導(2)齲齒治療、兒童全口治療重建(3)兒童看牙恐懼之行為誘導(4)兒童及青少年齒列不正、長牙、換牙評估(5)兒童及青少年牙齒外傷急症處理及(6)全身麻醉、笑氣麻醉下之兒童全口治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D35733&Docname=%E9%AD%8F%E8%8F%81%E5%BD%A4Ching-Tung%20Wei",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D35733&Docname=%E9%AD%8F%E8%8F%81%E5%BD%A4Ching-Tung%20Wei",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260226_153944.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "20",
+    "deptName": "泌尿科",
+    "deptAbout": "腎結石、膀胱結石、血尿、頻尿、婦女排尿功能障礙、婦女尿失禁、尿路感染、前列腺肥大、尿路腫瘤、疝氣、小兒泌尿先天異常、小兒疝氣、小兒夜尿、尿道下裂、隱睪、陰囊腫痛、尿失禁、男性不孕、男性性機能異常、包皮、性病、膀胱機能異常、腎臟機能異常、腎臟移植、腎上腺腫瘤「本院引進體外震波碎石服務，請至泌尿科門診洽詢」",
+    "doctorList": [
+      {
+        "doctNo": "D51810",
+        "doctName": "黃志平Chi-Ping",
+        "doctTitle": "泌尿科科主任",
+        "doctAbout": "黃志平主任於台中榮總完成泌尿科專科醫師訓練後，先至嘉義榮總擔任碎石中心主任。其專長為泌尿腫瘤診治(攝護腺癌、腎臟癌、膀胱癌及輸尿管癌等)、微創手術及腎臟移植手術。黃主任達文西機器手臂輔助系統手術經驗豐富，累積逾千例經驗。曾至美國俄亥俄州醫學中心之機器手臂微創中心進修（攝護腺癌根除手術及腎臟腫瘤部份切除手術），及日本東京女子醫科大學附設醫院研修；亦專精於攝護腺肥大雷射微創手術及泌尿腫瘤細胞治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51810&Docname=%E9%BB%83%E5%BF%97%E5%B9%B3Chi-Ping%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51810&Docname=%E9%BB%83%E5%BF%97%E5%B9%B3Chi-Ping%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_145944.jpg"
+      },
+      {
+        "doctNo": "D00373",
+        "doctName": "石欣衛Hsin-Wei",
+        "doctTitle": "震波碎石室主任",
+        "doctAbout": "泌尿科常見內視鏡檢查、超音波檢查及尿路動力學檢查和影像判讀，另外如泌尿道感染及泌尿科常見手術，例如：尿路結石、攝護腺肥大、泌尿腫瘤、腹腔鏡手術、疝氣修補、包皮環切、輸精管結紮",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00373&Docname=%E7%9F%B3%E6%AC%A3%E8%A1%9BHsin-Wei%20Shih%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00373&Docname=%E7%9F%B3%E6%AC%A3%E8%A1%9BHsin-Wei%20Shih%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_110923.JPG"
+      },
+      {
+        "doctNo": "D00155",
+        "doctName": "邱鴻傑Hung-Chieh",
+        "doctTitle": "男性功能中心主任",
+        "doctAbout": "邱鴻傑醫師於中國醫藥大學附設醫院完成泌尿科專科醫師訓練並升任主治醫師，目前為本院男性性功能中心主任，專長為：尿路結石、血尿、腰痛、泌尿道感染、排尿障礙、攝護腺肥大及泌尿道內視鏡手術。男性性功能障礙、不孕症、輸精管結紮及精索靜脈曲張手術。泌尿腫瘤手術、腹腔鏡手術、包皮環切手術以及疝氣修補手術。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00155&Docname=%E9%82%B1%E9%B4%BB%E5%82%91Hung-Chieh%20Chiu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00155&Docname=%E9%82%B1%E9%B4%BB%E5%82%91Hung-Chieh%20Chiu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230220_165152.jpg"
+      },
+      {
+        "doctNo": "D00824",
+        "doctName": "蕭子玄Ji-Yuen",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蕭子玄醫師於中國醫藥大學附設醫院完成泌尿專科醫師訓練後升任主治醫師，並取得美國ECFMG認證。專長為泌尿微創手術 (含軟式輸尿管鏡、雷射攝護腺手術、腹腔鏡、體外震波治療等)。主治項目包括結石、攝護腺肥大、女性尿失禁、泌尿腫瘤、疝氣修補、包皮手術、男性結紮、血尿、性功能障礙。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00824&Docname=%E8%95%AD%E5%AD%90%E7%8E%84Ji-Yuen%20Justin%20%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00824&Docname=%E8%95%AD%E5%AD%90%E7%8E%84Ji-Yuen%20Justin%20%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200115_141408.JPG"
+      },
+      {
+        "doctNo": "D52439",
+        "doctName": "蔡禮賢Li-Hsien",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蔡醫師專長於攝護腺肥大治療及雷射手術、腹腔鏡與傳統疝氣修補術、排尿障礙、血尿、腎臟輸尿管及膀胱結石治療、軟式輸尿管鏡診斷及碎石手術、泌尿系統腫瘤診斷及治療、內視鏡微創手術、腹腔鏡與達文西機器手臂微創手術、精割包皮，男性結紮手術",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52439&Docname=%E8%94%A1%E7%A6%AE%E8%B3%A2Li-Hsien%20Tsai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52439&Docname=%E8%94%A1%E7%A6%AE%E8%B3%A2Li-Hsien%20Tsai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200825_110511.jpg"
+      },
+      {
+        "doctNo": "D52975",
+        "doctName": "楊有容You-Rong",
+        "doctTitle": "主治醫師",
+        "doctAbout": "1.泌尿道結石\r\n2.攝護腺肥大,泌尿道內視鏡手術\r\n3.疝氣,包皮環切手術\r\n4.性功能障礙及尿失禁",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52975&Docname=%E6%A5%8A%E6%9C%89%E5%AE%B9You-Rong%20Yang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52975&Docname=%E6%A5%8A%E6%9C%89%E5%AE%B9You-Rong%20Yang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20221011_100956.png"
+      },
+      {
+        "doctNo": "D33378",
+        "doctName": "李宗叡Tzung-Ruei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "李宗叡醫師於中國醫藥大學附設醫完成泌尿科專科醫師訓練並升任主治醫師。專長：攝護腺肥大治療, 尿路結石, 外生殖器及腹股溝手術, 性功能障礙, 排尿障礙及泌尿道感染, 血尿診治, 泌尿腫瘤內視鏡及微創手術等",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D33378&Docname=%E6%9D%8E%E5%AE%97%E5%8F%A1Tzung-Ruei%20Li",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D33378&Docname=%E6%9D%8E%E5%AE%97%E5%8F%A1Tzung-Ruei%20Li",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240628_112616.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "21",
+    "deptName": "神經外科",
+    "deptAbout": "頭部外傷重症治療、腦瘤、腦出血及血管手術、脊椎退化性疾病、脊椎微創及內視鏡手術、疼痛治療",
+    "doctorList": [
+      {
+        "doctNo": "D00001",
+        "doctName": "許永信Yung-Hsin",
+        "doctTitle": "院長",
+        "doctAbout": "腦瘤手術：顱底手術、腦深部腫瘤、聽神經瘤、膠質細胞瘤；腦血管手術、系統神經科學：神經再生；神經電子介面研究、致癌基因研究、神經疾病流行病學",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00001&Docname=%E8%A8%B1%E6%B0%B8%E4%BF%A1Yung-Hsin%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00001&Docname=%E8%A8%B1%E6%B0%B8%E4%BF%A1Yung-Hsin%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_113328.JPG"
+      },
+      {
+        "doctNo": "D00203",
+        "doctName": "林志隆Chih-Lung",
+        "doctTitle": "神經醫學副院長暨外科部主任",
+        "doctAbout": "林志隆副院長專精於中樞神經損傷及再生研究，尤其對於脊髓空洞症有其專門的治療及獨特的手術方式。不但熱心於臨床事務，更從事許多海內外的醫療義診活動。傳遞Help&Hope的精神。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00203&Docname=%E6%9E%97%E5%BF%97%E9%9A%86Chih-Lung%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00203&Docname=%E6%9E%97%E5%BF%97%E9%9A%86Chih-Lung%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201221_081021.jpg"
+      },
+      {
+        "doctNo": "D00801",
+        "doctName": "李建裕Chien-Yu",
+        "doctTitle": "神經創傷科主任",
+        "doctAbout": "1. 微創脊椎手術\r\n2. 腦外傷、脊椎外傷\r\n3. 腦、脊椎腫瘤\r\n4. 腦中風手術\r\n5. 周邊神經壓迫",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00801&Docname=%E6%9D%8E%E5%BB%BA%E8%A3%95Chien-Yu%20Li",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00801&Docname=%E6%9D%8E%E5%BB%BA%E8%A3%95Chien-Yu%20Li",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_111313.JPG"
+      },
+      {
+        "doctNo": "D51917",
+        "doctName": "鄭宇凱",
+        "doctTitle": "主治醫師",
+        "doctAbout": "鄭宇凱醫師於林口長庚醫院接受完整神經外科訓練，之後又轉任嘉義長庚神經外科加護病房主任，對於頭部外傷及腦中風治療經驗十分豐富。至中國醫藥大學附設醫院任職後擔任兒童神經外科主任及負責帕金森氏疾病深腦部刺激手術，可謂對於神經外科各領域手術皆十分熟悉且游刃有餘。近期亦參與惡性腦瘤免疫療法，希望能對此類病患於傳統手術化療電療之外，提供另一個最新且有效的治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51917&Docname=%E9%84%AD%E5%AE%87%E5%87%B1%20Yu-Kai%20Cheng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51917&Docname=%E9%84%AD%E5%AE%87%E5%87%B1%20Yu-Kai%20Cheng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200309_154508.JPG"
+      },
+      {
+        "doctNo": "180931",
+        "doctName": "李偉裕Wei-Yu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "1.疼痛治療\r\n* 坐骨神經痛、腰痠背痛、手腳麻痛及各種神經痛\r\n \r\n2.微創脊椎手術\r\n* 脊椎骨刺內視鏡手術\r\n* 頸椎、胸椎、腰椎微創手術\r\n \r\n3.脊椎疾病與矯正\r\n* 脊椎側彎、脊椎滑脫變形矯正\r\n* 骨質疏鬆及脊椎壓迫性骨折治療\r\n \r\n4.複雜脊椎疾病\r\n* 脊髓腫瘤\r\n* 脊椎外傷",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180931&Docname=%E6%9D%8E%E5%81%89%E8%A3%95Wei-Yu%20Lee",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180931&Docname=%E6%9D%8E%E5%81%89%E8%A3%95Wei-Yu%20Lee",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260812_081546.jpg"
+      },
+      {
+        "doctNo": "D52407",
+        "doctName": "魏嵩泰Sung-Tai",
+        "doctTitle": "主治醫師",
+        "doctAbout": "魏嵩泰醫師專長為腦部顯微手術，腦部腫瘤手術和腦血管手術，尤其是腦內視鏡手術，腦部動脈瘤以及腦部血管重建手術。為中國醫大腦中風中心團隊一員。也是腦中風中心的腦出血內視鏡手術研究計畫主持人。除了手術方面，更進一步研習神經介入治療。出國進修研習Pierre Lasjaunias神經血管介入手術治療(PLANET)。結合手術與介入性治療一同治療腦血管疾病。\r\n在脊椎手術方面專長於脊椎腫瘤手術以及微創脊椎手術，微創手術患者往往比傳統脊椎手術恢復更快，患者長期追蹤效果也較好。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52407&Docname=%E9%AD%8F%E5%B5%A9%E6%B3%B0Sung-Tai%20Wei",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52407&Docname=%E9%AD%8F%E5%B5%A9%E6%B3%B0Sung-Tai%20Wei",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200610_114955.JPG"
+      },
+      {
+        "doctNo": "D31755",
+        "doctName": "楊健東Chien-Tung",
+        "doctTitle": "主治醫師",
+        "doctAbout": "1.微創脊椎手術、脊髓腫瘤顯微手術、高位頸椎手術、外傷性及退化性脊椎手術。\r\n2.顱內腫瘤、腦下垂體腫瘤內視鏡及顯微手術\r\n3.水腦症手術、腦出血內視鏡手術、腦血管手術\r\n4.周邊神經壓迫減壓手術\r\n5.超音波導引局部注射疼痛治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D31755&Docname=%E6%A5%8A%E5%81%A5%E6%9D%B1Chien-Tung%20Yang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D31755&Docname=%E6%A5%8A%E5%81%A5%E6%9D%B1Chien-Tung%20Yang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240117_111533.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "22",
+    "deptName": "骨科",
+    "deptAbout": "骨折、關節炎、骨質疏鬆、關節重建、下背痛、肩痛、四肢腫瘤、坐骨神經痛、運動傷害、脊椎側彎",
+    "doctorList": []
+  },
+  {
+    "deptId": "23",
+    "deptName": "兒科部",
+    "deptAbout": "一般兒科、兒童血液腫瘤科、兒童神經科、兒童心臟科、兒童腸胃及肝膽內科、口服輪狀病毒、五合一疫苗、B型肝炎疫苗、水痘疫苗、A型肝炎疫苗、肺炎鏈球菌疫苗、麻疹、腮腺炎、德國麻疹、日本腦炎疫苗、卡介苗門診",
+    "doctorList": [
+      {
+        "doctNo": "D00196",
+        "doctName": "林鴻志Hung-Chih",
+        "doctTitle": "兒童醫學中心副院長",
+        "doctAbout": "臨床服務上林鴻志醫師受病人肯定，住院及門診量高居全院第一，更獲得商業週刊「專家推薦專家」票選的百大良醫殊榮。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00196&Docname=%E6%9E%97%E9%B4%BB%E5%BF%97Hung-Chih%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00196&Docname=%E6%9E%97%E9%B4%BB%E5%BF%97Hung-Chih%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_162650.jpg"
+      },
+      {
+        "doctNo": "D30270",
+        "doctName": "陳傑賀Chieh-Ho",
+        "doctTitle": "兒科部主任",
+        "doctAbout": "陳傑賀醫師喜歡孩子，他認為每一個人都曾經是小孩，所以要用孩子的觀點才能理解他們的心理和想法；傑賀醫師重視團隊合作，鼓勵彼此幫忙，因為「一個人走得快，但是和一群人才走得遠」。對於兒童胸腔醫學，重症醫學及呼吸長照有濃厚興趣，不僅提供住院病童第一線之重症照顧，並持續推動中部長期照護支持系統的建立，希望讓家長有喘息的機會。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D30270&Docname=%E9%99%B3%E5%82%91%E8%B3%80Chieh-Ho%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D30270&Docname=%E9%99%B3%E5%82%91%E8%B3%80Chieh-Ho%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250811_111258.png"
+      },
+      {
+        "doctNo": "D52367",
+        "doctName": "彭慶添Ching-Tien",
+        "doctTitle": "主治醫師",
+        "doctAbout": "彭慶添顧問醫師是將口服排鐵劑 (L1) 引進亞洲國家臨床研究使用的第一人，造福許多病患，亦為國際知名學者，擔任國際地中海型貧血聯合會 (T.I.F) 的指導委員，經常受邀到世界各地演講，不但參與並協助提升世界地中海型貧血的研究和照顧品質。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52367&Docname=%E5%BD%AD%E6%85%B6%E6%B7%BBChing-Tien%20Peng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52367&Docname=%E5%BD%AD%E6%85%B6%E6%B7%BBChing-Tien%20Peng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200401_095044.JPG"
+      },
+      {
+        "doctNo": "D52066",
+        "doctName": "陳德慶Teck-King",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳德慶醫師完成兒科專科及兒科消化學次專科的訓練後，於中國醫藥大學兒童醫院擔任兒童腸胃科及急診科主治醫師。2014年曾獲選為中國醫藥大學附設醫院優良住院醫師，也曾多次在醫學研討會及醫學期刊上發表論文。陳醫師的專長為兒童消化系統疾病的照護，也擅長於執行消化系統檢查如腹部超音波, 胃鏡, 大腸鏡等. 對於兒童肥胖，餵食困難，身材矮小等營養問題也頗有心得。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52066&Docname=%E9%99%B3%E5%BE%B7%E6%85%B6Teck-King%20Tan",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52066&Docname=%E9%99%B3%E5%BE%B7%E6%85%B6Teck-King%20Tan",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190402_150926.JPG"
+      },
+      {
+        "doctNo": "D00661",
+        "doctName": "陳劍韜Jian-Tao",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳劍韜醫師本身喜歡小孩子。畢業於中國醫藥大學中醫學系, 在中國醫藥大學兒童醫院接受完整的兒科訓練, 目前在亞大醫院服務。在一般兒科及小兒過敏、小兒腎臟疾病皆有專業訓練。除提供各種兒科疾病, 小兒生長發育評估, 疫苗注射評估, 預防保健評估之外, 針對小兒血尿, 蛋白尿, 過敏性鼻炎, 異位性皮膚炎, 氣喘亦有豐富經驗。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00661&Docname=%E9%99%B3%E5%8A%8D%E9%9F%9CJian-Tao%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00661&Docname=%E9%99%B3%E5%8A%8D%E9%9F%9CJian-Tao%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260310_101210.jpg"
+      },
+      {
+        "doctNo": "D99757",
+        "doctName": "羅心妤Hsin-Yu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "小兒神經疾患、兒童癲癇、發展遲緩、學習障礙、青少年問題",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D99757&Docname=%E7%BE%85%E5%BF%83%E5%A6%A4Hsin-Yu%20Lo",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D99757&Docname=%E7%BE%85%E5%BF%83%E5%A6%A4Hsin-Yu%20Lo",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250729_100602.jpg"
+      },
+      {
+        "doctNo": "D34403",
+        "doctName": "邱俊諫Chun-Chien",
+        "doctTitle": "主治醫師",
+        "doctAbout": "邱俊諫醫師出生於台中霧峰，成長於大家庭，培養出獨立又樂於團隊合作的個性。畢業於台中一中及高雄醫學大學醫學系，實習於台中榮總，後進入彰化基督教醫院兒科部接受專科訓練，並曾任彰化秀傳急診部兒科急診主任。在職期間亦於中國醫藥大學中西結合研究所完成碩士學位。\r\n曾取得兒科、急診醫學、小兒急診等多項專科醫師證照，也擔任小兒心臟高級救命術導師。診所穩定經營後，再度返校於中國醫學大學附設醫院接受兒童心臟專科訓練，並取得專科證照。現於中國醫大兒童醫院擔任臨床及課堂教學醫師，持續學習心導管技術。邱醫師專長於兒童心肺評估與重症照護，碩士論文亦聚焦於運動醫學與心肺功能訓練。期盼在亞大醫院持續深耕，回饋家鄉。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D34403&Docname=%E9%82%B1%E4%BF%8A%E8%AB%ABChun-Chien%20Chiu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D34403&Docname=%E9%82%B1%E4%BF%8A%E8%AB%ABChun-Chien%20Chiu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250729_111815.png"
+      },
+      {
+        "doctNo": "D36698",
+        "doctName": "郭威廷Wei-Ting",
+        "doctTitle": "臨床研究醫師",
+        "doctAbout": "提供各種兒科疾病、疫苗注射評估、預防保健評估",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D36698&Docname=%E9%83%AD%E5%A8%81%E5%BB%B7Wei-Ting%20Kuo%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D36698&Docname=%E9%83%AD%E5%A8%81%E5%BB%B7Wei-Ting%20Kuo%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260727_164803.png"
+      }
+    ]
+  },
+  {
+    "deptId": "24",
+    "deptName": "婦產部",
+    "deptAbout": "婦科、產科、高危險妊娠、婦女泌尿、婦癌、微創內視鏡手術",
+    "doctorList": [
+      {
+        "doctNo": "D52471",
+        "doctName": "洪耀欽Yao-Ching",
+        "doctTitle": "婦女醫學中心副院長兼婦產部主任",
+        "doctAbout": "洪耀欽醫師的專長在於婦癌腫瘤診療。洪醫師曾任中華民國婦癌醫學會理事長(2014-2016)及台中市防癌協會理事長(2011-2017)，也是美國癌症研究學會(AACR)會員, 國際婦癌醫學會(IGCS)會員及亞洲婦癌研究團體(AGOG)理事, 享譽國內外。 擅長主治項目: (1)婦癌(包括子宮頸癌,子宮內膜癌及卵巢癌)之診斷,根除性/減積/分期手術及化學治療(或合併放射線治療), 細胞免疫治療, (2)內視鏡(包括陰道鏡,子宮鏡及腹腔鏡)之檢查診斷及手術治療, (3)一般婦科腫瘤之診斷治療, (4)月經失調不適診治, (5)更年期障礙調養",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52471&Docname=%E6%B4%AA%E8%80%80%E6%AC%BDYao-Ching%20Hung",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52471&Docname=%E6%B4%AA%E8%80%80%E6%AC%BDYao-Ching%20Hung",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230413_115700.jpg"
+      },
+      {
+        "doctNo": "D00198",
+        "doctName": "高惠芬Hui-Fen",
+        "doctTitle": "微創內視鏡科主任",
+        "doctAbout": "高惠芬醫師精修腹腔鏡微創手術 (包括達文西機器手臂輔之腹腔鏡手術、3D導航腹腔鏡手術、一般腹腔鏡手術）、子宮內視鏡手術及傳統手術，經驗豐富，視病猶親。曾榮獲2015年衛福部優良醫師獎及教育部社教公益獎外，也曾多年榮獲雜誌遴選之婦產科優良醫師。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00198&Docname=%E9%AB%98%E6%83%A0%E8%8A%ACHui-Fen%20Kao",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00198&Docname=%E9%AB%98%E6%83%A0%E8%8A%ACHui-Fen%20Kao",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201106_120608.JPG"
+      },
+      {
+        "doctNo": "D00199",
+        "doctName": "葛裕民Yu-Min",
+        "doctTitle": "婦癌科主任",
+        "doctAbout": "葛裕民醫師為亞大醫院婦癌科主任，致力於子宮頸癌、卵巢癌、子宮內膜癌的診斷與治療，深獲病患肯定。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00199&Docname=%E8%91%9B%E8%A3%95%E6%B0%91Yu-Min%20Ko",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00199&Docname=%E8%91%9B%E8%A3%95%E6%B0%91Yu-Min%20Ko",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_111739.JPG"
+      },
+      {
+        "doctNo": "D51327",
+        "doctName": "陳泰昌Tai-Chang",
+        "doctTitle": "婦科主任",
+        "doctAbout": "陳泰昌醫師專長微創腹腔鏡手術，舉凡婦女子宮肌瘤、卵巢腫瘤，皆能運用微創腹腔鏡手術治療。更引進新式單孔微創腹腔鏡手術，嘉惠台中地區民眾。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51327&Docname=%E9%99%B3%E6%B3%B0%E6%98%8CTai-Chang%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51327&Docname=%E9%99%B3%E6%B3%B0%E6%98%8CTai-Chang%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_160057.jpg"
+      },
+      {
+        "doctNo": "D53036",
+        "doctName": "劉邦斌Pang-Pin",
+        "doctTitle": "主治醫師",
+        "doctAbout": "劉邦斌醫師為亞大醫院生殖醫學科主任及試管嬰兒專科醫師，於國立新加坡大學取得生殖醫學碩士學位，從事人工生殖技術20多年，有極高的試管嬰兒成功率，享譽卓著。對於單孔微創腹腔鏡手術及不孕症腹腔鏡微創手術尤為專精。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D53036&Docname=%E5%8A%89%E9%82%A6%E6%96%8CPang-Pin%20Liu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D53036&Docname=%E5%8A%89%E9%82%A6%E6%96%8CPang-Pin%20Liu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230206_165638.jpg"
+      },
+      {
+        "doctNo": "D52630",
+        "doctName": "陳彥廷Yen-Ting",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳彥廷醫師於中國醫藥大學附設醫院接受完整的產科與婦科訓練，並於取得婦產科專科醫師資格後，\r\n繼續接受產科超音波檢查的訓練。陳醫師個性和善溫暖，看診耐心仔細，並善於傾聽病人的問題，給予適當的衛教和支持。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52630&Docname=%E9%99%B3%E5%BD%A5%E5%BB%B7Yen-Ting%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52630&Docname=%E9%99%B3%E5%BD%A5%E5%BB%B7Yen-Ting%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210726_092421.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "25",
+    "deptName": "中醫科",
+    "deptAbout": "各種慢性病、更年期障礙、婦女病、眩暈、失眠、過敏性鼻炎、氣喘、胃腸病、皮膚病、耳鳴、運動傷害",
+    "doctorList": [
+      {
+        "doctNo": "D00168",
+        "doctName": "陳志昇Chin-Sheng",
+        "doctTitle": "中醫科主任",
+        "doctAbout": "內科主治：1.老人醫學（心血管系統疾病、高血壓、糖尿病及其併發症、腎泌尿系統疾病、高尿酸、高膽固醇）。2.癌症及手術後、放療、化療後遺症治療及體質調理。3.風濕免疫性疾病。4.婦兒疑難調理。5.一般內科（感冒、過敏性鼻炎、失眠、頭痛、腸胃機能障礙）。\r\n針傷主治：1.腰痛、坐骨神經痛、腦中風後遺症。2.退化性關節炎、五十肩、肩頸痠痛、顏面神經麻痺。3.酸痛調理治療 、運動傷害。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00168&Docname=%E9%99%B3%E5%BF%97%E6%98%87Chin-Sheng%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00168&Docname=%E9%99%B3%E5%BF%97%E6%98%87Chin-Sheng%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230406_153010.jpg"
+      },
+      {
+        "doctNo": "D00701",
+        "doctName": "王崧Song",
+        "doctTitle": "主治醫師",
+        "doctAbout": "內科主治：1.皮膚科相關疾患(青春痘、慢性濕疹、脂漏性皮膚炎、異位性皮膚炎、蕁麻疹)2. 婦科相關疾患(男/女性懷孕困難、月經週期不規則、痛經、更年期綜合癥、產後調理)3. 腫瘤放化療及術後調理(乳癌之手術、化學治療、放射治療及抗荷爾蒙治療的副作用緩解)；調整體質及免疫力4. 睡眠障礙、血壓異常、偏頭痛、便秘、慢性咳嗽、胃食道逆流。\r\n針傷主治：落枕、五十肩、腦血管疾病後遺症(中風、腦外傷)、退化性關節炎",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00701&Docname=%E7%8E%8B%E5%B4%A7Song%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00701&Docname=%E7%8E%8B%E5%B4%A7Song%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_132819.JPG"
+      },
+      {
+        "doctNo": "D51958",
+        "doctName": "陳書怡Shu-I",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳書怡醫師為人親切對於婦產領域與過敏免疫風濕領域之中醫具有豐富經驗，另外對於失眠、自律神經失調，小兒氣喘、生長發育，及常見的青春痘、胃食道逆流、便秘、感冒、咳嗽、頻尿、乾眼症等亦有所長，針對腦中風腦傷脊髓損傷及癌症患者亦能提供適切的輔助治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51958&Docname=%E9%99%B3%E6%9B%B8%E6%80%A1Shu-I%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51958&Docname=%E9%99%B3%E6%9B%B8%E6%80%A1Shu-I%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20181217_120132.JPG"
+      },
+      {
+        "doctNo": "D52037",
+        "doctName": "吳俊昌Chun-Chang",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳俊昌醫師從中醫大北港附設醫院獲得了完整的住院醫師訓練且擔任多次大型運動賽事隨隊及大會醫師，積累了大量的中西醫合療及肌骨系疾病的臨床經驗。吳醫師主要專長於針傷系疾病，特別潛心於運動傷害、各類軟組織痠痛及週邊神經病變的治療，對於中樞神經系疾病、骨架調整亦有所長，然失眠、消化性疾病、自律神經失調，多有著墨。\r\n吳醫師深耕於老年化縣市雲林縣七年，期望將累積的中醫老年醫學、中醫養生醫學經驗，服務於霧峰鄉親。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52037&Docname=%E5%90%B3%E4%BF%8A%E6%98%8CChun-Chang%20Wu%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52037&Docname=%E5%90%B3%E4%BF%8A%E6%98%8CChun-Chang%20Wu%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190319_142745.JPG"
+      },
+      {
+        "doctNo": "D52408",
+        "doctName": "黃瀞瑩",
+        "doctTitle": "主治醫師",
+        "doctAbout": "黃靜瑩醫師畢業於中國醫藥大學學士後中醫學系，於中國附醫接受完整訓練升任中醫內科主治醫師，並具藥學背景，辨證用藥精簡明確。專長於腎泌尿疾病、內分泌新陳代謝疾病，消化問題亦有所長，此外，黃醫師並具備中醫婦科專科醫師資格，其耐心細心常為患者所肯定。主治項目有慢性腎病、蛋白尿、排尿問題、甲狀腺異常、三高、腸胃病、婦科病等等。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52408&Docname=%E9%BB%83%E7%80%9E%E7%91%A9",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52408&Docname=%E9%BB%83%E7%80%9E%E7%91%A9",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200612_162838.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "26",
+    "deptName": "復健部",
+    "deptAbout": "腦外傷、中風、脊髓損傷、神經復健、關節肌腱韌帶拉傷、頸肩背痛、兒童發展遲緩、發音障礙、吞嚥困難",
+    "doctorList": [
+      {
+        "doctNo": "D00700",
+        "doctName": "周立偉Li-Wei",
+        "doctTitle": "副院長",
+        "doctAbout": "肌筋膜疼痛症、退化性關節炎、下背痛、坐骨神經痛、頸部疼痛、腕隧道症侯群、媽媽手、板機指、足踝扭傷、足底筋膜炎、腦中風、腦部外傷、脊髓損傷、骨折術後復健、兒童發展遲緩、構音障礙、感覺統合訓練。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00700&Docname=%E5%91%A8%E7%AB%8B%E5%81%89Li-Wei%20Chou",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00700&Docname=%E5%91%A8%E7%AB%8B%E5%81%89Li-Wei%20Chou",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250425_081518.jpg"
+      },
+      {
+        "doctNo": "D51180",
+        "doctName": "徐弘正",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "脊髓損傷復健\r\n腦中風復健\r\n音樂傷害復健\r\n運動傷害復健\r\n骨關節疼痛治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51180&Docname=%E5%BE%90%E5%BC%98%E6%AD%A3%20Horng-Jeng%20Shyu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51180&Docname=%E5%BE%90%E5%BC%98%E6%AD%A3%20Horng-Jeng%20Shyu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_150626.png"
+      },
+      {
+        "doctNo": "180365",
+        "doctName": "康耀文Yaw-Wen",
+        "doctTitle": "主任",
+        "doctAbout": "急慢性腰背痛、運動傷害、腦中風復健、脊隨損傷復健、腦部外傷復健",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180365&Docname=%E5%BA%B7%E8%80%80%E6%96%87Yaw-Wen%20Kang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180365&Docname=%E5%BA%B7%E8%80%80%E6%96%87Yaw-Wen%20Kang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250103_150836.jpg"
+      },
+      {
+        "doctNo": "D00148",
+        "doctName": "林千琳Chien-Lin",
+        "doctTitle": "主治醫師",
+        "doctAbout": "林千琳醫師現為本院專長於兒童復健的主治醫師，診治專長為早期療育、兒童復健、中風復健、感覺統合訓練，物理、職能、語言治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00148&Docname=%E6%9E%97%E5%8D%83%E7%90%B3Chien-Lin%20Lin%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00148&Docname=%E6%9E%97%E5%8D%83%E7%90%B3Chien-Lin%20Lin%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_140400.jpg"
+      },
+      {
+        "doctNo": "D51361",
+        "doctName": "簡郁佩Yu-Pei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "肩頸疼痛、下背痛、筋膜疼痛、五十肩、板機指、退化性關節炎、足踝扭傷、骨折後復健、腦中風復健、腦外傷復健、脊髓損傷神經復健、兒童發展遲緩",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51361&Docname=%E7%B0%A1%E9%83%81%E4%BD%A9Yu-Pei%20Chien",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51361&Docname=%E7%B0%A1%E9%83%81%E4%BD%A9Yu-Pei%20Chien",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_112301.JPG"
+      },
+      {
+        "doctNo": "D51077",
+        "doctName": "徐瑋璟Wei-Ching",
+        "doctTitle": "主治醫師",
+        "doctAbout": "徐瑋璟醫師專長為神經復健和關節軟組織疼痛治療，如經顱磁刺激應用於輔助腦中風復健、五十肩關節擴張術治療、自體血小板血漿注射應用於旋轉肌袖撕裂傷和膝關節韌帶軟骨傷害、體外震波應用於足底筋膜炎治療等。\r\n徐瑋璟醫師網頁介紹:徐瑋璟醫師的 Dr.BQ 跑步日記(HTTPS://www.drbq.net/)",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51077&Docname=%E5%BE%90%E7%91%8B%E7%92%9FWei-Ching%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51077&Docname=%E5%BE%90%E7%91%8B%E7%92%9FWei-Ching%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_150916.jpg"
+      },
+      {
+        "doctNo": "D52677",
+        "doctName": "吳欣頤Shin-Yi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳醫師畢業於中山醫學系，於高雄榮民總醫院接受完整的復健專科訓練，並取得中華民國復健科專科醫師執照，現為本院復健科主治醫師，其專長包括神經疾病及傷害復健、骨關節肌肉疾病及傷害復健、骨骼肌肉超音波導引注射，運動傷害及手傷復健、肩頸疼痛、下背痛、五十肩等之復健、老人醫學，且積極參與進修，期許能提供更好的服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52677&Docname=%E5%90%B3%E6%AC%A3%E9%A0%A4Shin-Yi%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52677&Docname=%E5%90%B3%E6%AC%A3%E9%A0%A4Shin-Yi%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20220118_103540.jpg"
+      },
+      {
+        "doctNo": "D53035",
+        "doctName": "張斐淳Fei-Chun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "張斐淳醫師畢業於中國醫藥大學醫學系，於中國附醫接受住院醫師訓練，並至台大醫院及台北馬偕醫院進修，並升任中國醫藥大學附設醫院主治醫師。於醫院服務期間，多次參與國內外研討會發表口頭及壁報論文研究，並且為復健醫學會、肌肉骨骼神經超音波醫學會、增生療法醫學會、心肺復建醫學會、神經復健醫學會及肌痛醫學會會員。臨床專長擅長神經系統、骨骼肌肉系統、運動醫學、急慢性疼痛控制及心肺系統復健。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D53035&Docname=%E5%BC%B5%E6%96%90%E6%B7%B3Fei-Chun%20Chang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D53035&Docname=%E5%BC%B5%E6%96%90%E6%B7%B3Fei-Chun%20Chang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230213_095531.jpg"
+      },
+      {
+        "doctNo": "D28557",
+        "doctName": "陳怡維I-Wei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳怡維醫師畢業於中國醫藥大學醫學系，於中國附醫接受住院醫師訓練，並至台大醫院及台北馬偕醫院進修肌肉骨骼神經超音波檢查以及超音波導引注射，升任中國醫藥大學附設醫院主治醫師。於醫院服務期間，多次參與研討會並發表論文，目前為復健醫學會會員。臨床專長擅長腦中風復健、腦創傷復健、脊髓損傷復健、周邊神經疾病、骨骼肌肉系統、以及急慢性疼痛控制。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D28557&Docname=%E9%99%B3%E6%80%A1%E7%B6%ADI-Wei%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D28557&Docname=%E9%99%B3%E6%80%A1%E7%B6%ADI-Wei%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230816_095239.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "27",
+    "deptName": "放射腫瘤科",
+    "deptAbout": "肝癌、頭頸癌、食道癌、肺癌、婦癌、乳癌、直腸癌、攝護腺癌、泌尿道腫瘤、腦瘤等全身各種癌症之治癒性及緩和性放射治療、各癌症之身體立體定位放射治療SBRT。「請至地下一樓看診」",
+    "doctorList": [
+      {
+        "doctNo": "D51414",
+        "doctName": "王博民Po-Ming",
+        "doctTitle": "放射腫瘤科主任",
+        "doctAbout": "王博民主任於臺大醫院接受放射腫瘤專科醫師完整的訓練後，晉升主治醫師。王主任擅長於肝癌之身體立體定位放射治療SBRT，以及各種癌症 (泌尿道腫瘤、頭頸癌、食道癌、肺癌、腦癌、大腸直腸癌)之治癒性及緩和性放射治療。對於最新型直線加速器，如真光刀(TrueBeam)、好神刀(Halcyon)，及新式之放射治療技術，擁有豐富的臨床治療經驗。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51414&Docname=%E7%8E%8B%E5%8D%9A%E6%B0%91Po-Ming%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51414&Docname=%E7%8E%8B%E5%8D%9A%E6%B0%91Po-Ming%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_133013.JPG"
+      },
+      {
+        "doctNo": "D51415",
+        "doctName": "鍾娜娜Na-Na",
+        "doctTitle": "主治醫師",
+        "doctAbout": "鍾娜娜醫師於臺大醫院接受放射腫瘤專科醫師完整的訓練後，晉升主治醫師。鍾醫師擅長於各種癌症 (乳癌、婦癌、肺癌、腦癌、頭頸癌、食道癌、泌尿道腫瘤、大腸直腸癌、肝癌)之治癒性及緩和性放射治療。此外，對於最新型直線加速器，如真光刀(TrueBeam)、好神刀(Halcyon)，及新式之放射治療技術，擁有豐富的臨床治療經驗。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51415&Docname=%E9%8D%BE%E5%A8%9C%E5%A8%9CNa-Na%20Chung",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51415&Docname=%E9%8D%BE%E5%A8%9C%E5%A8%9CNa-Na%20Chung",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_164709.JPG"
+      },
+      {
+        "doctNo": "D52309",
+        "doctName": "吳偉榤",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳偉榤醫師對待患者親切有耐心，治療疾病專業且仔細，曾獲得中國醫藥大學附設醫院優良醫師獎的肯定。吳醫師於中國附醫接受完整的放射腫瘤專科醫師訓練並且晉升主治醫師，專精於各種癌症之放射治療，如：頭頸癌、大腸直腸癌、食道癌、攝護腺癌、泌尿道腫瘤、乳癌、肺癌、腦癌、肝癌等。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52309&Docname=%E5%90%B3%E5%81%89%E6%A6%A4%20Wei-Chieh%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52309&Docname=%E5%90%B3%E5%81%89%E6%A6%A4%20Wei-Chieh%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200318_065203.JPG"
+      }
+    ]
+  },
+  {
+    "deptId": "28",
+    "deptName": "檢驗科",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "29",
+    "deptName": "健康檢查中心",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D52282",
+        "doctName": "林益卿I-Ching",
+        "doctTitle": "預防暨社區醫學中心主任兼家庭醫學科主任",
+        "doctAbout": "曾就讀高雄醫學大學醫醫學技術學系、成大生化所、彰化師範大學中等教師學士後教育學分班教育學程、高雄醫學大學學士後醫學系以及亞洲大學健康產業管理學系博士班。在各個學校學習各種不同領域的專業，包括生物化學、遺傳工程技術、中等學校教師教學技能、健康產業管理、健康管理以及醫學等專業領域。在醫院實務上，曾經在彰化秀傳醫院檢驗科擔任醫檢師及教學研究組組長，協助推動檢驗科的教學研究。在彰化基督教醫院擔任家庭醫學科3年住院醫師、1年總醫師、10年的科主任、分院醫務長及副院長等職。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52282&Docname=%E6%9E%97%E7%9B%8A%E5%8D%BFI-Ching%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52282&Docname=%E6%9E%97%E7%9B%8A%E5%8D%BFI-Ching%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20191021_080403.jpg"
+      },
+      {
+        "doctNo": "D00198",
+        "doctName": "高惠芬Hui-Fen",
+        "doctTitle": "微創內視鏡科主任",
+        "doctAbout": "高惠芬醫師精修腹腔鏡微創手術 (包括達文西機器手臂輔之腹腔鏡手術、3D導航腹腔鏡手術、一般腹腔鏡手術）、子宮內視鏡手術及傳統手術，經驗豐富，視病猶親。曾榮獲2015年衛福部優良醫師獎及教育部社教公益獎外，也曾多年榮獲雜誌遴選之婦產科優良醫師。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00198&Docname=%E9%AB%98%E6%83%A0%E8%8A%ACHui-Fen%20Kao",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00198&Docname=%E9%AB%98%E6%83%A0%E8%8A%ACHui-Fen%20Kao",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201106_120608.JPG"
+      },
+      {
+        "doctNo": "D00378",
+        "doctName": "張耀中Yao-Chung",
+        "doctTitle": "視網膜科主任",
+        "doctAbout": "張耀中 眼科視網膜中心主任：飛蚊症雷射治療、糖尿病視網膜病變、老年性黃斑部病變、中心漿液性視網膜病變、視網膜剝離、飛秒白內障雷射手術、微小傷口白內障手術、微創玻璃體切除手術、微創玻璃體切除手術。張醫師具豐富的視網膜手術經驗，提供病人最具專業的眼科治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00378&Docname=%E5%BC%B5%E8%80%80%E4%B8%ADYao-Chung%20Chang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00378&Docname=%E5%BC%B5%E8%80%80%E4%B8%ADYao-Chung%20Chang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_162606.JPG"
+      },
+      {
+        "doctNo": "D00373",
+        "doctName": "石欣衛Hsin-Wei",
+        "doctTitle": "震波碎石室主任",
+        "doctAbout": "泌尿科常見內視鏡檢查、超音波檢查及尿路動力學檢查和影像判讀，另外如泌尿道感染及泌尿科常見手術，例如：尿路結石、攝護腺肥大、泌尿腫瘤、腹腔鏡手術、疝氣修補、包皮環切、輸精管結紮",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00373&Docname=%E7%9F%B3%E6%AC%A3%E8%A1%9BHsin-Wei%20Shih%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00373&Docname=%E7%9F%B3%E6%AC%A3%E8%A1%9BHsin-Wei%20Shih%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_110923.JPG"
+      },
+      {
+        "doctNo": "180715",
+        "doctName": "蔡東啟Dong-Chii",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蔡東啟醫師為家庭醫學科專科醫師，具安寧緩和醫療專業背景。曾於衛生福利部臺中醫院完成住院醫師及總醫師訓練，並至臺大醫院緩和病房接受安寧緩和醫療專業訓練，返院後升任主治醫師。臨床服務涵蓋門診、住院病房、居家醫療及長期照護，亦參與健檢中心相關業務，並支援衛福部南投及彰化醫院，累積臨床經驗逾二十餘年。期間協助成立醫院安寧團隊與安寧病房，並推動醫院通過安寧緩和專科訓練醫院評鑑，致力於預立醫療照護諮商之推廣。蔡醫師重視以病人為中心的整合照護，期望以多年臨床與教學經驗，提供專業、溫暖且持續的醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180715&Docname=%E8%94%A1%E6%9D%B1%E5%95%9FDong-Chii%20Tsay",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180715&Docname=%E8%94%A1%E6%9D%B1%E5%95%9FDong-Chii%20Tsay",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251222_163806.jpg"
+      },
+      {
+        "doctNo": "D00199",
+        "doctName": "葛裕民Yu-Min",
+        "doctTitle": "婦癌科主任",
+        "doctAbout": "葛裕民醫師為亞大醫院婦癌科主任，致力於子宮頸癌、卵巢癌、子宮內膜癌的診斷與治療，深獲病患肯定。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00199&Docname=%E8%91%9B%E8%A3%95%E6%B0%91Yu-Min%20Ko",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00199&Docname=%E8%91%9B%E8%A3%95%E6%B0%91Yu-Min%20Ko",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_111739.JPG"
+      },
+      {
+        "doctNo": "D00155",
+        "doctName": "邱鴻傑Hung-Chieh",
+        "doctTitle": "男性功能中心主任",
+        "doctAbout": "邱鴻傑醫師於中國醫藥大學附設醫院完成泌尿科專科醫師訓練並升任主治醫師，目前為本院男性性功能中心主任，專長為：尿路結石、血尿、腰痛、泌尿道感染、排尿障礙、攝護腺肥大及泌尿道內視鏡手術。男性性功能障礙、不孕症、輸精管結紮及精索靜脈曲張手術。泌尿腫瘤手術、腹腔鏡手術、包皮環切手術以及疝氣修補手術。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00155&Docname=%E9%82%B1%E9%B4%BB%E5%82%91Hung-Chieh%20Chiu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00155&Docname=%E9%82%B1%E9%B4%BB%E5%82%91Hung-Chieh%20Chiu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230220_165152.jpg"
+      },
+      {
+        "doctNo": "180016",
+        "doctName": "賴芳宇",
+        "doctTitle": "主治醫師",
+        "doctAbout": "賴芳宇醫師於高雄醫學大學醫學系畢業後，於彰基中華院區高仁愛紀念病房接受安寧病房訓練，也至中國附醫接受完整高齡醫學科訓練。專長於糖尿病、高血壓、高血脂等慢性病治療、安寧療護、老年醫學及長期照護，旅遊醫學建議與成人疫苗接種。賴芳宇醫師對於醫院未來展望抱著期待，一同為霧峰及周邊縣市民眾提供周全的健康醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180016&Docname=%E8%B3%B4%E8%8A%B3%E5%AE%87%20Fang-Yu%20Lai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180016&Docname=%E8%B3%B4%E8%8A%B3%E5%AE%87%20Fang-Yu%20Lai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230706_135620.jpg"
+      },
+      {
+        "doctNo": "D51327",
+        "doctName": "陳泰昌Tai-Chang",
+        "doctTitle": "婦科主任",
+        "doctAbout": "陳泰昌醫師專長微創腹腔鏡手術，舉凡婦女子宮肌瘤、卵巢腫瘤，皆能運用微創腹腔鏡手術治療。更引進新式單孔微創腹腔鏡手術，嘉惠台中地區民眾。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51327&Docname=%E9%99%B3%E6%B3%B0%E6%98%8CTai-Chang%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51327&Docname=%E9%99%B3%E6%B3%B0%E6%98%8CTai-Chang%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_160057.jpg"
+      },
+      {
+        "doctNo": "D00824",
+        "doctName": "蕭子玄Ji-Yuen",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蕭子玄醫師於中國醫藥大學附設醫院完成泌尿專科醫師訓練後升任主治醫師，並取得美國ECFMG認證。專長為泌尿微創手術 (含軟式輸尿管鏡、雷射攝護腺手術、腹腔鏡、體外震波治療等)。主治項目包括結石、攝護腺肥大、女性尿失禁、泌尿腫瘤、疝氣修補、包皮手術、男性結紮、血尿、性功能障礙。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00824&Docname=%E8%95%AD%E5%AD%90%E7%8E%84Ji-Yuen%20Justin%20%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00824&Docname=%E8%95%AD%E5%AD%90%E7%8E%84Ji-Yuen%20Justin%20%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200115_141408.JPG"
+      },
+      {
+        "doctNo": "D18486",
+        "doctName": "吳佾璇Yi-Hsuan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳佾璇醫師畢業於中國醫藥大學中醫學系，於沙鹿光田醫院接受完整家醫科專科訊練，照顧慢性病房及協助長照業務，因此更加熟悉老年人及多重共病患者的長期照護。專長於預防醫學、慢性疾病、體健檢、一般醫學、肥胖醫學、居家照護、安寧療護、旅遊醫學建議與成人疫苗接種。吳佾璇醫師對於醫院未來展望抱著期待，希冀之後能發揮所長，為霧峰及周邊縣市民眾提供周全的健康醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D18486&Docname=%E5%90%B3%E4%BD%BE%E7%92%87Yi-Hsuan%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D18486&Docname=%E5%90%B3%E4%BD%BE%E7%92%87Yi-Hsuan%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230925_082310.JPG"
+      },
+      {
+        "doctNo": "D00135",
+        "doctName": "田輝勣Hui-Chi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "中耳炎、膽脂瘤、中耳積水診斷及手術治療、耳鳴眩暈診斷及治療、顏面神經麻痺診斷及治療、人工電子耳植入手術及復健、聽能輔具及聽能復健平衡復健諮詢",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00135&Docname=%E7%94%B0%E8%BC%9D%E5%8B%A3Hui-Chi%20Tien",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00135&Docname=%E7%94%B0%E8%BC%9D%E5%8B%A3Hui-Chi%20Tien",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_113127.JPG"
+      },
+      {
+        "doctNo": "D52848",
+        "doctName": "劉又銘Yu-Ming",
+        "doctTitle": "主治醫師",
+        "doctAbout": "劉又銘醫師畢業於中國醫藥大學醫學系畢業後在中國附醫擔任不分科住院醫師，之後於光田綜合醫院完成紮實的家庭醫學科訓練，由於訓練過程中包含中風亞急性照護期病房訓練，從病人住院到出院後居家照護都是由家醫科醫師一手包辦，故在訓練過程中比較能看到病程的全貌，也了解病人在各個階段接受醫療處置的效果及其可能遇到的任何不適，因此能夠同理病人的感受。訓練完後到基層診所及衛生所服務對基層醫療診所有深度的認識。從醫學中心畢業訓練出來經過區域醫院、基層診所及地區醫院的訓練洗禮，可說對整體的醫療型態都有深入的了解，提供民眾全人、全家、全社區的服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52848&Docname=%E5%8A%89%E5%8F%88%E9%8A%98Yu-Ming%20Liu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52848&Docname=%E5%8A%89%E5%8F%88%E9%8A%98Yu-Ming%20Liu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230106_093147.png"
+      },
+      {
+        "doctNo": "D28534",
+        "doctName": "李佳倫Chia-Lun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "李佳倫醫師畢業於中國醫藥大學醫學系，於衛福部臺中醫院完成家庭醫學科專科醫師訓練。專長於急慢性疾病初診篩檢及診療、慢性病防治、成人健康檢查暨健檢報告追蹤、預防醫學及疫苗注射、成人戒菸藥物治療、旅遊醫學諮詢。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D28534&Docname=%E6%9D%8E%E4%BD%B3%E5%80%ABChia-Lun%20Li",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D28534&Docname=%E6%9D%8E%E4%BD%B3%E5%80%ABChia-Lun%20Li",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240430_101229.png"
+      },
+      {
+        "doctNo": "D30003",
+        "doctName": "張晶雅Jing-Ya",
+        "doctTitle": "主治醫師",
+        "doctAbout": "張晶雅醫師畢業於中國醫藥大學醫學系，並於中國醫藥大學附設醫院完成家庭醫學科專科醫師訓練。專精於常見疾病診治、慢性病管理與預防、成人健康檢查評估與追蹤、預防醫學及疫苗接種，及成人戒菸藥物治療。致力於提供全人照護，以專業與細心陪伴患者維持健康、提升生活品質。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D30003&Docname=%E5%BC%B5%E6%99%B6%E9%9B%85Jing-Ya%20Chang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D30003&Docname=%E5%BC%B5%E6%99%B6%E9%9B%85Jing-Ya%20Chang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250324_102804.jpg"
+      },
+      {
+        "doctNo": "180664",
+        "doctName": "卓妮Nei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "卓妮醫師在中國醫藥大學附設醫院完成見習訓練，實習階段於台中榮民總醫院，取得醫師執照後，回到中醫大附醫展開住院醫師的第一年。那段時間工作繁重、值班頻繁，壓力相當大，但她始終保持積極與穩定的態度，懂得在高壓環境中調整步調、持續成長。隨後於光田綜合醫院家醫科受訓，主要負責慢性病房與復健中心照護，服務對象包括中風後、脊髓損傷、骨折術後及呼吸機脫離的患者，也有長期臥床、失智與洗腎病人等，臨床經驗相當扎實。\r\n卓醫師始終認為醫療工作不只是技術，更是同理與反思的過程。面對龐大工作量，她懂得訂定優先順序、有效安排，並在每次挑戰後自我檢討與修正。這樣的歷程，讓她深刻體會到「全人照護」的核心精神——醫療不止於治病，更在於提供病人與家屬連貫、協調與預防性的照護服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180664&Docname=%E5%8D%93%E5%A6%AENei%20Cheok%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180664&Docname=%E5%8D%93%E5%A6%AENei%20Cheok%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251103_132919.jpg"
+      },
+      {
+        "doctNo": "D32852",
+        "doctName": "沈凡筠Fan-Yun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "沈凡筠醫師畢業於中國醫藥大學醫學系，並於中國醫藥大學附設醫院完成家庭醫學科專科醫師訓練。專精於常見疾病診治、慢性病管理與預防、成人健康檢查評估與追蹤、預防醫學及疫苗接種，及成人戒菸藥物治療。致力於提供全人照護，以專業與細心陪伴患者維持健康、提升生活品質。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D32852&Docname=%E6%B2%88%E5%87%A1%E7%AD%A0Fan-Yun%20Shen%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D32852&Docname=%E6%B2%88%E5%87%A1%E7%AD%A0Fan-Yun%20Shen%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260226_163630.jpg"
+      },
+      {
+        "doctNo": "D33225",
+        "doctName": "柯傑許Chieh-Hsu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "柯傑許醫師畢業於高雄醫學大學醫學系，於秀傳紀念醫院完成家庭醫學科專科醫師訓練，曾擔任中港澄清醫院家庭醫學科主治醫師。專長於急性疾病處置、慢性疾病治療與追蹤、預防醫學及疫苗接種、勞工健康服務。致力於提供全人照護，以專業陪伴患者提升健康。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D33225&Docname=%E6%9F%AF%E5%82%91%E8%A8%B1Chieh-Hsu%20Ko",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D33225&Docname=%E6%9F%AF%E5%82%91%E8%A8%B1Chieh-Hsu%20Ko",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260727_164152.png"
+      }
+    ]
+  },
+  {
+    "deptId": "30",
+    "deptName": "社工室",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "31",
+    "deptName": "感染科",
+    "deptAbout": "發燒疾病，不明熱，一般細菌，病毒感染性疾病",
+    "doctorList": [
+      {
+        "doctNo": "D51416",
+        "doctName": "張為碩Wei-Shuo",
+        "doctTitle": "主治醫師",
+        "doctAbout": "一般內科學、發燒疾病、不明熱、 一般細菌、病毒感染性疾病。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51416&Docname=%E5%BC%B5%E7%82%BA%E7%A2%A9Wei-Shuo%20Chang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51416&Docname=%E5%BC%B5%E7%82%BA%E7%A2%A9Wei-Shuo%20Chang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_151806.jpg"
+      },
+      {
+        "doctNo": "D52657",
+        "doctName": "鄭孟瑜Meng-Yu",
+        "doctTitle": "",
+        "doctAbout": "鄭醫師專長於發燒，不明熱，蜂窩性組織炎，呼吸道感染，泌尿道感染，細菌及病毒感染相關疾病。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52657&Docname=%E9%84%AD%E5%AD%9F%E7%91%9CMeng-Yu%20Cheng%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52657&Docname=%E9%84%AD%E5%AD%9F%E7%91%9CMeng-Yu%20Cheng%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210902_153733.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "32",
+    "deptName": "乳房外科",
+    "deptAbout": "乳頭分泌物、乳房腫瘤、乳腺炎、乳癌手術治療及化療、乳房疼痛",
+    "doctorList": [
+      {
+        "doctNo": "D14726",
+        "doctName": "林裕強Yu-Chiang",
+        "doctTitle": "癌症中心助理副院長",
+        "doctAbout": "秉持視病猶親的精神以及親力親為的原則，提供病患相關外科疾病的治療與手術服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D14726&Docname=%E6%9E%97%E8%A3%95%E5%BC%B7Yu-Chiang%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D14726&Docname=%E6%9E%97%E8%A3%95%E5%BC%B7Yu-Chiang%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240117_105903.jpg"
+      },
+      {
+        "doctNo": "D51300",
+        "doctName": "温義煇Yi-Hui",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "國內知名的經口腔甲狀腺切除手術的外科醫師亦為本院副院長，專長於經口腔甲狀腺切除手術。經口腔前庭內視鏡甲狀腺切除術過程中可在內視鏡的放大和多角度觀察下，清晰的分辨神經、血管等細微結構，因此，一些常見的手術併發症如術中出血、喉返神經損傷出現聲音嘶啞症狀、誤傷副甲狀腺出現手腳麻痺、氣管損傷等發生率相對更低。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51300&Docname=%E6%B8%A9%E7%BE%A9%E7%85%87Yi-Hui%20Wen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51300&Docname=%E6%B8%A9%E7%BE%A9%E7%85%87Yi-Hui%20Wen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_154007.JPG"
+      },
+      {
+        "doctNo": "D52368",
+        "doctName": "吳聰明Cong-Ming",
+        "doctTitle": "乳房外科主任",
+        "doctAbout": "1.乳房疾病的診斷及治療(乳房超音波檢查、定位、腫瘤切除、乳癌根治、保乳及腋部前哨淋巴腺結切除術)\r\n2.消化器官手術(肝、膽、胰、脾、腸、胃)\r\n3.疝氣微創、痔瘡、PPH手術",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52368&Docname=%E5%90%B3%E8%81%B0%E6%98%8ECong-Ming%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52368&Docname=%E5%90%B3%E8%81%B0%E6%98%8ECong-Ming%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260701_130650.jpg"
+      },
+      {
+        "doctNo": "D00517",
+        "doctName": "陳芝蓉Chih-Jung",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳芝蓉醫師臨床專長於乳癌、乳房腫瘤、乳房炎。對於相關領域的臨床研究更有其專業。陳醫師提醒各位45歲以上以及40歲以上二等親內具乳癌家族史的女性，為了自己的健康，每兩年請記得到醫院接受乳房攝影檢查。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00517&Docname=%E9%99%B3%E8%8A%9D%E8%93%89Chih-Jung%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00517&Docname=%E9%99%B3%E8%8A%9D%E8%93%89Chih-Jung%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20220128_150225.jpg"
+      },
+      {
+        "doctNo": "D24767",
+        "doctName": "蘇孟夏Meng-Xia",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蘇孟夏醫師以其女性醫師的細膩與同理心，及多年臨床經驗與專業訓練，為患者提供溫暖且專業的醫療照護。專精於乳房微創及美容手術，對於乳房良性腫瘤、纖維囊腫、乳腺炎，以及乳癌等疾病的診斷與治療皆有逾百例手術治療經驗，以量身打造個人化的整合治療計畫，從術前心理支持、客製化手術、乳房重建及整形手術，到術後的化學治療、賀爾蒙治療及標靶治療。強調不只根治病因，更要恢復到病前正常完整狀態，在完整治療前提下，力求維護患者的生活品質與自信。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D24767&Docname=%E8%98%87%E5%AD%9F%E5%A4%8FMeng-Xia%20Su",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D24767&Docname=%E8%98%87%E5%AD%9F%E5%A4%8FMeng-Xia%20Su",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240719_155946.jpg"
+      },
+      {
+        "doctNo": "D22651",
+        "doctName": "黃至豪Chih-Hao",
+        "doctTitle": "主治醫師",
+        "doctAbout": "黃至豪醫師接受了完整的外科專科及次專科醫師訓練，同時具有多項外科次專科醫師資格。完成次專科訓練後，專注投入乳癌治療領域，累積豐富臨床經驗與專業見解，並常受邀擔任乳房醫學相關講座與學術活動之講師，致力於推廣最新治療觀念與技術，期望將最新證據與技術轉化為病人可及的優質照護。\r\n專長包括乳癌整合性治療、內視鏡乳房手術、微創乳房手術與乳房部分切除後微整形修復手術。在臨床上強調以病人為中心的多專科整合模式，針對不同病情設計個別化治療計畫，兼顧腫瘤控制與美觀重建，並重視治療期間與術後的身體功能保存及生活品質維護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D22651&Docname=%E9%BB%83%E8%87%B3%E8%B1%AAChih-Hao%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D22651&Docname=%E9%BB%83%E8%87%B3%E8%B1%AAChih-Hao%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260225_132903.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "33",
+    "deptName": "肝膽外科",
+    "deptAbout": "一般外科、肝臟外科、器官移植、臨床醫學",
+    "doctorList": [
+      {
+        "doctNo": "D14726",
+        "doctName": "林裕強Yu-Chiang",
+        "doctTitle": "癌症中心助理副院長",
+        "doctAbout": "秉持視病猶親的精神以及親力親為的原則，提供病患相關外科疾病的治療與手術服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D14726&Docname=%E6%9E%97%E8%A3%95%E5%BC%B7Yu-Chiang%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D14726&Docname=%E6%9E%97%E8%A3%95%E5%BC%B7Yu-Chiang%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240117_105903.jpg"
+      },
+      {
+        "doctNo": "D00150",
+        "doctName": "鄭隆賓Long-Bin",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "國內媒體曾報導國內肝臟移三大名醫「北伯皇、中隆賓、南肇隆」的美譽，三人都師承美國換肝權威史達哲 (Dr. Starzl)，三位師兄弟各有特色，各自闖出一片天。鄭隆賓醫師肝臟移植的優異表現，同時也是一個極為優秀的肝膽腸胃、甲狀腺腫瘤執刀的外科權威。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00150&Docname=%E9%84%AD%E9%9A%86%E8%B3%93Long-Bin%20Jeng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00150&Docname=%E9%84%AD%E9%9A%86%E8%B3%93Long-Bin%20Jeng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180705_155607.jpg"
+      },
+      {
+        "doctNo": "D51300",
+        "doctName": "温義煇Yi-Hui",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "國內知名的經口腔甲狀腺切除手術的外科醫師亦為本院副院長，專長於經口腔甲狀腺切除手術。經口腔前庭內視鏡甲狀腺切除術過程中可在內視鏡的放大和多角度觀察下，清晰的分辨神經、血管等細微結構，因此，一些常見的手術併發症如術中出血、喉返神經損傷出現聲音嘶啞症狀、誤傷副甲狀腺出現手腳麻痺、氣管損傷等發生率相對更低。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51300&Docname=%E6%B8%A9%E7%BE%A9%E7%85%87Yi-Hui%20Wen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51300&Docname=%E6%B8%A9%E7%BE%A9%E7%85%87Yi-Hui%20Wen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_154007.JPG"
+      }
+    ]
+  },
+  {
+    "deptId": "34",
+    "deptName": "血友病中心",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D52367",
+        "doctName": "彭慶添Ching-Tien",
+        "doctTitle": "主治醫師",
+        "doctAbout": "彭慶添顧問醫師是將口服排鐵劑 (L1) 引進亞洲國家臨床研究使用的第一人，造福許多病患，亦為國際知名學者，擔任國際地中海型貧血聯合會 (T.I.F) 的指導委員，經常受邀到世界各地演講，不但參與並協助提升世界地中海型貧血的研究和照顧品質。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52367&Docname=%E5%BD%AD%E6%85%B6%E6%B7%BBChing-Tien%20Peng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52367&Docname=%E5%BD%AD%E6%85%B6%E6%B7%BBChing-Tien%20Peng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200401_095044.JPG"
+      }
+    ]
+  },
+  {
+    "deptId": "35",
+    "deptName": "癌症中心",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D00205",
+        "doctName": "黃建文Chien-Wen",
+        "doctTitle": "主任秘書及胸腔暨重症醫學副院長",
+        "doctAbout": "阻塞性呼吸道疾病、肺部感染症、肺部惡性腫瘤、急性呼吸窘迫症、敗血症及急性呼吸衰竭、睡眠呼吸中止症",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00205&Docname=%E9%BB%83%E5%BB%BA%E6%96%87Chien-Wen%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00205&Docname=%E9%BB%83%E5%BB%BA%E6%96%87Chien-Wen%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201123_131150.jpg"
+      },
+      {
+        "doctNo": "D00008",
+        "doctName": "黃文豊Wen-Li",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "黃文豊醫師為亞大醫院癌症中心顧問醫師，曾任台中榮總血液腫瘤科主任及國防醫學院臨床教授。秉持「以病人為中心」的醫療理念，研究領域非常廣泛，也曾榮獲「百大良醫」，專業備受肯定。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00008&Docname=%E9%BB%83%E6%96%87%E8%B1%8AWen-Li%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00008&Docname=%E9%BB%83%E6%96%87%E8%B1%8AWen-Li%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_155601.JPG"
+      },
+      {
+        "doctNo": "D7995",
+        "doctName": "謝清昀Ching-Yun",
+        "doctTitle": "血液腫瘤科主任暨癌症中心主任",
+        "doctAbout": "謝清昀醫師現為中國醫藥大學附設醫院血液腫瘤主治醫師。 臨床研究興趣主要範圍為腦部腫瘤,頭頸部腫瘤及淋巴癌。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D7995&Docname=%E8%AC%9D%E6%B8%85%E6%98%80Ching-Yun%20Hsieh",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D7995&Docname=%E8%AC%9D%E6%B8%85%E6%98%80Ching-Yun%20Hsieh",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250728_170227.jpg"
+      },
+      {
+        "doctNo": "D50988",
+        "doctName": "陳政國Cheng-Kuo",
+        "doctTitle": "胃腸肝膽科主任",
+        "doctAbout": "陳政國醫師在中國醫藥大學附設醫院內科部消化系接受完整的內科及消化系專科訓練，曾任台中培德醫院肝炎專任醫師，治療慢性C型肝炎干擾素有超過500例治療經驗。於消化道癌症治療經驗豐富，曾任中國醫大附醫食道癌，肝癌，大腸癌團隊治療醫師。於高階診斷性治療性內視鏡，如內視鏡超音波(EUS)，內視鏡黏膜下腫瘤切除術(ESD)， 腸道支架亦接受國內外完整訓練及具相當臨床經驗及數量，並多次於消化系醫學會報告最新成果。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D50988&Docname=%E9%99%B3%E6%94%BF%E5%9C%8BCheng-Kuo%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D50988&Docname=%E9%99%B3%E6%94%BF%E5%9C%8BCheng-Kuo%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_110808.JPG"
+      },
+      {
+        "doctNo": "D00152",
+        "doctName": "江驊哲Hua-Che",
+        "doctTitle": "大腸直腸外科主任",
+        "doctAbout": "江驊哲主任擅長於腹腔鏡微創大腸直腸手術、肛門良性疾患手術（痔瘡、廔管、肛裂、直腸脫垂、肛門狹窄等）； 肛門良性疾患手術（痔瘡環狀切除 PPH 手術、痔瘡雙極雷射刀超音波刀手術）；無痛大腸鏡檢查良性及惡性疾病（瘜肉、腫瘤等）； 激躁性腸徵候群（便秘、腹瀉）診療；大腸直腸發炎診療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00152&Docname=%E6%B1%9F%E9%A9%8A%E5%93%B2Hua-Che%20Chiang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00152&Docname=%E6%B1%9F%E9%A9%8A%E5%93%B2Hua-Che%20Chiang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_153223.jpg"
+      },
+      {
+        "doctNo": "D51233",
+        "doctName": "鄭旭棠Hsu-Tang",
+        "doctTitle": "主治醫師",
+        "doctAbout": "鄭旭棠醫師在中國醫藥大學附設醫院整形外科接受整形外科相關訓練後取得衛生福利部整形外科專科醫師資格，期間前曾往林口長庚醫院及桃園長庚醫院接受顯微重建及顱顏外科重建手術訓練。升任中國醫藥大學附設醫院整形外科主治醫師後，於2014年負笈前往美國約翰霍普金斯大學附設醫院整形外科進修一年。 鄭醫師熱衷於臨床教學，曾經榮獲九十六學年度中國醫藥大學陳寬正校友基金會「臨床優良教師金蘋果獎」。鄭醫師對臨床教學的投入，使他連續獲選為九十六、九十七及九十九學年度中國醫藥大學附設醫院優良教學住院醫師；並以「以NEJM Case Records of the MGH為基礎的病史寫作」獲得中國醫藥大學附設醫院2011年教學創新獎第一名，並於2013獲得中國醫藥大學「臨床醫學教育貢獻獎」。在臨床研究方面，鄭醫師目前擔任亞洲大學「副」教授，並且已經發表「六十餘」篇英文期刊文章在整形外科及外科學相關期刊。「2021年鄭旭棠醫師榮獲亞大附醫票選第一屆友善大使醫師類第一名。」",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51233&Docname=%E9%84%AD%E6%97%AD%E6%A3%A0Hsu-Tang%20Cheng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51233&Docname=%E9%84%AD%E6%97%AD%E6%A3%A0Hsu-Tang%20Cheng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_162836.JPG"
+      },
+      {
+        "doctNo": "D51414",
+        "doctName": "王博民Po-Ming",
+        "doctTitle": "放射腫瘤科主任",
+        "doctAbout": "王博民主任於臺大醫院接受放射腫瘤專科醫師完整的訓練後，晉升主治醫師。王主任擅長於肝癌之身體立體定位放射治療SBRT，以及各種癌症 (泌尿道腫瘤、頭頸癌、食道癌、肺癌、腦癌、大腸直腸癌)之治癒性及緩和性放射治療。對於最新型直線加速器，如真光刀(TrueBeam)、好神刀(Halcyon)，及新式之放射治療技術，擁有豐富的臨床治療經驗。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51414&Docname=%E7%8E%8B%E5%8D%9A%E6%B0%91Po-Ming%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51414&Docname=%E7%8E%8B%E5%8D%9A%E6%B0%91Po-Ming%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_133013.JPG"
+      },
+      {
+        "doctNo": "D51810",
+        "doctName": "黃志平Chi-Ping",
+        "doctTitle": "泌尿科科主任",
+        "doctAbout": "黃志平主任於台中榮總完成泌尿科專科醫師訓練後，先至嘉義榮總擔任碎石中心主任。其專長為泌尿腫瘤診治(攝護腺癌、腎臟癌、膀胱癌及輸尿管癌等)、微創手術及腎臟移植手術。黃主任達文西機器手臂輔助系統手術經驗豐富，累積逾千例經驗。曾至美國俄亥俄州醫學中心之機器手臂微創中心進修（攝護腺癌根除手術及腎臟腫瘤部份切除手術），及日本東京女子醫科大學附設醫院研修；亦專精於攝護腺肥大雷射微創手術及泌尿腫瘤細胞治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51810&Docname=%E9%BB%83%E5%BF%97%E5%B9%B3Chi-Ping%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51810&Docname=%E9%BB%83%E5%BF%97%E5%B9%B3Chi-Ping%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_145944.jpg"
+      },
+      {
+        "doctNo": "D00703",
+        "doctName": "許正男Cheng-Nan",
+        "doctTitle": "放射診斷科主任",
+        "doctAbout": "許正男醫師，現任為本院放射診斷科主任。2003 年畢業於中國醫藥大學，隨後於中國醫藥大學附設醫院放射科訓練，2009 年獲得放射線診斷專科醫師，專長為介入性放射線學影像檢查與判讀。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00703&Docname=%E8%A8%B1%E6%AD%A3%E7%94%B7Cheng-Nan%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00703&Docname=%E8%A8%B1%E6%AD%A3%E7%94%B7Cheng-Nan%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180926_094744.jpg"
+      },
+      {
+        "doctNo": "D00198",
+        "doctName": "高惠芬Hui-Fen",
+        "doctTitle": "微創內視鏡科主任",
+        "doctAbout": "高惠芬醫師精修腹腔鏡微創手術 (包括達文西機器手臂輔之腹腔鏡手術、3D導航腹腔鏡手術、一般腹腔鏡手術）、子宮內視鏡手術及傳統手術，經驗豐富，視病猶親。曾榮獲2015年衛福部優良醫師獎及教育部社教公益獎外，也曾多年榮獲雜誌遴選之婦產科優良醫師。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00198&Docname=%E9%AB%98%E6%83%A0%E8%8A%ACHui-Fen%20Kao",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00198&Docname=%E9%AB%98%E6%83%A0%E8%8A%ACHui-Fen%20Kao",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201106_120608.JPG"
+      },
+      {
+        "doctNo": "D00207",
+        "doctName": "陳家禹Chia-Yu",
+        "doctTitle": "內視鏡室主任",
+        "doctAbout": "各種胃腸道疾病及肝膽疾病之診斷與治療，例如 : 腹痛、消化不良、便秘、腹瀉、胃食道逆流、胃潰瘍、十二指腸潰瘍、大腸息肉、腸躁症、常見肝膽疾病等。 \r\n執行腹部超音波、胃鏡、大腸鏡、內視鏡止血術及息肉切除術等治療性內視鏡檢查。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00207&Docname=%E9%99%B3%E5%AE%B6%E7%A6%B9Chia-Yu%20Chen%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00207&Docname=%E9%99%B3%E5%AE%B6%E7%A6%B9Chia-Yu%20Chen%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_164641.JPG"
+      },
+      {
+        "doctNo": "D00373",
+        "doctName": "石欣衛Hsin-Wei",
+        "doctTitle": "震波碎石室主任",
+        "doctAbout": "泌尿科常見內視鏡檢查、超音波檢查及尿路動力學檢查和影像判讀，另外如泌尿道感染及泌尿科常見手術，例如：尿路結石、攝護腺肥大、泌尿腫瘤、腹腔鏡手術、疝氣修補、包皮環切、輸精管結紮",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00373&Docname=%E7%9F%B3%E6%AC%A3%E8%A1%9BHsin-Wei%20Shih%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00373&Docname=%E7%9F%B3%E6%AC%A3%E8%A1%9BHsin-Wei%20Shih%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_110923.JPG"
+      },
+      {
+        "doctNo": "D51415",
+        "doctName": "鍾娜娜Na-Na",
+        "doctTitle": "主治醫師",
+        "doctAbout": "鍾娜娜醫師於臺大醫院接受放射腫瘤專科醫師完整的訓練後，晉升主治醫師。鍾醫師擅長於各種癌症 (乳癌、婦癌、肺癌、腦癌、頭頸癌、食道癌、泌尿道腫瘤、大腸直腸癌、肝癌)之治癒性及緩和性放射治療。此外，對於最新型直線加速器，如真光刀(TrueBeam)、好神刀(Halcyon)，及新式之放射治療技術，擁有豐富的臨床治療經驗。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51415&Docname=%E9%8D%BE%E5%A8%9C%E5%A8%9CNa-Na%20Chung",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51415&Docname=%E9%8D%BE%E5%A8%9C%E5%A8%9CNa-Na%20Chung",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_164709.JPG"
+      },
+      {
+        "doctNo": "D51843",
+        "doctName": "王輝明Hwei-Ming",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "王輝明醫師是台灣用腹腔鏡進行結腸切除手術的第一人。如今更進步成單孔微創手術，患者今天手術，明天就能下床行走，至今已造福逾萬人。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51843&Docname=%E7%8E%8B%E8%BC%9D%E6%98%8EHwei-Ming%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51843&Docname=%E7%8E%8B%E8%BC%9D%E6%98%8EHwei-Ming%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_133913.JPG"
+      },
+      {
+        "doctNo": "D51300",
+        "doctName": "温義煇Yi-Hui",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "國內知名的經口腔甲狀腺切除手術的外科醫師亦為本院副院長，專長於經口腔甲狀腺切除手術。經口腔前庭內視鏡甲狀腺切除術過程中可在內視鏡的放大和多角度觀察下，清晰的分辨神經、血管等細微結構，因此，一些常見的手術併發症如術中出血、喉返神經損傷出現聲音嘶啞症狀、誤傷副甲狀腺出現手腳麻痺、氣管損傷等發生率相對更低。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51300&Docname=%E6%B8%A9%E7%BE%A9%E7%85%87Yi-Hui%20Wen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51300&Docname=%E6%B8%A9%E7%BE%A9%E7%85%87Yi-Hui%20Wen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_154007.JPG"
+      },
+      {
+        "doctNo": "D00199",
+        "doctName": "葛裕民Yu-Min",
+        "doctTitle": "婦癌科主任",
+        "doctAbout": "葛裕民醫師為亞大醫院婦癌科主任，致力於子宮頸癌、卵巢癌、子宮內膜癌的診斷與治療，深獲病患肯定。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00199&Docname=%E8%91%9B%E8%A3%95%E6%B0%91Yu-Min%20Ko",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00199&Docname=%E8%91%9B%E8%A3%95%E6%B0%91Yu-Min%20Ko",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_111739.JPG"
+      },
+      {
+        "doctNo": "D00155",
+        "doctName": "邱鴻傑Hung-Chieh",
+        "doctTitle": "男性功能中心主任",
+        "doctAbout": "邱鴻傑醫師於中國醫藥大學附設醫院完成泌尿科專科醫師訓練並升任主治醫師，目前為本院男性性功能中心主任，專長為：尿路結石、血尿、腰痛、泌尿道感染、排尿障礙、攝護腺肥大及泌尿道內視鏡手術。男性性功能障礙、不孕症、輸精管結紮及精索靜脈曲張手術。泌尿腫瘤手術、腹腔鏡手術、包皮環切手術以及疝氣修補手術。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00155&Docname=%E9%82%B1%E9%B4%BB%E5%82%91Hung-Chieh%20Chiu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00155&Docname=%E9%82%B1%E9%B4%BB%E5%82%91Hung-Chieh%20Chiu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230220_165152.jpg"
+      },
+      {
+        "doctNo": "D51327",
+        "doctName": "陳泰昌Tai-Chang",
+        "doctTitle": "婦科主任",
+        "doctAbout": "陳泰昌醫師專長微創腹腔鏡手術，舉凡婦女子宮肌瘤、卵巢腫瘤，皆能運用微創腹腔鏡手術治療。更引進新式單孔微創腹腔鏡手術，嘉惠台中地區民眾。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51327&Docname=%E9%99%B3%E6%B3%B0%E6%98%8CTai-Chang%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51327&Docname=%E9%99%B3%E6%B3%B0%E6%98%8CTai-Chang%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_160057.jpg"
+      },
+      {
+        "doctNo": "D00181",
+        "doctName": "林佑達Yu-Ta",
+        "doctTitle": "主治醫生",
+        "doctAbout": "林佑達醫師專長於胃腸肝膽疾病之中西醫整合治療諮詢。以及各種胃腸道疾病及肝膽疾病相關診治，執行腹部超音波、胃鏡、內視鏡止血術、診斷性大腸鏡及大腸息肉切除術等內視鏡檢查。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00181&Docname=%E6%9E%97%E4%BD%91%E9%81%94Yu-Ta%20Lin%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00181&Docname=%E6%9E%97%E4%BD%91%E9%81%94Yu-Ta%20Lin%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_164057.JPG"
+      },
+      {
+        "doctNo": "D51051",
+        "doctName": "林敬淳Jing-Chun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "腹腔鏡大腸直腸微創手術、經肛門內視鏡微創手術、大腸內視鏡診斷及息肉切除、一般肛門疾病",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51051&Docname=%E6%9E%97%E6%95%AC%E6%B7%B3Jing-Chun%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51051&Docname=%E6%9E%97%E6%95%AC%E6%B7%B3Jing-Chun%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_140020.JPG"
+      },
+      {
+        "doctNo": "D00824",
+        "doctName": "蕭子玄Ji-Yuen",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蕭子玄醫師於中國醫藥大學附設醫院完成泌尿專科醫師訓練後升任主治醫師，並取得美國ECFMG認證。專長為泌尿微創手術 (含軟式輸尿管鏡、雷射攝護腺手術、腹腔鏡、體外震波治療等)。主治項目包括結石、攝護腺肥大、女性尿失禁、泌尿腫瘤、疝氣修補、包皮手術、男性結紮、血尿、性功能障礙。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00824&Docname=%E8%95%AD%E5%AD%90%E7%8E%84Ji-Yuen%20Justin%20%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00824&Docname=%E8%95%AD%E5%AD%90%E7%8E%84Ji-Yuen%20Justin%20%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200115_141408.JPG"
+      },
+      {
+        "doctNo": "D00853",
+        "doctName": "江承源Cheng-Yuan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "各種胃腸道疾病及肝膽疾病：腹痛、便祕／腹瀉、胃食道逆流、胃及十二指腸潰瘍、腸躁症、常見之肝膽疾病等。\r\n腹部超音波、胃鏡、大腸鏡檢查、內視鏡治療－止血及息肉切除。\r\n各種慢性肝炎，Ｂ型肝炎／Ｃ型肝炎／酒精性及其他肝炎追蹤治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00853&Docname=%E6%B1%9F%E6%89%BF%E6%BA%90Cheng-Yuan%20Jiang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00853&Docname=%E6%B1%9F%E6%89%BF%E6%BA%90Cheng-Yuan%20Jiang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_110643.JPG"
+      },
+      {
+        "doctNo": "D00135",
+        "doctName": "田輝勣Hui-Chi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "中耳炎、膽脂瘤、中耳積水診斷及手術治療、耳鳴眩暈診斷及治療、顏面神經麻痺診斷及治療、人工電子耳植入手術及復健、聽能輔具及聽能復健平衡復健諮詢",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00135&Docname=%E7%94%B0%E8%BC%9D%E5%8B%A3Hui-Chi%20Tien",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00135&Docname=%E7%94%B0%E8%BC%9D%E5%8B%A3Hui-Chi%20Tien",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_113127.JPG"
+      }
+    ]
+  },
+  {
+    "deptId": "37",
+    "deptName": "放射診斷科",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D00703",
+        "doctName": "許正男Cheng-Nan",
+        "doctTitle": "放射診斷科主任",
+        "doctAbout": "許正男醫師，現任為本院放射診斷科主任。2003 年畢業於中國醫藥大學，隨後於中國醫藥大學附設醫院放射科訓練，2009 年獲得放射線診斷專科醫師，專長為介入性放射線學影像檢查與判讀。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00703&Docname=%E8%A8%B1%E6%AD%A3%E7%94%B7Cheng-Nan%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00703&Docname=%E8%A8%B1%E6%AD%A3%E7%94%B7Cheng-Nan%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180926_094744.jpg"
+      },
+      {
+        "doctNo": "D51354",
+        "doctName": "廖延修Yen-Hsiu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "廖延修醫師，現任本院放射診斷科主治醫師。2005 年畢業於中國醫藥大學，隨後於中國醫藥大學附設醫院放射科訓練，2011 年獲得放射線診斷專科醫師，專長為胸腔影像學、乳房 X 光、超音波影像檢查與判讀。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51354&Docname=%E5%BB%96%E5%BB%B6%E4%BF%AEYen-Hsiu%20Liao",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51354&Docname=%E5%BB%96%E5%BB%B6%E4%BF%AEYen-Hsiu%20Liao",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180926_103248.jpg"
+      },
+      {
+        "doctNo": "%20D00184",
+        "doctName": "陳政弘Cheng-Hung",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳政弘醫師，現任為本院放射診斷科主治醫師。2009年畢業於國立成功大學醫學系，專長為介入性放射線學影像檢查與判讀。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=%20D00184&Docname=%E9%99%B3%E6%94%BF%E5%BC%98Cheng-Hung%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=%20D00184&Docname=%E9%99%B3%E6%94%BF%E5%BC%98Cheng-Hung%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180926_120008.jpg"
+      },
+      {
+        "doctNo": "D52896",
+        "doctName": "夏瑋澤Wei-Tse",
+        "doctTitle": "主治醫師",
+        "doctAbout": "夏瑋澤醫師，現任為本院放射診斷科主治醫師。畢業於台北醫學大學醫學系，專長為一般放射診斷學、電腦斷層診斷、磁振造影診斷、腹部血管攝影、介入性放射線學。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52896&Docname=%E5%A4%8F%E7%91%8B%E6%BE%A4Wei-Tse%20Hsia",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52896&Docname=%E5%A4%8F%E7%91%8B%E6%BE%A4Wei-Tse%20Hsia",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20220802_115203.jpg"
+      },
+      {
+        "doctNo": "180861",
+        "doctName": "陳智維Jhih-Wei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "陳智維醫師，現任本院放射診斷科主治醫師。2008年畢業於中山醫學大學，隨後於中山醫學大學附設醫院放射科訓練，2012年獲得放射線診斷專科醫師，專長為腹部影像判讀、介入性放射線學影像檢查。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180861&Docname=%E9%99%B3%E6%99%BA%E7%B6%ADJhih-Wei%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180861&Docname=%E9%99%B3%E6%99%BA%E7%B6%ADJhih-Wei%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260701_082449.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "38",
+    "deptName": "甲狀腺內視鏡微創手術中心",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "39",
+    "deptName": "細胞治療中心",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D00134",
+        "doctName": "周哲毅Che-Yi",
+        "doctTitle": "教學暨研究副院長",
+        "doctAbout": "副院長兼腎臟科主任，亞洲大學教授，英國雪菲爾大學醫學博士，中國醫藥大學醫學系。專長包括腹膜透析，不住院也能開始腹膜透析，提昇生活品質。慢性腎病保健及治療，糖尿病，多囊腎，高效能血液透析，血液淨化治療高血脂及免疫疾病，中醫合作治療腎臟病，尿路感染，電解質問題，毒物，腎炎，罕見疾病。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00134&Docname=%E5%91%A8%E5%93%B2%E6%AF%85Che-Yi%20Chou%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00134&Docname=%E5%91%A8%E5%93%B2%E6%AF%85Che-Yi%20Chou%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_113834.JPG"
+      },
+      {
+        "doctNo": "D00205",
+        "doctName": "黃建文Chien-Wen",
+        "doctTitle": "主任秘書及胸腔暨重症醫學副院長",
+        "doctAbout": "阻塞性呼吸道疾病、肺部感染症、肺部惡性腫瘤、急性呼吸窘迫症、敗血症及急性呼吸衰竭、睡眠呼吸中止症",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00205&Docname=%E9%BB%83%E5%BB%BA%E6%96%87Chien-Wen%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00205&Docname=%E9%BB%83%E5%BB%BA%E6%96%87Chien-Wen%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201123_131150.jpg"
+      },
+      {
+        "doctNo": "D00008",
+        "doctName": "黃文豊Wen-Li",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "黃文豊醫師為亞大醫院癌症中心顧問醫師，曾任台中榮總血液腫瘤科主任及國防醫學院臨床教授。秉持「以病人為中心」的醫療理念，研究領域非常廣泛，也曾榮獲「百大良醫」，專業備受肯定。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00008&Docname=%E9%BB%83%E6%96%87%E8%B1%8AWen-Li%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00008&Docname=%E9%BB%83%E6%96%87%E8%B1%8AWen-Li%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_155601.JPG"
+      },
+      {
+        "doctNo": "D00001",
+        "doctName": "許永信",
+        "doctTitle": "院長",
+        "doctAbout": "腦瘤手術：顱底手術、腦深部腫瘤、聽神經瘤、膠質細胞瘤；腦血管手術、系統神經科學：神經再生；神經電子介面研究、致癌基因研究、神經疾病流行病學",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00001&Docname=%E8%A8%B1%E6%B0%B8%E4%BF%A1%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00001&Docname=%E8%A8%B1%E6%B0%B8%E4%BF%A1%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200204_120604.jpg"
+      },
+      {
+        "doctNo": "D00010",
+        "doctName": "蔡肇基Jaw-Ji",
+        "doctTitle": "顧問主治醫師",
+        "doctAbout": "皮膚及鼻子過敏、氣喘、自體免疫症及紅斑狼瘡、痛風及類風濕關節炎",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00010&Docname=%E8%94%A1%E8%82%87%E5%9F%BAJaw-Ji%20Tsai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00010&Docname=%E8%94%A1%E8%82%87%E5%9F%BAJaw-Ji%20Tsai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_163440.jpg"
+      },
+      {
+        "doctNo": "D50988",
+        "doctName": "陳政國Cheng-Kuo",
+        "doctTitle": "胃腸肝膽科主任",
+        "doctAbout": "陳政國醫師在中國醫藥大學附設醫院內科部消化系接受完整的內科及消化系專科訓練，曾任台中培德醫院肝炎專任醫師，治療慢性C型肝炎干擾素有超過500例治療經驗。於消化道癌症治療經驗豐富，曾任中國醫大附醫食道癌，肝癌，大腸癌團隊治療醫師。於高階診斷性治療性內視鏡，如內視鏡超音波(EUS)，內視鏡黏膜下腫瘤切除術(ESD)， 腸道支架亦接受國內外完整訓練及具相當臨床經驗及數量，並多次於消化系醫學會報告最新成果。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D50988&Docname=%E9%99%B3%E6%94%BF%E5%9C%8BCheng-Kuo%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D50988&Docname=%E9%99%B3%E6%94%BF%E5%9C%8BCheng-Kuo%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_110808.JPG"
+      },
+      {
+        "doctNo": "D00152",
+        "doctName": "江驊哲Hua-Che",
+        "doctTitle": "大腸直腸外科主任",
+        "doctAbout": "江驊哲主任擅長於腹腔鏡微創大腸直腸手術、肛門良性疾患手術（痔瘡、廔管、肛裂、直腸脫垂、肛門狹窄等）； 肛門良性疾患手術（痔瘡環狀切除 PPH 手術、痔瘡雙極雷射刀超音波刀手術）；無痛大腸鏡檢查良性及惡性疾病（瘜肉、腫瘤等）； 激躁性腸徵候群（便秘、腹瀉）診療；大腸直腸發炎診療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00152&Docname=%E6%B1%9F%E9%A9%8A%E5%93%B2Hua-Che%20Chiang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00152&Docname=%E6%B1%9F%E9%A9%8A%E5%93%B2Hua-Che%20Chiang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_153223.jpg"
+      },
+      {
+        "doctNo": "D51414",
+        "doctName": "王博民Po-Ming",
+        "doctTitle": "放射腫瘤科主任",
+        "doctAbout": "王博民主任於臺大醫院接受放射腫瘤專科醫師完整的訓練後，晉升主治醫師。王主任擅長於肝癌之身體立體定位放射治療SBRT，以及各種癌症 (泌尿道腫瘤、頭頸癌、食道癌、肺癌、腦癌、大腸直腸癌)之治癒性及緩和性放射治療。對於最新型直線加速器，如真光刀(TrueBeam)、好神刀(Halcyon)，及新式之放射治療技術，擁有豐富的臨床治療經驗。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51414&Docname=%E7%8E%8B%E5%8D%9A%E6%B0%91Po-Ming%20Wang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51414&Docname=%E7%8E%8B%E5%8D%9A%E6%B0%91Po-Ming%20Wang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_133013.JPG"
+      },
+      {
+        "doctNo": "D00203",
+        "doctName": "林志隆Chih-Lung",
+        "doctTitle": "神經醫學副院長暨外科部主任",
+        "doctAbout": "林志隆副院長專精於中樞神經損傷及再生研究，尤其對於脊髓空洞症有其專門的治療及獨特的手術方式。不但熱心於臨床事務，更從事許多海內外的醫療義診活動。傳遞Help&Hope的精神。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00203&Docname=%E6%9E%97%E5%BF%97%E9%9A%86Chih-Lung%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00203&Docname=%E6%9E%97%E5%BF%97%E9%9A%86Chih-Lung%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20201221_081021.jpg"
+      },
+      {
+        "doctNo": "D51415",
+        "doctName": "鍾娜娜Na-Na",
+        "doctTitle": "主治醫師",
+        "doctAbout": "鍾娜娜醫師於臺大醫院接受放射腫瘤專科醫師完整的訓練後，晉升主治醫師。鍾醫師擅長於各種癌症 (乳癌、婦癌、肺癌、腦癌、頭頸癌、食道癌、泌尿道腫瘤、大腸直腸癌、肝癌)之治癒性及緩和性放射治療。此外，對於最新型直線加速器，如真光刀(TrueBeam)、好神刀(Halcyon)，及新式之放射治療技術，擁有豐富的臨床治療經驗。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51415&Docname=%E9%8D%BE%E5%A8%9C%E5%A8%9CNa-Na%20Chung",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51415&Docname=%E9%8D%BE%E5%A8%9C%E5%A8%9CNa-Na%20Chung",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180829_164709.JPG"
+      },
+      {
+        "doctNo": "D52309",
+        "doctName": "吳偉榤",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳偉榤醫師對待患者親切有耐心，治療疾病專業且仔細，曾獲得中國醫藥大學附設醫院優良醫師獎的肯定。吳醫師於中國附醫接受完整的放射腫瘤專科醫師訓練並且晉升主治醫師，專精於各種癌症之放射治療，如：頭頸癌、大腸直腸癌、食道癌、攝護腺癌、泌尿道腫瘤、乳癌、肺癌、腦癌、肝癌等。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52309&Docname=%E5%90%B3%E5%81%89%E6%A6%A4%20Wei-Chieh%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52309&Docname=%E5%90%B3%E5%81%89%E6%A6%A4%20Wei-Chieh%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200318_065203.JPG"
+      },
+      {
+        "doctNo": "D00204",
+        "doctName": "陳嘉雯Chia-Wen",
+        "doctTitle": "麻醉科主任",
+        "doctAbout": "專長除了提供臨床麻醉服務外，陳嘉雯醫師亦是重症加護的專家。重症病人入院後，可能直接需要加護治療和手術或侵入性治療，陳嘉雯醫師提供整合加護治療的專業和麻醉的專業。在本院，急診的醫療體系，要和重症加護、麻醉的醫師全方位合作，才能達到對重症病人最佳的照護",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00204&Docname=%E9%99%B3%E5%98%89%E9%9B%AFChia-Wen%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00204&Docname=%E9%99%B3%E5%98%89%E9%9B%AFChia-Wen%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200204_080657.jpg"
+      },
+      {
+        "doctNo": "N51021",
+        "doctName": "林宜燕",
+        "doctTitle": "個案管理師",
+        "doctAbout": "細胞治療諮詢專線：(04)-37061668轉1346",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=N51021&Docname=%E6%9E%97%E5%AE%9C%E7%87%95",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=N51021&Docname=%E6%9E%97%E5%AE%9C%E7%87%95",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200204_145226.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "40",
+    "deptName": "營養科",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D52775",
+        "doctName": "張碧涵",
+        "doctTitle": "營養師",
+        "doctAbout": "糖尿病飲食諮詢\r\n慢性腎臟病飲食諮詢\r\n重症營養諮詢\r\n減重營養諮詢\r\n銀髮族營養諮詢\r\n管灌營養品諮詢\r\n一般營養膳食諮詢",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52775&Docname=%E5%BC%B5%E7%A2%A7%E6%B6%B5",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52775&Docname=%E5%BC%B5%E7%A2%A7%E6%B6%B5",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250321_164609.jpg"
+      },
+      {
+        "doctNo": "180224",
+        "doctName": "黃子芹",
+        "doctTitle": "營養師",
+        "doctAbout": "糖尿病飲食諮詢\r\n慢性腎臟病飲食諮詢\r\n癌症飲食諮詢\r\n管灌營養品諮詢\r\n其他疾病膳食諮詢",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180224&Docname=%E9%BB%83%E5%AD%90%E8%8A%B9",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180224&Docname=%E9%BB%83%E5%AD%90%E8%8A%B9",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250321_164412.jpg"
+      },
+      {
+        "doctNo": "D52889",
+        "doctName": "陳芃君",
+        "doctTitle": "營養師",
+        "doctAbout": "糖尿病飲食諮詢\r\n慢性腎臟病飲食諮詢\r\n管灌品營養諮詢\r\n銀髮族營養諮詢\r\n癌症飲食諮詢\r\n中風飲食諮詢\r\n一般營養膳食諮詢",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52889&Docname=%E9%99%B3%E8%8A%83%E5%90%9B",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52889&Docname=%E9%99%B3%E8%8A%83%E5%90%9B",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250321_164506.jpg"
+      },
+      {
+        "doctNo": "180406",
+        "doctName": "郭芳廷",
+        "doctTitle": "營養師",
+        "doctAbout": "糖尿病飲食諮詢\r\n慢性腎臟病飲食諮詢\r\n癌症飲食諮詢\r\n一般營養膳食諮詢",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180406&Docname=%E9%83%AD%E8%8A%B3%E5%BB%B7",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180406&Docname=%E9%83%AD%E8%8A%B3%E5%BB%B7",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250321_164759.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "41",
+    "deptName": "皮膚科",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "42",
+    "deptName": "皮膚科",
+    "deptAbout": "各類皮膚疾病、異位性皮膚炎、全身性溼疹、汗疹、冬季溼疹、全身搔癢症、蕁麻疹、甲癬、乾癬、帶狀泡疹。",
+    "doctorList": [
+      {
+        "doctNo": "D52646",
+        "doctName": "方心禹",
+        "doctTitle": "",
+        "doctAbout": "方心禹醫師畢業於中國醫藥大學醫學系，接受完整皮膚科醫師訓練並取得中華民國皮膚科專科醫師執照。除了常見皮膚疾病及醫學美容咨詢之外，專長於異位性皮膚炎、慢性蕁麻疹及乾癬治療，包含傳統藥物、照光及生物製劑治療。亦特別專精於化療及標靶藥物治療相關皮膚副作用之處理。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52646&Docname=%E6%96%B9%E5%BF%83%E7%A6%B9%20Hsin-Yu%20Fang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52646&Docname=%E6%96%B9%E5%BF%83%E7%A6%B9%20Hsin-Yu%20Fang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20210729_163621.jpg"
+      },
+      {
+        "doctNo": "D28592",
+        "doctName": "沈冠宇Guan-Yu",
+        "doctTitle": "醫師",
+        "doctAbout": "沈冠宇醫師在中國醫藥大學附設醫院接受完整的皮膚科訓練，並取得皮膚科專科醫師執照。專長於青春痘與痘疤處理、常見皮膚疾病(香港腳、蕁麻疹、濕疹/富貴手、脂漏性皮膚炎)、乾癬、異位性皮膚炎、白斑及其他色素疾病、感染疾患、指甲疾患、落髮疾患、各種皮膚腫瘤。沈醫師對待病患親切、有耐心，從局部外用藥膏選擇，光照治療，傳統口服用藥，進階到注射生物製劑，美容醫學，光動力治療皆能提供病患專業及完整的皮膚照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D28592&Docname=%E6%B2%88%E5%86%A0%E5%AE%87Guan-Yu%20Shen%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D28592&Docname=%E6%B2%88%E5%86%A0%E5%AE%87Guan-Yu%20Shen%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20241127_143940.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "43",
+    "deptName": "臨床心理中心",
+    "deptAbout": "神經心理衡鑑與治療、兒童/青少年/成人評估與治療、焦慮、憂鬱、網癮之評估與高效心理治療、失智症狀評估與因應、成人焦慮與憂鬱情緒、神經心理衡鑑與治療、兒青/成人/高齡議題諮詢、生理與神經回饋等",
+    "doctorList": [
+      {
+        "doctNo": "D52661",
+        "doctName": "葉品陽Pin-Yang",
+        "doctTitle": "臨床心理師/主任",
+        "doctAbout": "神經心理衡鑑與治療、兒童/青少年/成人評估與治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52661&Docname=%E8%91%89%E5%93%81%E9%99%BDPin-Yang%20Ye%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52661&Docname=%E8%91%89%E5%93%81%E9%99%BDPin-Yang%20Ye%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20211102_111415.jpg"
+      },
+      {
+        "doctNo": "D52660",
+        "doctName": "柯慧貞Huei-Jhen",
+        "doctTitle": "臨床心理師",
+        "doctAbout": "焦慮、憂鬱、網癮之評估與高效心理治療",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52660&Docname=%E6%9F%AF%E6%85%A7%E8%B2%9EHuei-Jhen%20Ke",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52660&Docname=%E6%9F%AF%E6%85%A7%E8%B2%9EHuei-Jhen%20Ke",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20211102_111341.jpg"
+      },
+      {
+        "doctNo": "D52659",
+        "doctName": "廖御圻Yu-Chi",
+        "doctTitle": "臨床心理師",
+        "doctAbout": "神經心理衡鑑與治療、兒青/成人/高齡議題諮詢、生理與神經回饋",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52659&Docname=%E5%BB%96%E5%BE%A1%E5%9C%BBYu-Chi%20Liao%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52659&Docname=%E5%BB%96%E5%BE%A1%E5%9C%BBYu-Chi%20Liao%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20211102_111441.jpg"
+      },
+      {
+        "doctNo": "D52704",
+        "doctName": "張瀚云Han-Yun",
+        "doctTitle": "臨床心理師",
+        "doctAbout": "神經心理衡鑑與治療、壓力調適與生理回饋、職場心理健康與重建",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52704&Docname=%E5%BC%B5%E7%80%9A%E4%BA%91Han-Yun%20Chang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52704&Docname=%E5%BC%B5%E7%80%9A%E4%BA%91Han-Yun%20Chang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20211102_211135.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "44",
+    "deptName": "精神科",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D27067",
+        "doctName": "郭倩宜Chien-Yi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D27067&Docname=%E9%83%AD%E5%80%A9%E5%AE%9CChien-Yi%20Kuo%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D27067&Docname=%E9%83%AD%E5%80%A9%E5%AE%9CChien-Yi%20Kuo%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240201_111048.jpg"
+      },
+      {
+        "doctNo": "D4504",
+        "doctName": "吳佳錚Chia-",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳佳錚醫師自2003年於中國醫藥大學附設醫院精神醫學部接受完整精神醫學訓練，取得精神專科醫師執照、老年精神專科執照及睡眠醫學專科執照，並完成長期照護專業課程訓練及安寧緩和醫學專科醫師訓練，曾任中國醫藥大學北港附設醫院精神科主任，深耕老年精神醫學領域。吳醫師專長除一般精神疾患如思覺失調症、憂鬱、躁鬱、焦慮、睡眠障礙及自律神經失調外，也具十多年老年精神醫學及失智症的豐富臨床治療經驗。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D4504&Docname=%E5%90%B3%E4%BD%B3%E9%8C%9AChia-%20Cheng%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D4504&Docname=%E5%90%B3%E4%BD%B3%E9%8C%9AChia-%20Cheng%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250702_100516.JPG"
+      },
+      {
+        "doctNo": "D53045",
+        "doctName": "莊暘安Yang-An",
+        "doctTitle": "主治醫師",
+        "doctAbout": "莊醫師有十多年台北榮民總醫院玉里分院精神部主治醫師資歷，對一般精神疾患(包含思覺失調、憂鬱症、情感性疾患、焦慮等)有豐富診治經驗。後留美多年，於美國頂尖的哥倫比亞大學與約翰霍普金斯大學醫學院進修與工作。專精於生物精神醫學、精神藥理學與神經退化性精神疾病研究。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D53045&Docname=%E8%8E%8A%E6%9A%98%E5%AE%89Yang-An%20Chuang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D53045&Docname=%E8%8E%8A%E6%9A%98%E5%AE%89Yang-An%20Chuang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230310_142233.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "45",
+    "deptName": "藥劑科",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "46",
+    "deptName": "藥劑科",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "47",
+    "deptName": "急診醫學部",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "48",
+    "deptName": "急診醫學部",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D00185",
+        "doctName": "鍾侑庭Yu-Ting",
+        "doctTitle": "急診醫學部 主任",
+        "doctAbout": "專長：\r\n緊急醫療救護、創傷休克、災難醫學、高級心肺復甦術指導員、急診外傷指導員",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00185&Docname=%E9%8D%BE%E4%BE%91%E5%BA%ADYu-Ting%20Chung",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00185&Docname=%E9%8D%BE%E4%BE%91%E5%BA%ADYu-Ting%20Chung",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230823_091523.JPG"
+      },
+      {
+        "doctNo": "D00477",
+        "doctName": "謝尚書Shang-Shu",
+        "doctTitle": "急診醫學部 副主任",
+        "doctAbout": "專長：\r\n急性心肌梗塞、急性腦中風、敗血症、重大外傷等急性病患處置",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00477&Docname=%E8%AC%9D%E5%B0%9A%E6%9B%B8Shang-Shu%20Hsieh",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00477&Docname=%E8%AC%9D%E5%B0%9A%E6%9B%B8Shang-Shu%20Hsieh",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230823_155840.JPG"
+      },
+      {
+        "doctNo": "D51040",
+        "doctName": "陳佳怡Chia-Yi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "專長：\r\n急診醫學、野外醫學",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51040&Docname=%E9%99%B3%E4%BD%B3%E6%80%A1Chia-Yi%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51040&Docname=%E9%99%B3%E4%BD%B3%E6%80%A1Chia-Yi%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230823_090237.JPG"
+      },
+      {
+        "doctNo": "D00273",
+        "doctName": "施家祥Chia-Hsiang",
+        "doctTitle": "主治醫師",
+        "doctAbout": "專長：\r\n急性心肌梗塞、急性腦中風、敗血症、重大外傷等急性病患處置",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00273&Docname=%E6%96%BD%E5%AE%B6%E7%A5%A5Chia-Hsiang%20Shih",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00273&Docname=%E6%96%BD%E5%AE%B6%E7%A5%A5Chia-Hsiang%20Shih",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230823_091459.JPG"
+      },
+      {
+        "doctNo": "D00673",
+        "doctName": "李坤達Kun-Ta",
+        "doctTitle": "主治醫師",
+        "doctAbout": "專長：\r\n急診醫學、緊急醫療救護、高級心臟救命術、內外科毒物急重症",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00673&Docname=%E6%9D%8E%E5%9D%A4%E9%81%94Kun-Ta%20Li",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00673&Docname=%E6%9D%8E%E5%9D%A4%E9%81%94Kun-Ta%20Li",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230823_160125.JPG"
+      },
+      {
+        "doctNo": "D51716",
+        "doctName": "張焴程Yu-Cheng",
+        "doctTitle": "主治醫師",
+        "doctAbout": "專長：\r\n急性心肌梗塞、急性腦中風、敗血症、重大外傷等急性病患處置",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51716&Docname=%E5%BC%B5%E7%84%B4%E7%A8%8BYu-Cheng%20Chang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51716&Docname=%E5%BC%B5%E7%84%B4%E7%A8%8BYu-Cheng%20Chang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230823_090001.JPG"
+      },
+      {
+        "doctNo": "D51717",
+        "doctName": "林維奕Wei-Yi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "專長：\r\n急重症醫學、毒物、災難醫療、到院前緊急救護",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51717&Docname=%E6%9E%97%E7%B6%AD%E5%A5%95Wei-Yi%20Lin%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51717&Docname=%E6%9E%97%E7%B6%AD%E5%A5%95Wei-Yi%20Lin%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230823_085940.JPG"
+      },
+      {
+        "doctNo": "D52168",
+        "doctName": "陳達民Dar-Min",
+        "doctTitle": "主治醫師",
+        "doctAbout": "專長：\r\n急重症醫學、毒物、災難醫療、到院前緊急救護",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52168&Docname=%E9%99%B3%E9%81%94%E6%B0%91Dar-Min%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52168&Docname=%E9%99%B3%E9%81%94%E6%B0%91Dar-Min%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230823_085919.JPG"
+      },
+      {
+        "doctNo": "D27974",
+        "doctName": "陳治圩Chih-Yu",
+        "doctTitle": "Chen  主治醫師",
+        "doctAbout": "專長:\r\n一般急診醫學\r\n急重症醫療\r\n創傷外科處置",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D27974&Docname=%E9%99%B3%E6%B2%BB%E5%9C%A9Chih-Yu%20%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D27974&Docname=%E9%99%B3%E6%B2%BB%E5%9C%A9Chih-Yu%20%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260226_154417.jpg"
+      },
+      {
+        "doctNo": "D29841",
+        "doctName": "周範雅Fan-Ya",
+        "doctTitle": "主治醫師",
+        "doctAbout": "急重症醫學、毒物、災難醫療、到院前緊急救護",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D29841&Docname=%E5%91%A8%E7%AF%84%E9%9B%85Fan-Ya%20Chou",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D29841&Docname=%E5%91%A8%E7%AF%84%E9%9B%85Fan-Ya%20Chou",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240916_094425.jpg"
+      }
+    ]
+  },
+  {
+    "deptId": "49",
+    "deptName": "預防暨社區醫學中心",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D52282",
+        "doctName": "林益卿I-Ching",
+        "doctTitle": "預防暨社區醫學中心主任兼家庭醫學科主任",
+        "doctAbout": "曾就讀高雄醫學大學醫醫學技術學系、成大生化所、彰化師範大學中等教師學士後教育學分班教育學程、高雄醫學大學學士後醫學系以及亞洲大學健康產業管理學系博士班。在各個學校學習各種不同領域的專業，包括生物化學、遺傳工程技術、中等學校教師教學技能、健康產業管理、健康管理以及醫學等專業領域。在醫院實務上，曾經在彰化秀傳醫院檢驗科擔任醫檢師及教學研究組組長，協助推動檢驗科的教學研究。在彰化基督教醫院擔任家庭醫學科3年住院醫師、1年總醫師、10年的科主任、分院醫務長及副院長等職。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52282&Docname=%E6%9E%97%E7%9B%8A%E5%8D%BFI-Ching%20Lin",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52282&Docname=%E6%9E%97%E7%9B%8A%E5%8D%BFI-Ching%20Lin",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20191021_080403.jpg"
+      },
+      {
+        "doctNo": "180715",
+        "doctName": "蔡東啟Dong-Chii",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蔡東啟醫師為家庭醫學科專科醫師，具安寧緩和醫療專業背景。曾於衛生福利部臺中醫院完成住院醫師及總醫師訓練，並至臺大醫院緩和病房接受安寧緩和醫療專業訓練，返院後升任主治醫師。臨床服務涵蓋門診、住院病房、居家醫療及長期照護，亦參與健檢中心相關業務，並支援衛福部南投及彰化醫院，累積臨床經驗逾二十餘年。期間協助成立醫院安寧團隊與安寧病房，並推動醫院通過安寧緩和專科訓練醫院評鑑，致力於預立醫療照護諮商之推廣。蔡醫師重視以病人為中心的整合照護，期望以多年臨床與教學經驗，提供專業、溫暖且持續的醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180715&Docname=%E8%94%A1%E6%9D%B1%E5%95%9FDong-Chii%20Tsay",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180715&Docname=%E8%94%A1%E6%9D%B1%E5%95%9FDong-Chii%20Tsay",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251222_163806.jpg"
+      },
+      {
+        "doctNo": "180016",
+        "doctName": "賴芳宇",
+        "doctTitle": "主治醫師",
+        "doctAbout": "賴芳宇醫師於高雄醫學大學醫學系畢業後，於彰基中華院區高仁愛紀念病房接受安寧病房訓練，也至中國附醫接受完整高齡醫學科訓練。專長於糖尿病、高血壓、高血脂等慢性病治療、安寧療護、老年醫學及長期照護，旅遊醫學建議與成人疫苗接種。賴芳宇醫師對於醫院未來展望抱著期待，一同為霧峰及周邊縣市民眾提供周全的健康醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180016&Docname=%E8%B3%B4%E8%8A%B3%E5%AE%87%20Fang-Yu%20Lai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180016&Docname=%E8%B3%B4%E8%8A%B3%E5%AE%87%20Fang-Yu%20Lai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230706_135620.jpg"
+      },
+      {
+        "doctNo": "D18486",
+        "doctName": "吳佾璇Yi-Hsuan",
+        "doctTitle": "主治醫師",
+        "doctAbout": "吳佾璇醫師畢業於中國醫藥大學中醫學系，於沙鹿光田醫院接受完整家醫科專科訊練，照顧慢性病房及協助長照業務，因此更加熟悉老年人及多重共病患者的長期照護。專長於預防醫學、慢性疾病、體健檢、一般醫學、肥胖醫學、居家照護、安寧療護、旅遊醫學建議與成人疫苗接種。吳佾璇醫師對於醫院未來展望抱著期待，希冀之後能發揮所長，為霧峰及周邊縣市民眾提供周全的健康醫療服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D18486&Docname=%E5%90%B3%E4%BD%BE%E7%92%87Yi-Hsuan%20Wu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D18486&Docname=%E5%90%B3%E4%BD%BE%E7%92%87Yi-Hsuan%20Wu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230925_082310.JPG"
+      },
+      {
+        "doctNo": "D52848",
+        "doctName": "劉又銘Yu-Ming",
+        "doctTitle": "主治醫師",
+        "doctAbout": "劉又銘醫師畢業於中國醫藥大學醫學系畢業後在中國附醫擔任不分科住院醫師，之後於光田綜合醫院完成紮實的家庭醫學科訓練，由於訓練過程中包含中風亞急性照護期病房訓練，從病人住院到出院後居家照護都是由家醫科醫師一手包辦，故在訓練過程中比較能看到病程的全貌，也了解病人在各個階段接受醫療處置的效果及其可能遇到的任何不適，因此能夠同理病人的感受。訓練完後到基層診所及衛生所服務對基層醫療診所有深度的認識。從醫學中心畢業訓練出來經過區域醫院、基層診所及地區醫院的訓練洗禮，可說對整體的醫療型態都有深入的了解，提供民眾全人、全家、全社區的服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52848&Docname=%E5%8A%89%E5%8F%88%E9%8A%98Yu-Ming%20Liu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52848&Docname=%E5%8A%89%E5%8F%88%E9%8A%98Yu-Ming%20Liu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230106_093147.png"
+      },
+      {
+        "doctNo": "D28534",
+        "doctName": "李佳倫Chia-Lun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "李佳倫醫師畢業於中國醫藥大學醫學系，於衛福部臺中醫院完成家庭醫學科專科醫師訓練。專長於急慢性疾病初診篩檢及診療、慢性病防治、成人健康檢查暨健檢報告追蹤、預防醫學及疫苗注射、成人戒菸藥物治療、旅遊醫學諮詢。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D28534&Docname=%E6%9D%8E%E4%BD%B3%E5%80%ABChia-Lun%20Li",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D28534&Docname=%E6%9D%8E%E4%BD%B3%E5%80%ABChia-Lun%20Li",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240430_101229.png"
+      },
+      {
+        "doctNo": "D30003",
+        "doctName": "張晶雅Jing-Ya",
+        "doctTitle": "主治醫師",
+        "doctAbout": "張晶雅醫師畢業於中國醫藥大學醫學系，並於中國醫藥大學附設醫院完成家庭醫學科專科醫師訓練。專精於常見疾病診治、慢性病管理與預防、成人健康檢查評估與追蹤、預防醫學及疫苗接種，及成人戒菸藥物治療。致力於提供全人照護，以專業與細心陪伴患者維持健康、提升生活品質。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D30003&Docname=%E5%BC%B5%E6%99%B6%E9%9B%85Jing-Ya%20Chang%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D30003&Docname=%E5%BC%B5%E6%99%B6%E9%9B%85Jing-Ya%20Chang%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20250324_102804.jpg"
+      },
+      {
+        "doctNo": "180664",
+        "doctName": "卓妮Nei",
+        "doctTitle": "主治醫師",
+        "doctAbout": "卓妮醫師在中國醫藥大學附設醫院完成見習訓練，實習階段於台中榮民總醫院，取得醫師執照後，回到中醫大附醫展開住院醫師的第一年。那段時間工作繁重、值班頻繁，壓力相當大，但她始終保持積極與穩定的態度，懂得在高壓環境中調整步調、持續成長。隨後於光田綜合醫院家醫科受訓，主要負責慢性病房與復健中心照護，服務對象包括中風後、脊髓損傷、骨折術後及呼吸機脫離的患者，也有長期臥床、失智與洗腎病人等，臨床經驗相當扎實。\r\n卓醫師始終認為醫療工作不只是技術，更是同理與反思的過程。面對龐大工作量，她懂得訂定優先順序、有效安排，並在每次挑戰後自我檢討與修正。這樣的歷程，讓她深刻體會到「全人照護」的核心精神——醫療不止於治病，更在於提供病人與家屬連貫、協調與預防性的照護服務。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180664&Docname=%E5%8D%93%E5%A6%AENei%20Cheok%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180664&Docname=%E5%8D%93%E5%A6%AENei%20Cheok%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20251103_132919.jpg"
+      },
+      {
+        "doctNo": "D32852",
+        "doctName": "沈凡筠Fan-Yun",
+        "doctTitle": "主治醫師",
+        "doctAbout": "沈凡筠醫師畢業於中國醫藥大學醫學系，並於中國醫藥大學附設醫院完成家庭醫學科專科醫師訓練。專精於常見疾病診治、慢性病管理與預防、成人健康檢查評估與追蹤、預防醫學及疫苗接種，及成人戒菸藥物治療。致力於提供全人照護，以專業與細心陪伴患者維持健康、提升生活品質。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D32852&Docname=%E6%B2%88%E5%87%A1%E7%AD%A0Fan-Yun%20Shen%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D32852&Docname=%E6%B2%88%E5%87%A1%E7%AD%A0Fan-Yun%20Shen%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260226_163630.jpg"
+      },
+      {
+        "doctNo": "D33225",
+        "doctName": "柯傑許Chieh-Hsu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "柯傑許醫師畢業於高雄醫學大學醫學系，於秀傳紀念醫院完成家庭醫學科專科醫師訓練，曾擔任中港澄清醫院家庭醫學科主治醫師。專長於急性疾病處置、慢性疾病治療與追蹤、預防醫學及疫苗接種、勞工健康服務。致力於提供全人照護，以專業陪伴患者提升健康。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D33225&Docname=%E6%9F%AF%E5%82%91%E8%A8%B1Chieh-Hsu%20Ko",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D33225&Docname=%E6%9F%AF%E5%82%91%E8%A8%B1Chieh-Hsu%20Ko",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20260727_164152.png"
+      }
+    ]
+  },
+  {
+    "deptId": "50",
+    "deptName": "病理科",
+    "deptAbout": "",
+    "doctorList": [
+      {
+        "doctNo": "D52341",
+        "doctName": "陳宗偉Tsung-Wei",
+        "doctTitle": "主任",
+        "doctAbout": "一般外科病理、消化病理、泌尿病理、血液腫瘤病理",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52341&Docname=%E9%99%B3%E5%AE%97%E5%81%89Tsung-Wei%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52341&Docname=%E9%99%B3%E5%AE%97%E5%81%89Tsung-Wei%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240627_093454.png"
+      },
+      {
+        "doctNo": "D52310",
+        "doctName": "徐雍智Yung-Chih",
+        "doctTitle": "主治醫師",
+        "doctAbout": "一般外科病理、婦科病理、乳房外科病理",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52310&Docname=%E5%BE%90%E9%9B%8D%E6%99%BAYung-Chih%20Hsu",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52310&Docname=%E5%BE%90%E9%9B%8D%E6%99%BAYung-Chih%20Hsu",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240627_093220.jpg"
+      },
+      {
+        "doctNo": "D11139",
+        "doctName": "曾冠欽Guan-Chin",
+        "doctTitle": "主治醫師",
+        "doctAbout": "一般外科病理、胸腔病理、頭頸部病理",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D11139&Docname=%E6%9B%BE%E5%86%A0%E6%AC%BDGuan-Chin%20Tseng",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D11139&Docname=%E6%9B%BE%E5%86%A0%E6%AC%BDGuan-Chin%20Tseng",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240627_093947.png"
+      },
+      {
+        "doctNo": "D52313",
+        "doctName": "陳禮平Lai-Ping",
+        "doctTitle": "主治醫師",
+        "doctAbout": "一般外科病理、細胞病理",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52313&Docname=%E9%99%B3%E7%A6%AE%E5%B9%B3Lai-Ping%20Chan",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52313&Docname=%E9%99%B3%E7%A6%AE%E5%B9%B3Lai-Ping%20Chan",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240627_094123.png"
+      }
+    ]
+  },
+  {
+    "deptId": "51",
+    "deptName": "豐原分院",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "52",
+    "deptName": "中英診所",
+    "deptAbout": "",
+    "doctorList": []
+  },
+  {
+    "deptId": "53",
+    "deptName": "骨科部",
+    "deptAbout": "骨折、關節炎、骨質疏鬆、關節重建、下背痛、肩痛、四肢腫瘤、坐骨神經痛、運動傷害、脊椎側彎",
+    "doctorList": [
+      {
+        "doctNo": "D00003",
+        "doctName": "黃揆洲Kui-Chou",
+        "doctTitle": "醫療副院長",
+        "doctAbout": "黃揆洲醫師為亞大醫院副院長，也是台灣骨科的權威。除了看診本著視病猶親的心境外，研究領域非常廣泛，並曾榮獲多家媒體一致推薦公認的骨科達人，專業備受肯定。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00003&Docname=%E9%BB%83%E6%8F%86%E6%B4%B2Kui-Chou%20Huang%09%09",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00003&Docname=%E9%BB%83%E6%8F%86%E6%B4%B2Kui-Chou%20Huang%09%09",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180831_113506.JPG"
+      },
+      {
+        "doctNo": "D51560",
+        "doctName": "唐國民",
+        "doctTitle": "骨科主任",
+        "doctAbout": "骨折創傷手術，關節矯正重建手術，微創人工膝、髖關節置換手術，人工關節再置換手術，退化性關節炎、骨質疏鬆及兒童骨科之診治。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D51560&Docname=%E5%94%90%E5%9C%8B%E6%B0%91%20Kwok-Man%20Tong%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D51560&Docname=%E5%94%90%E5%9C%8B%E6%B0%91%20Kwok-Man%20Tong%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20180828_161411.jpg"
+      },
+      {
+        "doctNo": "D52737",
+        "doctName": "陳衍仁Yen-Jen",
+        "doctTitle": "脊椎矯正科主任",
+        "doctAbout": "陳衍仁主任1999年曾至美國紐約州雪城醫學中心及堪薩斯州醫學中心擔任研究員。於2005年至中國醫藥大學附設醫院服務至2021年，曾擔任骨科部脊椎外科主任、中國醫藥大學附設醫院台北分院副院長、台灣脊椎外科醫學會理事。主任專長包含：坐骨神經痛、退化性脊椎疾病、脊椎腫瘤轉移性疾病、脊柱惻彎及駝背之矯正手術。骨質疏鬆性壓迫性骨折(椎體成型手術)、脊椎手術、脊椎感染性疾病及一般骨折外傷。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52737&Docname=%E9%99%B3%E8%A1%8D%E4%BB%81Yen-Jen%20Chen",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52737&Docname=%E9%99%B3%E8%A1%8D%E4%BB%81Yen-Jen%20Chen",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20211122_123617.jpg"
+      },
+      {
+        "doctNo": "D00214",
+        "doctName": "黃仁廷Jen-Ting",
+        "doctTitle": "骨折創傷科主任",
+        "doctAbout": "微創人工膝關節置換重建、人工膝關節再置換手術、微創人工髖關節置換重建、人工髖關節再置換手術、人工關節感染、骨折外傷、骨質疏鬆症",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D00214&Docname=%E9%BB%83%E4%BB%81%E5%BB%B7Jen-Ting%20Huang",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D00214&Docname=%E9%BB%83%E4%BB%81%E5%BB%B7Jen-Ting%20Huang",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20230213_083320.png"
+      },
+      {
+        "doctNo": "D52449",
+        "doctName": "賴禹呈Yu-Cheng",
+        "doctTitle": "外科部副主任/運動醫學暨手外科主任",
+        "doctAbout": "賴禹呈醫師自民國九十六年起任職高雄榮民總醫院骨科部，完成骨科與手外科訓練，擁有十餘年醫學中心臨床經驗，並專精手外科、腕關節鏡微創手術、兒童骨科、肩肘關節疾病、微創骨折手術等，另有相關十三篇研究發表於國際醫學期刊，獲得教育部部定助理教授。除長期任職高雄榮總，賴醫師也有服務偏鄉與支援地區醫院經驗，兼具醫學中心與基層醫療之長處，且因返鄉服務熱忱而轉調本院，將持續提供完善的醫療照護。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52449&Docname=%E8%B3%B4%E7%A6%B9%E5%91%88Yu-Cheng%20Lai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52449&Docname=%E8%B3%B4%E7%A6%B9%E5%91%88Yu-Cheng%20Lai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200827_122123.jpg"
+      },
+      {
+        "doctNo": "D52201",
+        "doctName": "羅達富Da-Fu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "羅達富醫師於中國醫藥大學附設醫院骨科部接受骨科學相關訓練後取得骨科專科醫師資格,續留科部內擔任脊椎外科研究醫師完成次專科訓練後升任主治醫師。隨後,於衛生福利部豐原醫院服務,致力於脊椎手術及外傷手術的精進,參加國內許多相關的學術會議並取得認證資格。專長於脊椎相關疾病及骨質疏鬆等診斷及治療,各式脊椎及外傷骨折的微創手術,提供病患完善的骨科治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52201&Docname=%E7%BE%85%E9%81%94%E5%AF%8CDa-Fu%20Lo",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52201&Docname=%E7%BE%85%E9%81%94%E5%AF%8CDa-Fu%20Lo",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20190805_080628.jpg"
+      },
+      {
+        "doctNo": "D94264",
+        "doctName": "蘇錦宏Chin-Horng",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蘇錦宏醫師畢業於中國醫藥大學醫學系。於彰化基督教醫院完成骨科專科醫師訓練後昇任主治醫師，至高雄醫學大學及歐美相關學會研修足踝骨科，服務於彰基醫學中心及員林基督教醫院，有感於許多患者同時接受傳統醫學治療，期間完成中國醫藥大學中西醫整合醫學博士學業。平時除骨折外傷，關節重建等骨科專業外，更專精於足踝創傷扭傷，退化變形重建，微創手術，糖尿病足慢性傷口及術後併發症處理等手術。專業深獲同業及患者肯定，現任台灣足踝骨科醫學會理事，除定期出國進修手術新知外，並常於國內外之骨科研討會分享及教學相關主題。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D94264&Docname=%E8%98%87%E9%8C%A6%E5%AE%8FChin-Horng%20Su",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D94264&Docname=%E8%98%87%E9%8C%A6%E5%AE%8FChin-Horng%20Su",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240318_081757.jpg"
+      },
+      {
+        "doctNo": "D52428",
+        "doctName": "蔡孟學Menh-Hsueh",
+        "doctTitle": "主治醫師",
+        "doctAbout": "蔡孟學醫師就讀長庚醫學院，畢業後於嘉義長庚醫院擔任住院總醫師並且完成骨科醫師訓練，轉任雲林長庚醫院主治醫師，期間著重於老年骨質疏鬆症以及退化性關節炎的保健與治療，專精於骨外傷科、微創骨折手術、複雜開放型骨折階段性治療、人工關節置換，重新建立病患的信心以及日常生活功能為骨科醫師最大心願。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52428&Docname=%E8%94%A1%E5%AD%9F%E5%AD%B8Menh-Hsueh%20Tsai",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52428&Docname=%E8%94%A1%E5%AD%9F%E5%AD%B8Menh-Hsueh%20Tsai",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20200807_153015.jpg"
+      },
+      {
+        "doctNo": "D20350",
+        "doctName": "鐘本聿Pen-Yu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "鐘本聿醫師就讀於中國醫藥大學醫學系，畢業後於高雄義大醫院擔任骨科住院醫師以及總醫師完成骨科專科醫師的訓練。由於公費的身分訓練後至澎湖醫院下鄉服務，期間擔任澎湖醫院骨科主任，對於離島居民骨科疾病貢獻良多；主要專長包含: 複雜創傷骨折重建、微創骨折復位固定、退化性關節炎之治療，膝關節、髖關節人工關節置換以及再置換，坐骨神經痛之治療、脊椎神經減壓、微創椎體成形手術、一般手外科、骨質疏鬆之治療。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D20350&Docname=%E9%90%98%E6%9C%AC%E8%81%BFPen-Yu%20Chung",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D20350&Docname=%E9%90%98%E6%9C%AC%E8%81%BFPen-Yu%20Chung",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20240515_142544.jpeg"
+      },
+      {
+        "doctNo": "180042",
+        "doctName": "林宥余You-Yu",
+        "doctTitle": "主治醫師",
+        "doctAbout": "林醫師畢業自中國醫藥大學醫學系，於醫學中心完成骨科專科醫師訓練，至台北榮民總醫院骨科部進修，於亞洲大學附屬醫院任職臨床研究醫師後升任主治醫師。",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=180042&Docname=%E6%9E%97%E5%AE%A5%E4%BD%99You-Yu%20Lin%20",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=180042&Docname=%E6%9E%97%E5%AE%A5%E4%BD%99You-Yu%20Lin%20",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20241015_111037.jpg"
+      },
+      {
+        "doctNo": "D52306",
+        "doctName": "邱文逸Wun-Yi",
+        "doctTitle": "主治醫師",
+        "doctAbout": "骨科創傷手術、退化性關節炎(膝、髖關節手術及人工關節置換術)、關節鏡手術(前後十字韌帶重建、半月板修補、肩旋肌袖破裂)",
+        "firstAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=first&DocNo=D52306&Docname=%E9%82%B1%E6%96%87%E9%80%B8Wun-Yi%20Ciou",
+        "secondAppointmentUrl": "https://www.auh.org.tw/OnlineAppointment/DoctorInfo?flag=second&DocNo=D52306&Docname=%E9%82%B1%E6%96%87%E9%80%B8Wun-Yi%20Ciou",
+        "avatarLink": "https://www.auh.org.tw/FileUploads/Doctor/20191126_131009.jpg"
+      }
+    ]
+  }
+]
