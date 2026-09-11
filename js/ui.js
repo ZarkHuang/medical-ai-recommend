@@ -40,6 +40,51 @@ export function doctorMarkup(doctor, checked) {
       ? `<span class="stars" style="--rating:${doctor.rating}" aria-label="評分 ${doctor.rating} / 5"></span>`
       : "";
 
+  const titleBadge = doctor.title
+    ? `<span class="doctor-badge">${escapeHtml(doctor.title)}</span>`
+    : "";
+
+  let bioContent = "";
+  if (doctor.experiences?.length) {
+    bioContent += `
+      <div class="doctor-section doctor-exp">
+        <span class="section-label">現職／經歷：</span>
+        <span class="section-content">${escapeHtml(doctor.experiences.join(" "))}</span>
+      </div>
+    `;
+  }
+  if (doctor.specialtiesText?.length) {
+    bioContent += `
+      <div class="doctor-section doctor-spec">
+        <span class="section-label">專長領域：</span>
+        <span class="section-content">${escapeHtml(doctor.specialtiesText.join(" "))}</span>
+      </div>
+    `;
+  } else if (doctor.specialties?.length) {
+    bioContent += `
+      <div class="doctor-section doctor-spec">
+        <span class="section-label">專長領域：</span>
+        <span class="section-content">${escapeHtml(doctor.specialties.join("、"))}</span>
+      </div>
+    `;
+  } else if (doctor.rawAbout) {
+    bioContent += `
+      <div class="doctor-section doctor-spec">
+        <span class="section-label">專長領域：</span>
+        <span class="section-content">${escapeHtml(doctor.rawAbout)}</span>
+      </div>
+    `;
+  }
+
+  if (!bioContent.trim()) {
+    bioContent = `
+      <div class="doctor-section doctor-spec">
+        <span class="section-label">主治項目：</span>
+        <span class="section-content">${escapeHtml(doctor.deptName ? `${doctor.deptName}專科主治門診診療` : "專科主治門診診療與諮詢")}</span>
+      </div>
+    `;
+  }
+
   return `
     <label class="doctor">
       <img
@@ -49,8 +94,13 @@ export function doctorMarkup(doctor, checked) {
         data-avatar
       >
       <span class="doctor-info">
-        <span class="doctor-name">${escapeHtml(doctor.name)}醫師</span>
-        <span class="doctor-specialties">${escapeHtml(doctor.specialties.join("、"))}</span>
+        <span class="doctor-header">
+          <span class="doctor-name">${escapeHtml(doctor.name)}醫師</span>
+          ${titleBadge}
+        </span>
+        <div class="doctor-body">
+          ${bioContent}
+        </div>
         ${rating}
       </span>
       <span class="doctor-radio">

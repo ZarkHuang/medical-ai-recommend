@@ -18,10 +18,10 @@ const PART_DEPARTMENTS = {
     breast: { label: "乳房", deptIds: ["32", "12", "10", "27", "16"] },
   },
   abdomen: {
-    "upper-abdomen": { label: "上腹部", deptIds: ["6", "33", "12", "9"] },
-    "lower-abdomen": { label: "下腹部", deptIds: ["6", "15", "20", "24"] },
-    "left-abdomen": { label: "左側腹部", deptIds: ["6", "15"] },
-    "right-abdomen": { label: "右側腹部", deptIds: ["6", "33", "12"] },
+    "upper-abdomen": { label: "上腹部／胃部", deptIds: ["6", "33", "12", "9", "7"] },
+    "lower-abdomen": { label: "下腹部", deptIds: ["6", "15", "20", "24", "7"] },
+    "left-abdomen": { label: "左側腹部／腰側", deptIds: ["6", "15", "7"] },
+    "right-abdomen": { label: "右側腹部／腰側", deptIds: ["6", "33", "12", "7"] },
     navel: { label: "肚臍周圍", deptIds: ["6", "12"] },
     "whole-abdomen": {
       label: "整個腹部",
@@ -132,12 +132,56 @@ function specialtiesFromAbout(about = "") {
   return [trimmed.length > 80 ? `${trimmed.slice(0, 80)}…` : trimmed];
 }
 
-function toDoctor(raw) {
+function parseDoctorBio(about = "", title = "") {
+  const text = (about || "").replace(/\r\n/g, "\n").trim();
+  if (!text) return { title: title || "", experiences: [], specialtiesText: [] };
+
+  const rawParts = text
+    .split(/(?<=[。！？\n])\s*/)
+    .map((s) => s.trim())
+    .filter(Boolean);
+  const experiences = [];
+  const specialtiesText = [];
+
+  rawParts.forEach((part) => {
+    const isExplicitSpecialty = /專長|擅長|專精|主治症狀|主治疾病|主治項目/.test(part);
+    const isExplicitExp =
+      /^(?:現任|曾任|經歷|學歷|榮獲)/.test(part) ||
+      (!isExplicitSpecialty && /(?:院長|主任|教授|博士|醫師|學系|畢業|研究員|受訓)/.test(part));
+
+    if (isExplicitExp && !isExplicitSpecialty) {
+      experiences.push(part);
+    } else if (
+      isExplicitSpecialty ||
+      /治療|手術|疾患|病變|症狀|內科|外科|透析|移植|感染|疼痛/.test(part)
+    ) {
+      specialtiesText.push(part);
+    } else {
+      if (experiences.length === 0) experiences.push(part);
+      else specialtiesText.push(part);
+    }
+  });
+
+  return {
+    title: title || "",
+    experiences,
+    specialtiesText,
+  };
+}
+
+function toDoctor(raw, department) {
+  const parsed = parseDoctorBio(raw.doctAbout, raw.doctTitle);
   return {
     id: raw.doctNo,
     name: chineseName(raw.doctName),
+    title: raw.doctTitle || "",
     avatar: raw.avatarLink || "/assets/doctors/a.svg",
     specialties: specialtiesFromAbout(raw.doctAbout),
+    experiences: parsed.experiences,
+    specialtiesText: parsed.specialtiesText,
+    rawAbout: raw.doctAbout || "",
+    deptId: department?.deptId || "",
+    deptName: department?.deptName || "",
     appointUrl: raw.firstAppointmentUrl,
   };
 }
@@ -157,26 +201,57 @@ function buildConfig(departments) {
     const byId = new Map();
     selectedDepartments.forEach((department) => {
       department.doctorList.forEach((rawDoctor) => {
-        if (!byId.has(rawDoctor.doctNo)) byId.set(rawDoctor.doctNo, toDoctor(rawDoctor));
+        if (!byId.has(rawDoctor.doctNo)) {
+          byId.set(rawDoctor.doctNo, toDoctor(rawDoctor, department));
+        }
       });
     });
     return [...byId.values()];
   }
 
   function symptomsFromDepartments(organId, selectedDepartments) {
-    const labels = [];
-    const seen = new Set();
+    const items = [];
+    const map = new Map();
     selectedDepartments.forEach((department) => {
       splitPhrases(department.deptAbout).forEach((label) => {
-        if (!seen.has(label)) {
-          seen.add(label);
-          labels.push(label);
+        if (!map.has(label)) {
+          const item = {
+            label,
+            deptId: department.deptId,
+            deptName: department.deptName,
+            deptIds: [department.deptId],
+            deptNames: [department.deptName],
+          };
+          map.set(label, item);
+          items.push(item);
+        } else {
+          const existing = map.get(label);
+          if (!existing.deptIds.includes(department.deptId)) {
+            existing.deptIds.push(department.deptId);
+            existing.deptNames.push(department.deptName);
+          }
         }
       });
     });
-    return (labels.length ? labels : ["一般看診"]).map((label, index) => ({
+    return (
+      items.length
+        ? items
+        : [
+            {
+              label: "一般看診",
+              deptId: selectedDepartments[0]?.deptId || "",
+              deptName: selectedDepartments[0]?.deptName || "",
+              deptIds: [selectedDepartments[0]?.deptId || ""],
+              deptNames: [selectedDepartments[0]?.deptName || ""],
+            },
+          ]
+    ).map((item, index) => ({
       id: `${organId}-s${index}`,
-      label,
+      label: item.label,
+      deptId: item.deptId,
+      deptName: item.deptName,
+      deptIds: item.deptIds,
+      deptNames: item.deptNames,
     }));
   }
 
