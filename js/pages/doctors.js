@@ -69,31 +69,60 @@ loadConfig()
         .filter(Boolean),
     );
 
-    const CHOU_SYMPTOMS = new Set([
+    const CHOU_KEYWORDS = [
+      "腹膜透析",
+      "不住院也能開始腹膜透析",
+      "提昇生活品質",
+      "慢性腎病保健及治療",
+      "慢性腎病",
+      "慢性腎臟病",
+      "糖尿病",
       "糖尿病腎病",
+      "糖尿病腎病變",
+      "多囊腎",
+      "高效能血液透析",
+      "血液透析",
+      "血液淨化",
+      "血液淨化治療高血脂及免疫疾病",
+      "中醫合作治療腎臟病",
+      "腎臟病",
+      "腎病",
+      "尿路感染",
+      "泌尿道感染",
+      "電解質問題",
+      "電解質異常",
+      "電解質",
+      "毒物",
+      "毒物檢測",
+      "腎炎",
+      "罕見疾病",
       "高血壓腎病",
       "高血脂",
-      "腎炎",
-      "電解質異常",
-      "泌尿道感染",
+      "高血脂症",
       "腎性貧血",
       "腎骨病變",
-      "毒物檢測",
       "下背痛",
-      "血液透析",
-      "腹膜透析",
+      "腰痛",
       "慢性病整合照護",
       "腹膜透析植管",
       "尿蛋白",
+      "蛋白尿",
       "血尿",
       "水腫",
-      "慢性腎病",
-      "腰痛",
-    ]);
+      "腎結石",
+      "腎臟機能異常",
+      "腎絲球腎炎",
+      "免疫疾病",
+    ];
 
-    const matchesChouSymptom = selectedSymptoms.some((s) =>
-      CHOU_SYMPTOMS.has(s.label),
-    );
+    const matchesChouSymptom = selectedSymptoms.some((s) => {
+      const label = s.label.trim();
+      return (
+        CHOU_KEYWORDS.some((kw) => label.includes(kw) || kw.includes(label)) ||
+        (s.deptIds && s.deptIds.includes("7")) ||
+        s.deptId === "7"
+      );
+    });
 
     function scoreDoctor(doctor) {
       let score = 0;
