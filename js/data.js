@@ -112,9 +112,45 @@ const PARTS = [
 let configPromise;
 
 function splitPhrases(text = "") {
-  return text
-    .replace(/「[^」]*」/g, " ")
-    .split(/[、，,。；;]/)
+  const cleaned = text.replace(/「[^」]*」/g, " ");
+  const delimiters = new Set(["、", "，", ",", "。", "；", ";", "\n", "\r"]);
+  const openBrackets = new Map([
+    ["(", ")"],
+    ["（", "）"],
+    ["[", "]"],
+    ["【", "】"],
+    ["〈", "〉"],
+    ["《", "》"],
+  ]);
+  const closeBrackets = new Set([")", "）", "]", "】", "〉", "》"]);
+
+  const results = [];
+  let current = "";
+  const stack = [];
+
+  for (let i = 0; i < cleaned.length; i++) {
+    const char = cleaned[i];
+
+    if (openBrackets.has(char)) {
+      stack.push(openBrackets.get(char));
+      current += char;
+    } else if (closeBrackets.has(char)) {
+      if (stack.length && stack[stack.length - 1] === char) {
+        stack.pop();
+      }
+      current += char;
+    } else if (delimiters.has(char) && stack.length === 0) {
+      const trimmed = current.trim();
+      if (trimmed) results.push(trimmed);
+      current = "";
+    } else {
+      current += char;
+    }
+  }
+  const lastTrimmed = current.trim();
+  if (lastTrimmed) results.push(lastTrimmed);
+
+  return results
     .map((item) => item.replace(/^\d+\.\s*/, "").trim())
     .filter((item) => item.length > 0 && !/^\d+$/.test(item));
 }
