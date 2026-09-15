@@ -1,4 +1,4 @@
-import { getOrgan, getPart, loadConfig, parseSymptomIds } from "../data.js";
+import { getAllDoctors, getOrgan, getPart, loadConfig, parseSymptomIds } from "../data.js";
 import { getQuery, go, initializePage, showError } from "../nav.js";
 import { doctorMarkup } from "../ui.js";
 
@@ -18,7 +18,8 @@ let displayedDoctors = [];
 function selectedDoctor() {
   return (
     displayedDoctors.find((doctor) => doctor.id === selectedDoctorId) ||
-    organ?.doctors.find((doctor) => doctor.id === selectedDoctorId)
+    organ?.doctors.find((doctor) => doctor.id === selectedDoctorId) ||
+    getAllDoctors().find((doctor) => doctor.id === selectedDoctorId)
   );
 }
 
@@ -145,31 +146,36 @@ loadConfig()
       return score;
     }
 
-    const scored = organ.doctors.map((doctor, index) => ({
+    const allDoctors = getAllDoctors();
+    const doctorPool = allDoctors.length > 0 ? allDoctors : organ.doctors;
+
+    const scored = doctorPool.map((doctor, index) => ({
       doctor,
       score: scoreDoctor(doctor),
       index,
     }));
 
-    let candidates = scored;
-    if (matchedDeptIds.size > 0) {
-      const matched = scored.filter(
-        (item) =>
-          item.score > 0 ||
-          matchedDeptIds.has(item.doctor.deptId) ||
-          (matchesChouSymptom && item.doctor.name.includes("周哲毅")),
-      );
-      if (matched.length > 0) {
-        candidates = matched;
-      }
+    let candidates = scored.filter((item) => item.score > 0);
+    if (candidates.length === 0) {
+      candidates = organ.doctors.map((doctor, index) => ({
+        doctor,
+        score: scoreDoctor(doctor),
+        index,
+      }));
     }
 
     candidates.sort((a, b) => b.score - a.score || a.index - b.index);
     displayedDoctors = candidates.map((item) => item.doctor);
 
     selectedDoctorId = displayedDoctors[0]?.id ?? "";
-    const categoryTitle = matchedDeptNames.length
-      ? matchedDeptNames.join("、")
+    const displayDeptNames = [
+      ...new Set([
+        ...matchedDeptNames,
+        ...displayedDoctors.slice(0, 3).map((d) => d.deptName).filter(Boolean),
+      ]),
+    ];
+    const categoryTitle = displayDeptNames.length
+      ? displayDeptNames.join("、")
       : organ.category;
     title.textContent = `推薦醫師（${categoryTitle}）`;
 

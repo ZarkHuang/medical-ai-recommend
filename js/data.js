@@ -110,6 +110,7 @@ const PARTS = [
 ];
 
 let configPromise;
+let allDoctorsCache = [];
 
 function splitPhrases(text = "") {
   const cleaned = text.replace(/「[^」]*」/g, " ");
@@ -223,6 +224,7 @@ function toDoctor(raw, department) {
 }
 
 function buildConfig(departments) {
+  allDoctorsCache = uniqueDoctors(departments);
   const departmentById = new Map(departments.map((dept) => [dept.deptId, dept]));
 
   function resolveDepartments(ids) {
@@ -329,4 +331,8 @@ export function getPart(bodyParts, partId) {
 
 export function getOrgan(bodyParts, partId, organId) {
   return getPart(bodyParts, partId)?.organs.find((organ) => organ.id === organId);
+}
+
+export function getAllDoctors() {
+  return allDoctorsCache;
 }
